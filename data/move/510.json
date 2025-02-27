@@ -1,0 +1,1710 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Destroys the target's held berry."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient une Baie, elle est\nbrûlée et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks the target with fire.\nIf the target is holding a Berry, the\nBerry becomes burnt up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks the target with fire.\nIf the target is holding a Berry, the\nBerry becomes burnt up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きのみなどを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt das Ziel eine Beere\noder ein ähnliches Item bei sich, wird dieses\nvon den Flammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes.\nSi estos llevan bayas u otros objetos, estos se\nquemarán y ya no se podrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きのみなどを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きの などを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt das Ziel eine Beere\noder ein ähnliches Item bei sich, wird dieses\nvon den Flammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes. \nSi estos llevan bayas u otros objetos, estos se\nquemarán y ya no se podrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きの などを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きのみなどを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻擊對手。\n能夠燒掉對手攜帶的樹果等道具，\n讓對手無法使用。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt das Ziel eine Beere oder\nein ähnliches Item bei sich, wird dieses von den\nFlammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes. \nSi estos llevan bayas u otros objetos, estos se\nquemarán y ya no se podrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きのみなどを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻击对手。\n对手携带树果等时，\n会烧掉，使其不能使用。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きのみなどを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻擊對手。\n能夠燒掉對手攜帶的樹果等道具，\n讓對手無法使用。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt das Ziel eine Beere oder\nein ähnliches Item bei sich, wird dieses von den\nFlammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes.\nSi estos llevan bayas o ciertos objetos, se quemarán\ny ya no se podrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きのみなどを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻击对手。\n对手携带树果等时，\n会烧掉，使其不能使用。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きのみなどを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻擊對手。\n能夠燒掉對手攜帶的樹果等道具，\n讓對手無法使用。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt das Ziel eine Beere oder\nein ähnliches Item bei sich, wird dieses von den\nFlammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes.\nSi estos llevan bayas o ciertos objetos, se quemarán\ny ya no se podrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きのみなどを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻击对手。\n对手携带树果等时，\n会烧掉，使其不能使用。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "ほのおで　あいてを　こうげきする。\nあいてが　きのみなどを　もっている　とき\nもやして　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "불꽃으로 상대를 공격한다.\n상대가 나무열매 등을 지니고 있을 때\n불태워서 쓸 수 없게 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻擊對手。\n能夠燒掉對手攜帶的樹果等道具，\n讓對手無法使用。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient un objet, une Baie par exemple, celui-ci\nest brûlé et devient inutilisable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Eine Feuer-Attacke. Trägt ein gegnerisches Pokémon\neine Beere oder ein ähnliches Item bei sich, wird dieses\nvon den Flammen verzehrt und geht verloren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean a los objetivos adyacentes. Si estos\nllevan bayas o ciertos objetos, se quemarán y ya no se\npodrán usar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distruggerà le bacche o alcuni tipi di\nstrumenti che i Pokémon hanno con sé.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "炎で　相手を　攻撃する。\n相手が　きのみなどを　持っているとき\n燃やして　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用火焰攻击对手。\n对手携带树果等时，\n会烧掉，使其不能使用。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 510,
+  "learned_by_pokemon": [
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "/pokemon/39/"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "/pokemon/40/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "geodude",
+      "url": "/pokemon/74/"
+    },
+    {
+      "name": "graveler",
+      "url": "/pokemon/75/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "ponyta",
+      "url": "/pokemon/77/"
+    },
+    {
+      "name": "rapidash",
+      "url": "/pokemon/78/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "koffing",
+      "url": "/pokemon/109/"
+    },
+    {
+      "name": "weezing",
+      "url": "/pokemon/110/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "dratini",
+      "url": "/pokemon/147/"
+    },
+    {
+      "name": "dragonair",
+      "url": "/pokemon/148/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "quilava",
+      "url": "/pokemon/156/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "cleffa",
+      "url": "/pokemon/173/"
+    },
+    {
+      "name": "igglybuff",
+      "url": "/pokemon/174/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "slugma",
+      "url": "/pokemon/218/"
+    },
+    {
+      "name": "magcargo",
+      "url": "/pokemon/219/"
+    },
+    {
+      "name": "remoraid",
+      "url": "/pokemon/223/"
+    },
+    {
+      "name": "octillery",
+      "url": "/pokemon/224/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "magby",
+      "url": "/pokemon/240/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "slakoth",
+      "url": "/pokemon/287/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "whismur",
+      "url": "/pokemon/293/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "torkoal",
+      "url": "/pokemon/324/"
+    },
+    {
+      "name": "flygon",
+      "url": "/pokemon/330/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "castform",
+      "url": "/pokemon/351/"
+    },
+    {
+      "name": "kecleon",
+      "url": "/pokemon/352/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "chimchar",
+      "url": "/pokemon/390/"
+    },
+    {
+      "name": "monferno",
+      "url": "/pokemon/391/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "honchkrow",
+      "url": "/pokemon/430/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "happiny",
+      "url": "/pokemon/440/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "munchlax",
+      "url": "/pokemon/446/"
+    },
+    {
+      "name": "lickilicky",
+      "url": "/pokemon/463/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "azelf",
+      "url": "/pokemon/482/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "pansear",
+      "url": "/pokemon/513/"
+    },
+    {
+      "name": "simisear",
+      "url": "/pokemon/514/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "darumaka",
+      "url": "/pokemon/554/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "litwick",
+      "url": "/pokemon/607/"
+    },
+    {
+      "name": "lampent",
+      "url": "/pokemon/608/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "vullaby",
+      "url": "/pokemon/629/"
+    },
+    {
+      "name": "mandibuzz",
+      "url": "/pokemon/630/"
+    },
+    {
+      "name": "heatmor",
+      "url": "/pokemon/631/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "litleo",
+      "url": "/pokemon/667/"
+    },
+    {
+      "name": "pyroar",
+      "url": "/pokemon/668/"
+    },
+    {
+      "name": "goodra",
+      "url": "/pokemon/706/"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "/pokemon/710/"
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "/pokemon/711/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "rolycoly",
+      "url": "/pokemon/837/"
+    },
+    {
+      "name": "carkol",
+      "url": "/pokemon/838/"
+    },
+    {
+      "name": "coalossal",
+      "url": "/pokemon/839/"
+    },
+    {
+      "name": "fuecoco",
+      "url": "/pokemon/909/"
+    },
+    {
+      "name": "crocalor",
+      "url": "/pokemon/910/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "charcadet",
+      "url": "/pokemon/935/"
+    },
+    {
+      "name": "armarouge",
+      "url": "/pokemon/936/"
+    },
+    {
+      "name": "ceruledge",
+      "url": "/pokemon/937/"
+    },
+    {
+      "name": "chi-yu",
+      "url": "/pokemon/1004/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "castform-sunny",
+      "url": "/pokemon/10013/"
+    },
+    {
+      "name": "castform-rainy",
+      "url": "/pokemon/10014/"
+    },
+    {
+      "name": "castform-snowy",
+      "url": "/pokemon/10015/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "url": "/pokemon/10027/"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "url": "/pokemon/10028/"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "url": "/pokemon/10029/"
+    },
+    {
+      "name": "gourgeist-small",
+      "url": "/pokemon/10030/"
+    },
+    {
+      "name": "gourgeist-large",
+      "url": "/pokemon/10031/"
+    },
+    {
+      "name": "gourgeist-super",
+      "url": "/pokemon/10032/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "kangaskhan-mega",
+      "url": "/pokemon/10039/"
+    },
+    {
+      "name": "gyarados-mega",
+      "url": "/pokemon/10041/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "url": "/pokemon/10043/"
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "url": "/pokemon/10044/"
+    },
+    {
+      "name": "houndoom-mega",
+      "url": "/pokemon/10048/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "aggron-mega",
+      "url": "/pokemon/10053/"
+    },
+    {
+      "name": "absol-mega",
+      "url": "/pokemon/10057/"
+    },
+    {
+      "name": "garchomp-mega",
+      "url": "/pokemon/10058/"
+    },
+    {
+      "name": "sableye-mega",
+      "url": "/pokemon/10066/"
+    },
+    {
+      "name": "altaria-mega",
+      "url": "/pokemon/10067/"
+    },
+    {
+      "name": "audino-mega",
+      "url": "/pokemon/10069/"
+    },
+    {
+      "name": "slowbro-mega",
+      "url": "/pokemon/10071/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "camerupt-mega",
+      "url": "/pokemon/10087/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "darumaka-galar",
+      "url": "/pokemon/10176/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1093/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1094/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1095/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1096/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "incinerate",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "やきつくす"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "불태우기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "燒盡"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Calcination"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Einäschern"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Calcinación"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Bruciatutto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Incinerate"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "やきつくす"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "烧尽"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": 30,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": 60,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "all-opponents",
+    "url": "/move-target/11/"
+  },
+  "type": {
+    "name": "fire",
+    "url": "/type/10/"
+  }
+}

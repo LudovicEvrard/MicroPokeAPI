@@ -1,0 +1,863 @@
+{
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Die Attacken mit Kontakt von Pokémon mit dieser Fähigkeit haben mit jedem Schlag eine 30% Chance das Ziel zu vergiften.\n\nDas zählt als Zusatzeffekt im Sinne von shield dust. Diese Fähigkeit löst vor mummy aus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "short_effect": "30% Chance, den Gegner bei Kontakt zu vergiften."
+    },
+    {
+      "effect": "This Pokémon's contact moves have a 30% chance of poisoning the target with each hit.\n\nThis counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Has a 30% chance of poisoning target Pokémon upon contact."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Peut empoisonner l’ennemi\npar simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "May poison targets when a\nPokémon makes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "May poison targets when a\nPokémon makes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "さわるだけで　あいてを\nどくにすることがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par\nsimple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch\nbloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con\nsolo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Può avvelenare il nemico al solo\ncontatto fisico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the\nPokémon makes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "触るだけで　相手を\nどくにすることがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "さわるだけで　あいてを\nどくにすることがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par\nsimple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch\nbloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con\nsolo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Può avvelenare il nemico al solo\ncontatto fisico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the\nPokémon makes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "触るだけで　相手を\nどくにすることがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "さわる　だけで　あいてを\nどく　じょうたいに　することがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "有時僅是接觸\n就能讓對手中毒。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch bloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con solo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Può avvelenare il nemico al solo contatto.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the Pokémon\nmakes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "触る　だけで　相手を\nどく　状態に　することがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "只通过接触就有可能\n让对手变为中毒状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "さわる　だけで　あいてを\nどく　じょうたいに　することがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "有時僅是接觸\n就能讓對手中毒。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch bloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con solo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Può avvelenare il nemico al solo contatto.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the Pokémon\nmakes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "触る　だけで　相手を\nどく　状態に　することがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "只通过接触就有可能\n让对手变为中毒状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "さわる　だけで　あいてを\nどく　じょうたいに　することがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "有時僅是接觸\n就能讓對手中毒。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch bloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con solo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Può avvelenare il nemico al solo contatto.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the Pokémon\nmakes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "触る　だけで　相手を\nどく　状態に　することがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "只通过接触就有可能\n让对手变为中毒状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "さわる　だけで　あいてを\nどく　じょうたいに　することがある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "접촉하기만 해도 상대를\n독 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "有時僅是接觸\n就能讓對手中毒。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Kann das Ziel durch bloßes Berühren vergiften.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Puede envenenar al objetivo con solo tocarlo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Il Pokémon può avvelenare il nemico al solo contatto.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the Pokémon\nmakes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "触る　だけで　相手を\nどく　状態に　することがある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "只通过接触就有可能\n让对手变为中毒状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Peut empoisonner l’ennemi par simple contact.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "flavor_text": "May poison a target when the Pokémon makes contact.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 143,
+  "is_main_series": true,
+  "name": "poison-touch",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "どくしゅ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "독수"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "毒手"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Toxitouche"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Giftgriff"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Toque Tóxico"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Velentocco"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Poison Touch"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "どくしゅ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "毒手"
+    }
+  ],
+  "pokemon": [
+    {
+      "is_hidden": true,
+      "pokemon": {
+        "name": "grimer",
+        "url": "/pokemon/88/"
+      },
+      "slot": 3
+    },
+    {
+      "is_hidden": true,
+      "pokemon": {
+        "name": "muk",
+        "url": "/pokemon/89/"
+      },
+      "slot": 3
+    },
+    {
+      "is_hidden": true,
+      "pokemon": {
+        "name": "croagunk",
+        "url": "/pokemon/453/"
+      },
+      "slot": 3
+    },
+    {
+      "is_hidden": true,
+      "pokemon": {
+        "name": "toxicroak",
+        "url": "/pokemon/454/"
+      },
+      "slot": 3
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "seismitoad",
+        "url": "/pokemon/537/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "skrelp",
+        "url": "/pokemon/690/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "dragalge",
+        "url": "/pokemon/691/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": true,
+      "pokemon": {
+        "name": "sneasler",
+        "url": "/pokemon/903/"
+      },
+      "slot": 3
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "grafaiai",
+        "url": "/pokemon/945/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "grimer-alola",
+        "url": "/pokemon/10112/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "muk-alola",
+        "url": "/pokemon/10113/"
+      },
+      "slot": 1
+    }
+  ]
+}

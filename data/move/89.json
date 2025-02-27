@@ -1,0 +1,2652 @@
+{
+  "accuracy": 100,
+  "contest_combos": {
+    "normal": {
+      "use_after": null,
+      "use_before": [
+        {
+          "name": "fissure",
+          "url": "/move/90/"
+        },
+        {
+          "name": "eruption",
+          "url": "/move/284/"
+        }
+      ]
+    },
+    "super": {
+      "use_after": null,
+      "use_before": null
+    }
+  },
+  "contest_effect": {
+    "url": "/contest-effect/5/"
+  },
+  "contest_type": {
+    "name": "tough",
+    "url": "/contest-type/5/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [
+    {
+      "effect_entries": [
+        {
+          "effect": "Does not hit Pokémon under the effects of dig.",
+          "language": {
+            "name": "en",
+            "url": "/language/9/"
+          }
+        }
+      ],
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    }
+  ],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Inflicts regular damage and can hit Dig users."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Tough but useless\nvs. flying foes.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Tough but useless\nvs. flying foes.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "A powerful quake, but has\nno effect on flying foes.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "A powerful quake, but has\nno effect on flying foes.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement\nde terre touchant tous les Pokémon\nautour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that\nstrikes those around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that\nstrikes those around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das die anderen Pokémon\nin der Nähe des Anwenders trifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a los Pokémon de\nalrededor en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das die anderen Pokémon\nin der Nähe des Anwenders trifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a los Pokémon de alrededor \nen combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用地震的衝擊，\n攻擊自己周圍所有的寶可夢。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das die anderen Pokémon in\nder Nähe des Anwenders trifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a los Pokémon de alrededor \nen combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "利用地震的冲击，\n攻击自己周围所有的宝可梦。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用地震的衝擊，\n攻擊自己周圍所有的寶可夢。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das die anderen Pokémon in\nder Nähe des Anwenders trifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a los Pokémon de alrededor \nen combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "利用地震的冲击，\n攻击自己周围所有的宝可梦。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用地震的衝擊，\n攻擊自己周圍所有的寶可夢。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das die anderen Pokémon in\nder Nähe des Anwenders trifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a los Pokémon de alrededor \nen combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "利用地震的冲击，\n攻击自己周围所有的宝可梦。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "じしんの　しょうげきで　じぶんの\nまわりに　いるものを　こうげきする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "지진의 충격으로 자신의\n주위에 있는 포켓몬을 공격한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用地震的衝擊，\n攻擊自己周圍所有的寶可夢。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pokémon autour de lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ein mächtiges Beben, das alle Pokémon im Umkreis\ntrifft.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Un terremoto que afecta a todos los Pokémon que\nestén a su alrededor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa provoca un potente sisma che colpisce\ni Pokémon che ha intorno.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user sets off an earthquake that strikes every\nPokémon around it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "地震の　衝撃で　自分の\n周りに　いるものを　攻撃する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "利用地震的冲击，\n攻击自己周围所有的宝可梦。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 89,
+  "learned_by_pokemon": [
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "sandshrew",
+      "url": "/pokemon/27/"
+    },
+    {
+      "name": "sandslash",
+      "url": "/pokemon/28/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "diglett",
+      "url": "/pokemon/50/"
+    },
+    {
+      "name": "dugtrio",
+      "url": "/pokemon/51/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "primeape",
+      "url": "/pokemon/57/"
+    },
+    {
+      "name": "poliwhirl",
+      "url": "/pokemon/61/"
+    },
+    {
+      "name": "poliwrath",
+      "url": "/pokemon/62/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "geodude",
+      "url": "/pokemon/74/"
+    },
+    {
+      "name": "graveler",
+      "url": "/pokemon/75/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "onix",
+      "url": "/pokemon/95/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "hitmonlee",
+      "url": "/pokemon/106/"
+    },
+    {
+      "name": "hitmonchan",
+      "url": "/pokemon/107/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "pinsir",
+      "url": "/pokemon/127/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "meganium",
+      "url": "/pokemon/154/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "sudowoodo",
+      "url": "/pokemon/185/"
+    },
+    {
+      "name": "politoed",
+      "url": "/pokemon/186/"
+    },
+    {
+      "name": "wooper",
+      "url": "/pokemon/194/"
+    },
+    {
+      "name": "quagsire",
+      "url": "/pokemon/195/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "pineco",
+      "url": "/pokemon/204/"
+    },
+    {
+      "name": "forretress",
+      "url": "/pokemon/205/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "shuckle",
+      "url": "/pokemon/213/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "slugma",
+      "url": "/pokemon/218/"
+    },
+    {
+      "name": "magcargo",
+      "url": "/pokemon/219/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "corsola",
+      "url": "/pokemon/222/"
+    },
+    {
+      "name": "mantine",
+      "url": "/pokemon/226/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "tyrogue",
+      "url": "/pokemon/236/"
+    },
+    {
+      "name": "hitmontop",
+      "url": "/pokemon/237/"
+    },
+    {
+      "name": "miltank",
+      "url": "/pokemon/241/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "larvitar",
+      "url": "/pokemon/246/"
+    },
+    {
+      "name": "pupitar",
+      "url": "/pokemon/247/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "sceptile",
+      "url": "/pokemon/254/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "marshtomp",
+      "url": "/pokemon/259/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "makuhita",
+      "url": "/pokemon/296/"
+    },
+    {
+      "name": "hariyama",
+      "url": "/pokemon/297/"
+    },
+    {
+      "name": "nosepass",
+      "url": "/pokemon/299/"
+    },
+    {
+      "name": "aron",
+      "url": "/pokemon/304/"
+    },
+    {
+      "name": "lairon",
+      "url": "/pokemon/305/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "wailmer",
+      "url": "/pokemon/320/"
+    },
+    {
+      "name": "wailord",
+      "url": "/pokemon/321/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "torkoal",
+      "url": "/pokemon/324/"
+    },
+    {
+      "name": "trapinch",
+      "url": "/pokemon/328/"
+    },
+    {
+      "name": "vibrava",
+      "url": "/pokemon/329/"
+    },
+    {
+      "name": "flygon",
+      "url": "/pokemon/330/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "barboach",
+      "url": "/pokemon/339/"
+    },
+    {
+      "name": "whiscash",
+      "url": "/pokemon/340/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "cradily",
+      "url": "/pokemon/346/"
+    },
+    {
+      "name": "armaldo",
+      "url": "/pokemon/348/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "glalie",
+      "url": "/pokemon/362/"
+    },
+    {
+      "name": "spheal",
+      "url": "/pokemon/363/"
+    },
+    {
+      "name": "sealeo",
+      "url": "/pokemon/364/"
+    },
+    {
+      "name": "walrein",
+      "url": "/pokemon/365/"
+    },
+    {
+      "name": "relicanth",
+      "url": "/pokemon/369/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "regirock",
+      "url": "/pokemon/377/"
+    },
+    {
+      "name": "regice",
+      "url": "/pokemon/378/"
+    },
+    {
+      "name": "registeel",
+      "url": "/pokemon/379/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "kyogre",
+      "url": "/pokemon/382/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "gastrodon",
+      "url": "/pokemon/423/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "bonsly",
+      "url": "/pokemon/438/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "munchlax",
+      "url": "/pokemon/446/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "hippopotas",
+      "url": "/pokemon/449/"
+    },
+    {
+      "name": "hippowdon",
+      "url": "/pokemon/450/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "croagunk",
+      "url": "/pokemon/453/"
+    },
+    {
+      "name": "toxicroak",
+      "url": "/pokemon/454/"
+    },
+    {
+      "name": "mantyke",
+      "url": "/pokemon/458/"
+    },
+    {
+      "name": "abomasnow",
+      "url": "/pokemon/460/"
+    },
+    {
+      "name": "lickilicky",
+      "url": "/pokemon/463/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "tangrowth",
+      "url": "/pokemon/465/"
+    },
+    {
+      "name": "electivire",
+      "url": "/pokemon/466/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "probopass",
+      "url": "/pokemon/476/"
+    },
+    {
+      "name": "dusknoir",
+      "url": "/pokemon/477/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "regigigas",
+      "url": "/pokemon/486/"
+    },
+    {
+      "name": "giratina-altered",
+      "url": "/pokemon/487/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "roggenrola",
+      "url": "/pokemon/524/"
+    },
+    {
+      "name": "boldore",
+      "url": "/pokemon/525/"
+    },
+    {
+      "name": "gigalith",
+      "url": "/pokemon/526/"
+    },
+    {
+      "name": "drilbur",
+      "url": "/pokemon/529/"
+    },
+    {
+      "name": "excadrill",
+      "url": "/pokemon/530/"
+    },
+    {
+      "name": "conkeldurr",
+      "url": "/pokemon/534/"
+    },
+    {
+      "name": "seismitoad",
+      "url": "/pokemon/537/"
+    },
+    {
+      "name": "throh",
+      "url": "/pokemon/538/"
+    },
+    {
+      "name": "sawk",
+      "url": "/pokemon/539/"
+    },
+    {
+      "name": "scolipede",
+      "url": "/pokemon/545/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "dwebble",
+      "url": "/pokemon/557/"
+    },
+    {
+      "name": "crustle",
+      "url": "/pokemon/558/"
+    },
+    {
+      "name": "tirtouga",
+      "url": "/pokemon/564/"
+    },
+    {
+      "name": "carracosta",
+      "url": "/pokemon/565/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "stunfisk",
+      "url": "/pokemon/618/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "golett",
+      "url": "/pokemon/622/"
+    },
+    {
+      "name": "golurk",
+      "url": "/pokemon/623/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "landorus-incarnate",
+      "url": "/pokemon/645/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "bunnelby",
+      "url": "/pokemon/659/"
+    },
+    {
+      "name": "diggersby",
+      "url": "/pokemon/660/"
+    },
+    {
+      "name": "gogoat",
+      "url": "/pokemon/673/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "binacle",
+      "url": "/pokemon/688/"
+    },
+    {
+      "name": "barbaracle",
+      "url": "/pokemon/689/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "aurorus",
+      "url": "/pokemon/699/"
+    },
+    {
+      "name": "goodra",
+      "url": "/pokemon/706/"
+    },
+    {
+      "name": "trevenant",
+      "url": "/pokemon/709/"
+    },
+    {
+      "name": "avalugg",
+      "url": "/pokemon/713/"
+    },
+    {
+      "name": "zygarde-50",
+      "url": "/pokemon/718/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "crabrawler",
+      "url": "/pokemon/739/"
+    },
+    {
+      "name": "crabominable",
+      "url": "/pokemon/740/"
+    },
+    {
+      "name": "wishiwashi-solo",
+      "url": "/pokemon/746/"
+    },
+    {
+      "name": "mudbray",
+      "url": "/pokemon/749/"
+    },
+    {
+      "name": "mudsdale",
+      "url": "/pokemon/750/"
+    },
+    {
+      "name": "stufful",
+      "url": "/pokemon/759/"
+    },
+    {
+      "name": "bewear",
+      "url": "/pokemon/760/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "passimian",
+      "url": "/pokemon/766/"
+    },
+    {
+      "name": "sandygast",
+      "url": "/pokemon/769/"
+    },
+    {
+      "name": "palossand",
+      "url": "/pokemon/770/"
+    },
+    {
+      "name": "minior-red-meteor",
+      "url": "/pokemon/774/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "drampa",
+      "url": "/pokemon/780/"
+    },
+    {
+      "name": "dhelmise",
+      "url": "/pokemon/781/"
+    },
+    {
+      "name": "jangmo-o",
+      "url": "/pokemon/782/"
+    },
+    {
+      "name": "hakamo-o",
+      "url": "/pokemon/783/"
+    },
+    {
+      "name": "kommo-o",
+      "url": "/pokemon/784/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "buzzwole",
+      "url": "/pokemon/794/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "melmetal",
+      "url": "/pokemon/809/"
+    },
+    {
+      "name": "rillaboom",
+      "url": "/pokemon/812/"
+    },
+    {
+      "name": "greedent",
+      "url": "/pokemon/820/"
+    },
+    {
+      "name": "drednaw",
+      "url": "/pokemon/834/"
+    },
+    {
+      "name": "coalossal",
+      "url": "/pokemon/839/"
+    },
+    {
+      "name": "appletun",
+      "url": "/pokemon/842/"
+    },
+    {
+      "name": "silicobra",
+      "url": "/pokemon/843/"
+    },
+    {
+      "name": "sandaconda",
+      "url": "/pokemon/844/"
+    },
+    {
+      "name": "cursola",
+      "url": "/pokemon/864/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "stonjourner",
+      "url": "/pokemon/874/"
+    },
+    {
+      "name": "cufant",
+      "url": "/pokemon/878/"
+    },
+    {
+      "name": "copperajah",
+      "url": "/pokemon/879/"
+    },
+    {
+      "name": "dracozolt",
+      "url": "/pokemon/880/"
+    },
+    {
+      "name": "dracovish",
+      "url": "/pokemon/882/"
+    },
+    {
+      "name": "regidrago",
+      "url": "/pokemon/895/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "nacli",
+      "url": "/pokemon/932/"
+    },
+    {
+      "name": "naclstack",
+      "url": "/pokemon/933/"
+    },
+    {
+      "name": "garganacl",
+      "url": "/pokemon/934/"
+    },
+    {
+      "name": "orthworm",
+      "url": "/pokemon/968/"
+    },
+    {
+      "name": "cetoddle",
+      "url": "/pokemon/974/"
+    },
+    {
+      "name": "cetitan",
+      "url": "/pokemon/975/"
+    },
+    {
+      "name": "dondozo",
+      "url": "/pokemon/977/"
+    },
+    {
+      "name": "annihilape",
+      "url": "/pokemon/979/"
+    },
+    {
+      "name": "clodsire",
+      "url": "/pokemon/980/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "dudunsparce-two-segment",
+      "url": "/pokemon/982/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "slither-wing",
+      "url": "/pokemon/988/"
+    },
+    {
+      "name": "sandy-shocks",
+      "url": "/pokemon/989/"
+    },
+    {
+      "name": "iron-treads",
+      "url": "/pokemon/990/"
+    },
+    {
+      "name": "iron-hands",
+      "url": "/pokemon/992/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "ting-lu",
+      "url": "/pokemon/1003/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "hydrapple",
+      "url": "/pokemon/1019/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "raging-bolt",
+      "url": "/pokemon/1021/"
+    },
+    {
+      "name": "iron-boulder",
+      "url": "/pokemon/1022/"
+    },
+    {
+      "name": "terapagos",
+      "url": "/pokemon/1024/"
+    },
+    {
+      "name": "wormadam-sandy",
+      "url": "/pokemon/10004/"
+    },
+    {
+      "name": "wormadam-trash",
+      "url": "/pokemon/10005/"
+    },
+    {
+      "name": "giratina-origin",
+      "url": "/pokemon/10007/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "landorus-therian",
+      "url": "/pokemon/10021/"
+    },
+    {
+      "name": "venusaur-mega",
+      "url": "/pokemon/10033/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "blastoise-mega",
+      "url": "/pokemon/10036/"
+    },
+    {
+      "name": "kangaskhan-mega",
+      "url": "/pokemon/10039/"
+    },
+    {
+      "name": "pinsir-mega",
+      "url": "/pokemon/10040/"
+    },
+    {
+      "name": "gyarados-mega",
+      "url": "/pokemon/10041/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "url": "/pokemon/10043/"
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "url": "/pokemon/10044/"
+    },
+    {
+      "name": "heracross-mega",
+      "url": "/pokemon/10047/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "aggron-mega",
+      "url": "/pokemon/10053/"
+    },
+    {
+      "name": "garchomp-mega",
+      "url": "/pokemon/10058/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "abomasnow-mega",
+      "url": "/pokemon/10060/"
+    },
+    {
+      "name": "latias-mega",
+      "url": "/pokemon/10062/"
+    },
+    {
+      "name": "latios-mega",
+      "url": "/pokemon/10063/"
+    },
+    {
+      "name": "swampert-mega",
+      "url": "/pokemon/10064/"
+    },
+    {
+      "name": "sceptile-mega",
+      "url": "/pokemon/10065/"
+    },
+    {
+      "name": "altaria-mega",
+      "url": "/pokemon/10067/"
+    },
+    {
+      "name": "gallade-mega",
+      "url": "/pokemon/10068/"
+    },
+    {
+      "name": "sharpedo-mega",
+      "url": "/pokemon/10070/"
+    },
+    {
+      "name": "slowbro-mega",
+      "url": "/pokemon/10071/"
+    },
+    {
+      "name": "steelix-mega",
+      "url": "/pokemon/10072/"
+    },
+    {
+      "name": "glalie-mega",
+      "url": "/pokemon/10074/"
+    },
+    {
+      "name": "metagross-mega",
+      "url": "/pokemon/10076/"
+    },
+    {
+      "name": "kyogre-primal",
+      "url": "/pokemon/10077/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "camerupt-mega",
+      "url": "/pokemon/10087/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "sandshrew-alola",
+      "url": "/pokemon/10101/"
+    },
+    {
+      "name": "sandslash-alola",
+      "url": "/pokemon/10102/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "dugtrio-alola",
+      "url": "/pokemon/10106/"
+    },
+    {
+      "name": "geodude-alola",
+      "url": "/pokemon/10109/"
+    },
+    {
+      "name": "graveler-alola",
+      "url": "/pokemon/10110/"
+    },
+    {
+      "name": "golem-alola",
+      "url": "/pokemon/10111/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "zygarde-10-power-construct",
+      "url": "/pokemon/10118/"
+    },
+    {
+      "name": "zygarde-50-power-construct",
+      "url": "/pokemon/10119/"
+    },
+    {
+      "name": "zygarde-complete",
+      "url": "/pokemon/10120/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "wishiwashi-school",
+      "url": "/pokemon/10127/"
+    },
+    {
+      "name": "minior-orange-meteor",
+      "url": "/pokemon/10130/"
+    },
+    {
+      "name": "minior-yellow-meteor",
+      "url": "/pokemon/10131/"
+    },
+    {
+      "name": "minior-green-meteor",
+      "url": "/pokemon/10132/"
+    },
+    {
+      "name": "minior-blue-meteor",
+      "url": "/pokemon/10133/"
+    },
+    {
+      "name": "minior-indigo-meteor",
+      "url": "/pokemon/10134/"
+    },
+    {
+      "name": "minior-violet-meteor",
+      "url": "/pokemon/10135/"
+    },
+    {
+      "name": "minior-red",
+      "url": "/pokemon/10136/"
+    },
+    {
+      "name": "minior-orange",
+      "url": "/pokemon/10137/"
+    },
+    {
+      "name": "minior-yellow",
+      "url": "/pokemon/10138/"
+    },
+    {
+      "name": "minior-green",
+      "url": "/pokemon/10139/"
+    },
+    {
+      "name": "minior-blue",
+      "url": "/pokemon/10140/"
+    },
+    {
+      "name": "minior-indigo",
+      "url": "/pokemon/10141/"
+    },
+    {
+      "name": "minior-violet",
+      "url": "/pokemon/10142/"
+    },
+    {
+      "name": "kommo-o-totem",
+      "url": "/pokemon/10146/"
+    },
+    {
+      "name": "marowak-totem",
+      "url": "/pokemon/10149/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "necrozma-ultra",
+      "url": "/pokemon/10157/"
+    },
+    {
+      "name": "slowpoke-galar",
+      "url": "/pokemon/10164/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "corsola-galar",
+      "url": "/pokemon/10173/"
+    },
+    {
+      "name": "darmanitan-galar-standard",
+      "url": "/pokemon/10177/"
+    },
+    {
+      "name": "darmanitan-galar-zen",
+      "url": "/pokemon/10178/"
+    },
+    {
+      "name": "yamask-galar",
+      "url": "/pokemon/10179/"
+    },
+    {
+      "name": "stunfisk-galar",
+      "url": "/pokemon/10180/"
+    },
+    {
+      "name": "zygarde-10",
+      "url": "/pokemon/10181/"
+    },
+    {
+      "name": "typhlosion-hisui",
+      "url": "/pokemon/10233/"
+    },
+    {
+      "name": "goodra-hisui",
+      "url": "/pokemon/10242/"
+    },
+    {
+      "name": "avalugg-hisui",
+      "url": "/pokemon/10243/"
+    },
+    {
+      "name": "dialga-origin",
+      "url": "/pokemon/10245/"
+    },
+    {
+      "name": "palkia-origin",
+      "url": "/pokemon/10246/"
+    },
+    {
+      "name": "tauros-paldea-combat-breed",
+      "url": "/pokemon/10250/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "wooper-paldea",
+      "url": "/pokemon/10253/"
+    },
+    {
+      "name": "dudunsparce-three-segment",
+      "url": "/pokemon/10255/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    },
+    {
+      "name": "terapagos-terastal",
+      "url": "/pokemon/10276/"
+    },
+    {
+      "name": "terapagos-stellar",
+      "url": "/pokemon/10277/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/502/"
+      },
+      "version_group": {
+        "name": "red-blue",
+        "url": "/version-group/1/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/503/"
+      },
+      "version_group": {
+        "name": "yellow",
+        "url": "/version-group/2/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/504/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/505/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/506/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/507/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/508/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/509/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/510/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/511/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/512/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/513/"
+      },
+      "version_group": {
+        "name": "colosseum",
+        "url": "/version-group/12/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/514/"
+      },
+      "version_group": {
+        "name": "xd",
+        "url": "/version-group/13/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/515/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/516/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/517/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/518/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/519/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/820/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1599/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1854/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/2044/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "earthquake",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "じしん"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "지진"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "地震"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Séisme"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Erdbeben"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Terremoto"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Terremoto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Earthquake"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "じしん"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "地震"
+    }
+  ],
+  "past_values": [],
+  "power": 100,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/18/"
+  },
+  "target": {
+    "name": "all-other-pokemon",
+    "url": "/move-target/9/"
+  },
+  "type": {
+    "name": "ground",
+    "url": "/type/5/"
+  }
+}

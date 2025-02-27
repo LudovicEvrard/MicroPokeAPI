@@ -1,0 +1,77 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [],
+  "generation": {
+    "name": "generation-ix",
+    "url": "/generation/9/"
+  },
+  "id": 904,
+  "learned_by_pokemon": [
+    {
+      "name": "ogerpon",
+      "url": "/pokemon/1017/"
+    },
+    {
+      "name": "ogerpon-wellspring-mask",
+      "url": "/pokemon/10273/"
+    },
+    {
+      "name": "ogerpon-hearthflame-mask",
+      "url": "/pokemon/10274/"
+    },
+    {
+      "name": "ogerpon-cornerstone-mask",
+      "url": "/pokemon/10275/"
+    }
+  ],
+  "machines": [],
+  "meta": null,
+  "name": "ivy-cudgel",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ツタこんぼう"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Ivy Cudgel"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ツタこんぼう"
+    }
+  ],
+  "past_values": [],
+  "power": 100,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "grass",
+    "url": "/type/12/"
+  }
+}

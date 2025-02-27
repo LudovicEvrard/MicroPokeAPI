@@ -1,0 +1,1031 @@
+{
+    "count": 256,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "stench",
+            "url": "/ability/1/"
+        },
+        {
+            "name": "drizzle",
+            "url": "/ability/2/"
+        },
+        {
+            "name": "speed-boost",
+            "url": "/ability/3/"
+        },
+        {
+            "name": "battle-armor",
+            "url": "/ability/4/"
+        },
+        {
+            "name": "sturdy",
+            "url": "/ability/5/"
+        },
+        {
+            "name": "damp",
+            "url": "/ability/6/"
+        },
+        {
+            "name": "limber",
+            "url": "/ability/7/"
+        },
+        {
+            "name": "sand-veil",
+            "url": "/ability/8/"
+        },
+        {
+            "name": "static",
+            "url": "/ability/9/"
+        },
+        {
+            "name": "volt-absorb",
+            "url": "/ability/10/"
+        },
+        {
+            "name": "water-absorb",
+            "url": "/ability/11/"
+        },
+        {
+            "name": "oblivious",
+            "url": "/ability/12/"
+        },
+        {
+            "name": "cloud-nine",
+            "url": "/ability/13/"
+        },
+        {
+            "name": "compound-eyes",
+            "url": "/ability/14/"
+        },
+        {
+            "name": "insomnia",
+            "url": "/ability/15/"
+        },
+        {
+            "name": "color-change",
+            "url": "/ability/16/"
+        },
+        {
+            "name": "immunity",
+            "url": "/ability/17/"
+        },
+        {
+            "name": "flash-fire",
+            "url": "/ability/18/"
+        },
+        {
+            "name": "shield-dust",
+            "url": "/ability/19/"
+        },
+        {
+            "name": "own-tempo",
+            "url": "/ability/20/"
+        },
+        {
+            "name": "suction-cups",
+            "url": "/ability/21/"
+        },
+        {
+            "name": "intimidate",
+            "url": "/ability/22/"
+        },
+        {
+            "name": "shadow-tag",
+            "url": "/ability/23/"
+        },
+        {
+            "name": "rough-skin",
+            "url": "/ability/24/"
+        },
+        {
+            "name": "wonder-guard",
+            "url": "/ability/25/"
+        },
+        {
+            "name": "levitate",
+            "url": "/ability/26/"
+        },
+        {
+            "name": "effect-spore",
+            "url": "/ability/27/"
+        },
+        {
+            "name": "synchronize",
+            "url": "/ability/28/"
+        },
+        {
+            "name": "clear-body",
+            "url": "/ability/29/"
+        },
+        {
+            "name": "natural-cure",
+            "url": "/ability/30/"
+        },
+        {
+            "name": "lightning-rod",
+            "url": "/ability/31/"
+        },
+        {
+            "name": "serene-grace",
+            "url": "/ability/32/"
+        },
+        {
+            "name": "swift-swim",
+            "url": "/ability/33/"
+        },
+        {
+            "name": "chlorophyll",
+            "url": "/ability/34/"
+        },
+        {
+            "name": "illuminate",
+            "url": "/ability/35/"
+        },
+        {
+            "name": "trace",
+            "url": "/ability/36/"
+        },
+        {
+            "name": "huge-power",
+            "url": "/ability/37/"
+        },
+        {
+            "name": "poison-point",
+            "url": "/ability/38/"
+        },
+        {
+            "name": "inner-focus",
+            "url": "/ability/39/"
+        },
+        {
+            "name": "magma-armor",
+            "url": "/ability/40/"
+        },
+        {
+            "name": "water-veil",
+            "url": "/ability/41/"
+        },
+        {
+            "name": "magnet-pull",
+            "url": "/ability/42/"
+        },
+        {
+            "name": "soundproof",
+            "url": "/ability/43/"
+        },
+        {
+            "name": "rain-dish",
+            "url": "/ability/44/"
+        },
+        {
+            "name": "sand-stream",
+            "url": "/ability/45/"
+        },
+        {
+            "name": "pressure",
+            "url": "/ability/46/"
+        },
+        {
+            "name": "thick-fat",
+            "url": "/ability/47/"
+        },
+        {
+            "name": "early-bird",
+            "url": "/ability/48/"
+        },
+        {
+            "name": "flame-body",
+            "url": "/ability/49/"
+        },
+        {
+            "name": "run-away",
+            "url": "/ability/50/"
+        },
+        {
+            "name": "keen-eye",
+            "url": "/ability/51/"
+        },
+        {
+            "name": "hyper-cutter",
+            "url": "/ability/52/"
+        },
+        {
+            "name": "pickup",
+            "url": "/ability/53/"
+        },
+        {
+            "name": "truant",
+            "url": "/ability/54/"
+        },
+        {
+            "name": "hustle",
+            "url": "/ability/55/"
+        },
+        {
+            "name": "cute-charm",
+            "url": "/ability/56/"
+        },
+        {
+            "name": "plus",
+            "url": "/ability/57/"
+        },
+        {
+            "name": "minus",
+            "url": "/ability/58/"
+        },
+        {
+            "name": "forecast",
+            "url": "/ability/59/"
+        },
+        {
+            "name": "sticky-hold",
+            "url": "/ability/60/"
+        },
+        {
+            "name": "shed-skin",
+            "url": "/ability/61/"
+        },
+        {
+            "name": "guts",
+            "url": "/ability/62/"
+        },
+        {
+            "name": "marvel-scale",
+            "url": "/ability/63/"
+        },
+        {
+            "name": "liquid-ooze",
+            "url": "/ability/64/"
+        },
+        {
+            "name": "overgrow",
+            "url": "/ability/65/"
+        },
+        {
+            "name": "blaze",
+            "url": "/ability/66/"
+        },
+        {
+            "name": "torrent",
+            "url": "/ability/67/"
+        },
+        {
+            "name": "swarm",
+            "url": "/ability/68/"
+        },
+        {
+            "name": "rock-head",
+            "url": "/ability/69/"
+        },
+        {
+            "name": "drought",
+            "url": "/ability/70/"
+        },
+        {
+            "name": "arena-trap",
+            "url": "/ability/71/"
+        },
+        {
+            "name": "vital-spirit",
+            "url": "/ability/72/"
+        },
+        {
+            "name": "white-smoke",
+            "url": "/ability/73/"
+        },
+        {
+            "name": "pure-power",
+            "url": "/ability/74/"
+        },
+        {
+            "name": "shell-armor",
+            "url": "/ability/75/"
+        },
+        {
+            "name": "air-lock",
+            "url": "/ability/76/"
+        },
+        {
+            "name": "tangled-feet",
+            "url": "/ability/77/"
+        },
+        {
+            "name": "motor-drive",
+            "url": "/ability/78/"
+        },
+        {
+            "name": "rivalry",
+            "url": "/ability/79/"
+        },
+        {
+            "name": "steadfast",
+            "url": "/ability/80/"
+        },
+        {
+            "name": "snow-cloak",
+            "url": "/ability/81/"
+        },
+        {
+            "name": "gluttony",
+            "url": "/ability/82/"
+        },
+        {
+            "name": "anger-point",
+            "url": "/ability/83/"
+        },
+        {
+            "name": "unburden",
+            "url": "/ability/84/"
+        },
+        {
+            "name": "heatproof",
+            "url": "/ability/85/"
+        },
+        {
+            "name": "simple",
+            "url": "/ability/86/"
+        },
+        {
+            "name": "dry-skin",
+            "url": "/ability/87/"
+        },
+        {
+            "name": "download",
+            "url": "/ability/88/"
+        },
+        {
+            "name": "iron-fist",
+            "url": "/ability/89/"
+        },
+        {
+            "name": "poison-heal",
+            "url": "/ability/90/"
+        },
+        {
+            "name": "adaptability",
+            "url": "/ability/91/"
+        },
+        {
+            "name": "skill-link",
+            "url": "/ability/92/"
+        },
+        {
+            "name": "hydration",
+            "url": "/ability/93/"
+        },
+        {
+            "name": "solar-power",
+            "url": "/ability/94/"
+        },
+        {
+            "name": "quick-feet",
+            "url": "/ability/95/"
+        },
+        {
+            "name": "normalize",
+            "url": "/ability/96/"
+        },
+        {
+            "name": "sniper",
+            "url": "/ability/97/"
+        },
+        {
+            "name": "magic-guard",
+            "url": "/ability/98/"
+        },
+        {
+            "name": "no-guard",
+            "url": "/ability/99/"
+        },
+        {
+            "name": "stall",
+            "url": "/ability/100/"
+        },
+        {
+            "name": "technician",
+            "url": "/ability/101/"
+        },
+        {
+            "name": "leaf-guard",
+            "url": "/ability/102/"
+        },
+        {
+            "name": "klutz",
+            "url": "/ability/103/"
+        },
+        {
+            "name": "mold-breaker",
+            "url": "/ability/104/"
+        },
+        {
+            "name": "super-luck",
+            "url": "/ability/105/"
+        },
+        {
+            "name": "aftermath",
+            "url": "/ability/106/"
+        },
+        {
+            "name": "anticipation",
+            "url": "/ability/107/"
+        },
+        {
+            "name": "forewarn",
+            "url": "/ability/108/"
+        },
+        {
+            "name": "unaware",
+            "url": "/ability/109/"
+        },
+        {
+            "name": "tinted-lens",
+            "url": "/ability/110/"
+        },
+        {
+            "name": "filter",
+            "url": "/ability/111/"
+        },
+        {
+            "name": "slow-start",
+            "url": "/ability/112/"
+        },
+        {
+            "name": "scrappy",
+            "url": "/ability/113/"
+        },
+        {
+            "name": "storm-drain",
+            "url": "/ability/114/"
+        },
+        {
+            "name": "ice-body",
+            "url": "/ability/115/"
+        },
+        {
+            "name": "solid-rock",
+            "url": "/ability/116/"
+        },
+        {
+            "name": "snow-warning",
+            "url": "/ability/117/"
+        },
+        {
+            "name": "honey-gather",
+            "url": "/ability/118/"
+        },
+        {
+            "name": "frisk",
+            "url": "/ability/119/"
+        },
+        {
+            "name": "reckless",
+            "url": "/ability/120/"
+        },
+        {
+            "name": "multitype",
+            "url": "/ability/121/"
+        },
+        {
+            "name": "flower-gift",
+            "url": "/ability/122/"
+        },
+        {
+            "name": "bad-dreams",
+            "url": "/ability/123/"
+        },
+        {
+            "name": "pickpocket",
+            "url": "/ability/124/"
+        },
+        {
+            "name": "sheer-force",
+            "url": "/ability/125/"
+        },
+        {
+            "name": "contrary",
+            "url": "/ability/126/"
+        },
+        {
+            "name": "unnerve",
+            "url": "/ability/127/"
+        },
+        {
+            "name": "defiant",
+            "url": "/ability/128/"
+        },
+        {
+            "name": "defeatist",
+            "url": "/ability/129/"
+        },
+        {
+            "name": "cursed-body",
+            "url": "/ability/130/"
+        },
+        {
+            "name": "healer",
+            "url": "/ability/131/"
+        },
+        {
+            "name": "friend-guard",
+            "url": "/ability/132/"
+        },
+        {
+            "name": "weak-armor",
+            "url": "/ability/133/"
+        },
+        {
+            "name": "heavy-metal",
+            "url": "/ability/134/"
+        },
+        {
+            "name": "light-metal",
+            "url": "/ability/135/"
+        },
+        {
+            "name": "multiscale",
+            "url": "/ability/136/"
+        },
+        {
+            "name": "toxic-boost",
+            "url": "/ability/137/"
+        },
+        {
+            "name": "flare-boost",
+            "url": "/ability/138/"
+        },
+        {
+            "name": "harvest",
+            "url": "/ability/139/"
+        },
+        {
+            "name": "telepathy",
+            "url": "/ability/140/"
+        },
+        {
+            "name": "moody",
+            "url": "/ability/141/"
+        },
+        {
+            "name": "overcoat",
+            "url": "/ability/142/"
+        },
+        {
+            "name": "poison-touch",
+            "url": "/ability/143/"
+        },
+        {
+            "name": "regenerator",
+            "url": "/ability/144/"
+        },
+        {
+            "name": "big-pecks",
+            "url": "/ability/145/"
+        },
+        {
+            "name": "sand-rush",
+            "url": "/ability/146/"
+        },
+        {
+            "name": "wonder-skin",
+            "url": "/ability/147/"
+        },
+        {
+            "name": "analytic",
+            "url": "/ability/148/"
+        },
+        {
+            "name": "illusion",
+            "url": "/ability/149/"
+        },
+        {
+            "name": "imposter",
+            "url": "/ability/150/"
+        },
+        {
+            "name": "infiltrator",
+            "url": "/ability/151/"
+        },
+        {
+            "name": "mummy",
+            "url": "/ability/152/"
+        },
+        {
+            "name": "moxie",
+            "url": "/ability/153/"
+        },
+        {
+            "name": "justified",
+            "url": "/ability/154/"
+        },
+        {
+            "name": "rattled",
+            "url": "/ability/155/"
+        },
+        {
+            "name": "magic-bounce",
+            "url": "/ability/156/"
+        },
+        {
+            "name": "sap-sipper",
+            "url": "/ability/157/"
+        },
+        {
+            "name": "prankster",
+            "url": "/ability/158/"
+        },
+        {
+            "name": "sand-force",
+            "url": "/ability/159/"
+        },
+        {
+            "name": "iron-barbs",
+            "url": "/ability/160/"
+        },
+        {
+            "name": "zen-mode",
+            "url": "/ability/161/"
+        },
+        {
+            "name": "victory-star",
+            "url": "/ability/162/"
+        },
+        {
+            "name": "turboblaze",
+            "url": "/ability/163/"
+        },
+        {
+            "name": "teravolt",
+            "url": "/ability/164/"
+        },
+        {
+            "name": "aroma-veil",
+            "url": "/ability/165/"
+        },
+        {
+            "name": "flower-veil",
+            "url": "/ability/166/"
+        },
+        {
+            "name": "cheek-pouch",
+            "url": "/ability/167/"
+        },
+        {
+            "name": "protean",
+            "url": "/ability/168/"
+        },
+        {
+            "name": "fur-coat",
+            "url": "/ability/169/"
+        },
+        {
+            "name": "magician",
+            "url": "/ability/170/"
+        },
+        {
+            "name": "bulletproof",
+            "url": "/ability/171/"
+        },
+        {
+            "name": "competitive",
+            "url": "/ability/172/"
+        },
+        {
+            "name": "strong-jaw",
+            "url": "/ability/173/"
+        },
+        {
+            "name": "refrigerate",
+            "url": "/ability/174/"
+        },
+        {
+            "name": "sweet-veil",
+            "url": "/ability/175/"
+        },
+        {
+            "name": "stance-change",
+            "url": "/ability/176/"
+        },
+        {
+            "name": "gale-wings",
+            "url": "/ability/177/"
+        },
+        {
+            "name": "mega-launcher",
+            "url": "/ability/178/"
+        },
+        {
+            "name": "grass-pelt",
+            "url": "/ability/179/"
+        },
+        {
+            "name": "symbiosis",
+            "url": "/ability/180/"
+        },
+        {
+            "name": "tough-claws",
+            "url": "/ability/181/"
+        },
+        {
+            "name": "pixilate",
+            "url": "/ability/182/"
+        },
+        {
+            "name": "gooey",
+            "url": "/ability/183/"
+        },
+        {
+            "name": "aerilate",
+            "url": "/ability/184/"
+        },
+        {
+            "name": "parental-bond",
+            "url": "/ability/185/"
+        },
+        {
+            "name": "dark-aura",
+            "url": "/ability/186/"
+        },
+        {
+            "name": "fairy-aura",
+            "url": "/ability/187/"
+        },
+        {
+            "name": "aura-break",
+            "url": "/ability/188/"
+        },
+        {
+            "name": "primordial-sea",
+            "url": "/ability/189/"
+        },
+        {
+            "name": "desolate-land",
+            "url": "/ability/190/"
+        },
+        {
+            "name": "delta-stream",
+            "url": "/ability/191/"
+        },
+        {
+            "name": "stamina",
+            "url": "/ability/192/"
+        },
+        {
+            "name": "wimp-out",
+            "url": "/ability/193/"
+        },
+        {
+            "name": "emergency-exit",
+            "url": "/ability/194/"
+        },
+        {
+            "name": "water-compaction",
+            "url": "/ability/195/"
+        },
+        {
+            "name": "merciless",
+            "url": "/ability/196/"
+        },
+        {
+            "name": "shields-down",
+            "url": "/ability/197/"
+        },
+        {
+            "name": "stakeout",
+            "url": "/ability/198/"
+        },
+        {
+            "name": "water-bubble",
+            "url": "/ability/199/"
+        },
+        {
+            "name": "steelworker",
+            "url": "/ability/200/"
+        },
+        {
+            "name": "berserk",
+            "url": "/ability/201/"
+        },
+        {
+            "name": "slush-rush",
+            "url": "/ability/202/"
+        },
+        {
+            "name": "long-reach",
+            "url": "/ability/203/"
+        },
+        {
+            "name": "liquid-voice",
+            "url": "/ability/204/"
+        },
+        {
+            "name": "triage",
+            "url": "/ability/205/"
+        },
+        {
+            "name": "galvanize",
+            "url": "/ability/206/"
+        },
+        {
+            "name": "surge-surfer",
+            "url": "/ability/207/"
+        },
+        {
+            "name": "schooling",
+            "url": "/ability/208/"
+        },
+        {
+            "name": "disguise",
+            "url": "/ability/209/"
+        },
+        {
+            "name": "battle-bond",
+            "url": "/ability/210/"
+        },
+        {
+            "name": "power-construct",
+            "url": "/ability/211/"
+        },
+        {
+            "name": "corrosion",
+            "url": "/ability/212/"
+        },
+        {
+            "name": "comatose",
+            "url": "/ability/213/"
+        },
+        {
+            "name": "queenly-majesty",
+            "url": "/ability/214/"
+        },
+        {
+            "name": "innards-out",
+            "url": "/ability/215/"
+        },
+        {
+            "name": "dancer",
+            "url": "/ability/216/"
+        },
+        {
+            "name": "battery",
+            "url": "/ability/217/"
+        },
+        {
+            "name": "fluffy",
+            "url": "/ability/218/"
+        },
+        {
+            "name": "dazzling",
+            "url": "/ability/219/"
+        },
+        {
+            "name": "soul-heart",
+            "url": "/ability/220/"
+        },
+        {
+            "name": "tangling-hair",
+            "url": "/ability/221/"
+        },
+        {
+            "name": "receiver",
+            "url": "/ability/222/"
+        },
+        {
+            "name": "power-of-alchemy",
+            "url": "/ability/223/"
+        },
+        {
+            "name": "beast-boost",
+            "url": "/ability/224/"
+        },
+        {
+            "name": "rks-system",
+            "url": "/ability/225/"
+        },
+        {
+            "name": "electric-surge",
+            "url": "/ability/226/"
+        },
+        {
+            "name": "psychic-surge",
+            "url": "/ability/227/"
+        },
+        {
+            "name": "misty-surge",
+            "url": "/ability/228/"
+        },
+        {
+            "name": "grassy-surge",
+            "url": "/ability/229/"
+        },
+        {
+            "name": "full-metal-body",
+            "url": "/ability/230/"
+        },
+        {
+            "name": "shadow-shield",
+            "url": "/ability/231/"
+        },
+        {
+            "name": "prism-armor",
+            "url": "/ability/232/"
+        },
+        {
+            "name": "neuroforce",
+            "url": "/ability/233/"
+        },
+        {
+            "name": "intrepid-sword",
+            "url": "/ability/234/"
+        },
+        {
+            "name": "dauntless-shield",
+            "url": "/ability/235/"
+        },
+        {
+            "name": "libero",
+            "url": "/ability/236/"
+        },
+        {
+            "name": "ball-fetch",
+            "url": "/ability/237/"
+        },
+        {
+            "name": "cotton-down",
+            "url": "/ability/238/"
+        },
+        {
+            "name": "propeller-tail",
+            "url": "/ability/239/"
+        },
+        {
+            "name": "mirror-armor",
+            "url": "/ability/240/"
+        },
+        {
+            "name": "gulp-missile",
+            "url": "/ability/241/"
+        },
+        {
+            "name": "stalwart",
+            "url": "/ability/242/"
+        },
+        {
+            "name": "steam-engine",
+            "url": "/ability/243/"
+        },
+        {
+            "name": "punk-rock",
+            "url": "/ability/244/"
+        },
+        {
+            "name": "sand-spit",
+            "url": "/ability/245/"
+        },
+        {
+            "name": "ice-scales",
+            "url": "/ability/246/"
+        },
+        {
+            "name": "ripen",
+            "url": "/ability/247/"
+        },
+        {
+            "name": "ice-face",
+            "url": "/ability/248/"
+        },
+        {
+            "name": "power-spot",
+            "url": "/ability/249/"
+        },
+        {
+            "name": "mimicry",
+            "url": "/ability/250/"
+        },
+        {
+            "name": "screen-cleaner",
+            "url": "/ability/251/"
+        },
+        {
+            "name": "steely-spirit",
+            "url": "/ability/252/"
+        },
+        {
+            "name": "perish-body",
+            "url": "/ability/253/"
+        },
+        {
+            "name": "wandering-spirit",
+            "url": "/ability/254/"
+        },
+        {
+            "name": "gorilla-tactics",
+            "url": "/ability/255/"
+        },
+        {
+            "name": "neutralizing-gas",
+            "url": "/ability/256/"
+        }
+    ]
+}

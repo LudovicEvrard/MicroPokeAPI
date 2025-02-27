@@ -1,0 +1,846 @@
+{
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Die Bissattacken von Pokémon mit dieser Fähigkeit sind 1,5× so stark wie sonst. Zu Bissattacken zählen auch crunch und \"Zahn\"-Attacken.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "short_effect": "Verstärkt Bissattacken um 50%."
+    },
+    {
+      "effect": "Strengthens biting moves to 1.5× their power.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Strengthens biting moves to 1.5× their power."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　ちからが　つよい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 힘이 강하다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Grâce à une puissante mâchoire,\nles morsures sont plus fortes.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon\nverleiht ihm einen starken Biss.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere\nuna potente mordedura.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon\npermette morsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw gives\nit tremendous biting power.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\nかむ　力が　強い。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　ちからが　つよい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 힘이 강하다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Grâce à une puissante mâchoire,\nles morsures sont plus fortes.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon\nverleiht ihm einen starken Biss.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere\nuna potente mordedura.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon  \npermette morsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw gives\nit tremendous biting power.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\nかむ　力が　強い。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　わざの　いりょくが\nたかくなる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 기술의 위력이\n올라간다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "顎部強壯，\n會提高啃咬類招式的威力。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le Pokémon a une mâchoire robuste qui augmente\nla puissance de ses capacités à base de morsures.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon erhöht die Stärke\nvon Biss-Attacken.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere una mordedura\npotente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon permette\nmorsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw boosts the power of its\nbiting moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\n噛む　技の　威力が\n高くなる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "因为颚部强壮，\n啃咬类招式的威力会提高。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　わざの　いりょくが\nたかくなる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 기술의 위력이\n올라간다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "顎部強壯，\n會提高啃咬類招式的威力。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le Pokémon a une mâchoire robuste qui augmente\nla puissance de ses capacités à base de morsures.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon erhöht die Stärke\nvon Biss-Attacken.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere una mordedura\npotente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon permette\nmorsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw boosts the power of its\nbiting moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\n噛む　技の　威力が\n高くなる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "因为颚部强壮，\n啃咬类招式的威力会提高。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　わざの　いりょくが\nたかくなる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 기술의 위력이\n올라간다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "顎部強壯，\n會提高啃咬類招式的威力。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le Pokémon a une mâchoire robuste qui augmente\nla puissance de ses capacités à base de morsures.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon erhöht die Stärke\nvon Biss-Attacken.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere una mordedura\npotente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon permette\nmorsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw boosts the power of its\nbiting moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\n噛む　技の　威力が\n高くなる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "因为颚部强壮，\n啃咬类招式的威力会提高。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あごが　がんじょうで\nかむ　わざの　いりょくが\nたかくなる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "턱이 튼튼하여\n무는 기술의 위력이\n올라간다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "顎部強壯，\n會提高啃咬類招式的威力。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le Pokémon a une mâchoire robuste qui augmente\nla puissance de ses capacités à base de morsures.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Der kräftige Kiefer des Pokémon erhöht die Stärke\nvon Biss-Attacken.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Su robusta mandíbula le confiere una mordedura\npotente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "La robusta mascella del Pokémon permette\nmorsi molto potenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon’s strong jaw boosts the power of its\nbiting moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "あごが　頑丈で\n噛む　技の　威力が\n高くなる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "因为颚部强壮，\n啃咬类招式的威力会提高。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le Pokémon a une mâchoire robuste qui augmente\\nla puissance de ses capacités de morsure.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "flavor_text": "The Pokémon's strong jaw boosts the power of its biting moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-vi",
+    "url": "/generation/6/"
+  },
+  "id": 173,
+  "is_main_series": true,
+  "name": "strong-jaw",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "がんじょうあご"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "옹골찬턱"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "強壯之顎"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Prognathe"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Titankiefer"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Mandíbula Fuerte"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Ferromascella"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Strong Jaw"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "がんじょうあご"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "强壮之颚"
+    }
+  ],
+  "pokemon": [
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "tyrunt",
+        "url": "/pokemon/696/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "tyrantrum",
+        "url": "/pokemon/697/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "yungoos",
+        "url": "/pokemon/734/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "gumshoos",
+        "url": "/pokemon/735/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "bruxish",
+        "url": "/pokemon/779/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "chewtle",
+        "url": "/pokemon/833/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "drednaw",
+        "url": "/pokemon/834/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "boltund",
+        "url": "/pokemon/836/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "dracovish",
+        "url": "/pokemon/882/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "sharpedo-mega",
+        "url": "/pokemon/10070/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "gumshoos-totem",
+        "url": "/pokemon/10121/"
+      },
+      "slot": 2
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "drednaw-gmax",
+        "url": "/pokemon/10214/"
+      },
+      "slot": 1
+    },
+    {
+      "is_hidden": false,
+      "pokemon": {
+        "name": "avalugg-hisui",
+        "url": "/pokemon/10243/"
+      },
+      "slot": 1
+    }
+  ]
+}

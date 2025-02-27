@@ -1,0 +1,994 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "For five turns, opposing Pokémon cannot score critical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Prevents the target from scoring critical hits for five turns."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le\nciel pour empêcher l’ennemi d’effectuer\ndes coups critiques.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "てんに　むかって　おいのりを　ささげ\nあいての　こうげきを\nきゅうしょに　あたらなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "하늘을 향해 기도를 올려\n상대의 공격을\n급소에 맞지 않게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le ciel pour\nempêcher l’ennemi d’effectuer des coups critiques.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender singt eine Beschwörungsformel,\ndie Volltreffer gegen ihn verhindert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Lanza al cielo un conjuro que impide al objetivo\nasestar golpes críticos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "天に　むかって　おいのりを　ささげ\n相手の　攻撃を\n急所に　当たらなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "てんに　むかって　おいのりを　ささげ\nあいての　こうげきを\nきゅうしょに　あたらなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "하늘을 향해 기도를 올려\n상대의 공격을\n급소에 맞지 않게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le ciel\net protège l’équipe des coups critiques.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender singt eine Beschwörungsformel,\ndie Volltreffer gegen sein Team verhindert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Lanza al cielo un conjuro que protege a todo su\nequipo de golpes críticos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "天に　むかって　おいのりを　ささげ\n相手の　攻撃を\n急所に　当たらなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "てんに　むかって　おいのりを　ささげ\n５ターンの　あいだ　あいての　こうげきを\nきゅうしょに　あたらなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "하늘을 향해 기도를 올려\n5턴 동안 상대의 공격을\n급소에 맞지 않게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "對天許願，\n讓自己在５回合內不會\n被對手的攻擊命中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le ciel\net protège l’équipe des coups critiques pendant\ncinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender singt eine Beschwörungsformel,\ndie fünf Runden lang Volltreffer gegen sein\nTeam verhindert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Lanza al cielo un conjuro que protege a todo su\nequipo de golpes críticos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "天に　むかって　おいのりを　ささげ\n５ターンの　間　相手の　攻撃を\n急所に　当たらなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "向天许愿，\n从而在５回合内不会\n被对手的攻击打中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "てんに　むかって　おいのりを　ささげ\n５ターンの　あいだ　あいての　こうげきを\nきゅうしょに　あたらなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "하늘을 향해 기도를 올려\n5턴 동안 상대의 공격을\n급소에 맞지 않게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "對天許願，\n讓自己在５回合內不會\n被對手的攻擊命中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le ciel\net protège l’équipe des coups critiques pendant\ncinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender singt eine Beschwörungsformel,\ndie fünf Runden lang Volltreffer gegen sein\nTeam verhindert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Lanza al cielo un conjuro que protege a todo su\nequipo de golpes críticos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "天に　むかって　おいのりを　ささげ\n５ターンの　間　相手の　攻撃を\n急所に　当たらなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "向天许愿，\n从而在５回合内不会\n被对手的攻击打中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "てんに　むかって　おいのりを　ささげ\n５ターンの　あいだ　あいての　こうげきを\nきゅうしょに　あたらなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "하늘을 향해 기도를 올려\n5턴 동안 상대의 공격을\n급소에 맞지 않게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "對天許願，\n讓自己在５回合內不會\n被對手的攻擊命中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur envoie une incantation vers le ciel et protège\nl’équipe des coups critiques pendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender singt eine Beschwörungsformel,\ndie fünf Runden lang Volltreffer gegen sein\nTeam verhindert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Lanza al cielo un conjuro que protege a todo su\nequipo de golpes críticos durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "天に　むかって　おいのりを　ささげ\n５ターンの　間　相手の　攻撃を\n急所に　当たらなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "向天许愿，\n从而在５回合内不会\n被对手的攻击打中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "このわざは　つかえません\nおもいだすことが　できなくなりますが\nわざを　わすれることを　おすすめします",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "사용할 수 없는 기술입니다.\n다시 배우게 할 수 없지만\n기술을 잊게 하는 것을 권장합니다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "無法使用此招式。\n雖然忘記後將無法再想起來，\n但還是建議忘記此招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nicht eingesetzt werden. Du solltest\ndein Pokémon sie vergessen lassen. Beachte aber,\ndass es sich danach nicht wieder an sie erinnern kann.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento no se puede usar, por lo que sería\nmejor olvidarlo, aunque eso implique que no se pueda\nrecordar posteriormente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Questa mossa non può essere usata.\nÈ consigliabile farla dimenticare al Pokémon. Tuttavia,\nuna volta dimenticata, non potrà più essere ricordata.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "この技は　使えません\n思い出すことが　できなくなりますが\n技を　忘れることを　おすすめします",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "无法使用这个招式。\n虽然忘记之后就再也想不起来了，\n但还是建议忘记这个招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 381,
+  "learned_by_pokemon": [
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "oddish",
+      "url": "/pokemon/43/"
+    },
+    {
+      "name": "gloom",
+      "url": "/pokemon/44/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "pichu",
+      "url": "/pokemon/172/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "corsola",
+      "url": "/pokemon/222/"
+    },
+    {
+      "name": "smoochum",
+      "url": "/pokemon/238/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "plusle",
+      "url": "/pokemon/311/"
+    },
+    {
+      "name": "minun",
+      "url": "/pokemon/312/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "castform",
+      "url": "/pokemon/351/"
+    },
+    {
+      "name": "luvdisc",
+      "url": "/pokemon/370/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "cherubi",
+      "url": "/pokemon/420/"
+    },
+    {
+      "name": "cherrim",
+      "url": "/pokemon/421/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "mesprit",
+      "url": "/pokemon/481/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "munna",
+      "url": "/pokemon/517/"
+    },
+    {
+      "name": "musharna",
+      "url": "/pokemon/518/"
+    },
+    {
+      "name": "pidove",
+      "url": "/pokemon/519/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "ducklett",
+      "url": "/pokemon/580/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "flabebe",
+      "url": "/pokemon/669/"
+    },
+    {
+      "name": "floette",
+      "url": "/pokemon/670/"
+    },
+    {
+      "name": "florges",
+      "url": "/pokemon/671/"
+    },
+    {
+      "name": "comfey",
+      "url": "/pokemon/764/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "castform-sunny",
+      "url": "/pokemon/10013/"
+    },
+    {
+      "name": "castform-rainy",
+      "url": "/pokemon/10014/"
+    },
+    {
+      "name": "castform-snowy",
+      "url": "/pokemon/10015/"
+    },
+    {
+      "name": "floette-eternal",
+      "url": "/pokemon/10061/"
+    },
+    {
+      "name": "audino-mega",
+      "url": "/pokemon/10069/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "field-effect",
+      "url": "/move-category/11/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "lucky-chant",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "おまじない"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "주술"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "幸運咒語"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Air Veinard"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Beschwörung"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Conjuro"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Fortuncanto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Lucky Chant"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "おまじない"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "幸运咒语"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 30,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/13/"
+  },
+  "target": {
+    "name": "users-field",
+    "url": "/move-target/4/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

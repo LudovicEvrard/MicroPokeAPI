@@ -1,0 +1,1675 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding full incense, lagging tail, or quick claw and Pokémon with stall ignore this effect.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "For five turns, slower Pokémon will act before faster Pokémon."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où\nles Pokémon les plus lents frappent\nen 1er pendant 5 tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où les Pokémon\nles plus lents frappent en premier pendant cinq\ntours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum,\nin dem langsame Pokémon fünf Runden\nlang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Se crea un espacio extraño en el que los Pokémon\nlentos se mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　あいだ\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où les Pokémon\nles plus lents frappent en premier pendant cinq\ntours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum,\nin dem langsame Pokémon fünf Runden\nlang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Se crea un espacio extraño en el que los Pokémon \nlentos se mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　あいだ\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "創造出非常不可思議的空間。\n在５回合內，\n速度慢的寶可夢可以先行動。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où les Pokémon\nles plus lents frappent en priorité pendant cinq\ntours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum, in dem\nlangsame Pokémon fünf Runden lang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Se crea un espacio extraño en el que los Pokémon \nlentos se mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　間\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "制造出离奇的空间。\n在５回合内\n速度慢的宝可梦可以先行动。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "創造出非常不可思議的空間。\n在５回合內，\n速度慢的寶可夢可以先行動。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où les Pokémon\nles plus lents frappent en priorité pendant cinq\ntours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum, in dem\nlangsame Pokémon fünf Runden lang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Se crea un espacio extraño en el que los Pokémon \nlentos se mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　間\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "制造出离奇的空间。\n在５回合内\n速度慢的宝可梦可以先行动。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "創造出非常不可思議的空間。\n在５回合內，\n速度慢的寶可夢可以先行動。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone étrange où les Pokémon\nles plus lents frappent en priorité pendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum, in dem\nlangsame Pokémon fünf Runden lang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Se crea un espacio extraño en el que los Pokémon \nlentos se mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　間\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "制造出离奇的空间。\n在５回合内\n速度慢的宝可梦可以先行动。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "まかふしぎな　くうかんを　つくる。\n５ターンの　あいだ\nおそい　ポケモンから　こうどう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "이상한 공간을 만든다.\n5턴 동안 느린 포켓몬부터\n행동할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "創造出非常不可思議的空間。\n在５回合內，\n速度慢的寶可夢可以先行動。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur crée une zone mystérieuse où les Pokémon\nles plus lents frappent en priorité pendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender erzeugt einen bizarren Raum, in dem\nlangsame Pokémon fünf Runden lang zuerst agieren.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Crea un espacio extraño en el que los Pokémon lentos\nse mueven primero durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa crea una dimensione in cui i Pokémon\npiù lenti agiscono per primi per cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "まか不思議な　空間を　つくる。\n５ターンの　間\n遅い　ポケモンから　行動できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "制造出离奇的空间。\n在５回合内\n速度慢的宝可梦可以先行动。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 433,
+  "learned_by_pokemon": [
+    {
+      "name": "abra",
+      "url": "/pokemon/63/"
+    },
+    {
+      "name": "kadabra",
+      "url": "/pokemon/64/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "starmie",
+      "url": "/pokemon/121/"
+    },
+    {
+      "name": "mr-mime",
+      "url": "/pokemon/122/"
+    },
+    {
+      "name": "jynx",
+      "url": "/pokemon/124/"
+    },
+    {
+      "name": "porygon",
+      "url": "/pokemon/137/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "porygon2",
+      "url": "/pokemon/233/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "smoochum",
+      "url": "/pokemon/238/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "medicham",
+      "url": "/pokemon/308/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "grumpig",
+      "url": "/pokemon/326/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "kecleon",
+      "url": "/pokemon/352/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "duskull",
+      "url": "/pokemon/355/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "/pokemon/386/"
+    },
+    {
+      "name": "drifloon",
+      "url": "/pokemon/425/"
+    },
+    {
+      "name": "drifblim",
+      "url": "/pokemon/426/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "chingling",
+      "url": "/pokemon/433/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "mime-jr",
+      "url": "/pokemon/439/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "/pokemon/442/"
+    },
+    {
+      "name": "porygon-z",
+      "url": "/pokemon/474/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "dusknoir",
+      "url": "/pokemon/477/"
+    },
+    {
+      "name": "uxie",
+      "url": "/pokemon/480/"
+    },
+    {
+      "name": "mesprit",
+      "url": "/pokemon/481/"
+    },
+    {
+      "name": "azelf",
+      "url": "/pokemon/482/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "cresselia",
+      "url": "/pokemon/488/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "munna",
+      "url": "/pokemon/517/"
+    },
+    {
+      "name": "musharna",
+      "url": "/pokemon/518/"
+    },
+    {
+      "name": "woobat",
+      "url": "/pokemon/527/"
+    },
+    {
+      "name": "swoobat",
+      "url": "/pokemon/528/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "whimsicott",
+      "url": "/pokemon/547/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "yamask",
+      "url": "/pokemon/562/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "gothita",
+      "url": "/pokemon/574/"
+    },
+    {
+      "name": "gothorita",
+      "url": "/pokemon/575/"
+    },
+    {
+      "name": "gothitelle",
+      "url": "/pokemon/576/"
+    },
+    {
+      "name": "solosis",
+      "url": "/pokemon/577/"
+    },
+    {
+      "name": "duosion",
+      "url": "/pokemon/578/"
+    },
+    {
+      "name": "reuniclus",
+      "url": "/pokemon/579/"
+    },
+    {
+      "name": "frillish",
+      "url": "/pokemon/592/"
+    },
+    {
+      "name": "jellicent",
+      "url": "/pokemon/593/"
+    },
+    {
+      "name": "klinklang",
+      "url": "/pokemon/601/"
+    },
+    {
+      "name": "elgyem",
+      "url": "/pokemon/605/"
+    },
+    {
+      "name": "beheeyem",
+      "url": "/pokemon/606/"
+    },
+    {
+      "name": "litwick",
+      "url": "/pokemon/607/"
+    },
+    {
+      "name": "lampent",
+      "url": "/pokemon/608/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "meloetta-aria",
+      "url": "/pokemon/648/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "espurr",
+      "url": "/pokemon/677/"
+    },
+    {
+      "name": "meowstic-male",
+      "url": "/pokemon/678/"
+    },
+    {
+      "name": "spritzee",
+      "url": "/pokemon/682/"
+    },
+    {
+      "name": "aromatisse",
+      "url": "/pokemon/683/"
+    },
+    {
+      "name": "inkay",
+      "url": "/pokemon/686/"
+    },
+    {
+      "name": "malamar",
+      "url": "/pokemon/687/"
+    },
+    {
+      "name": "carbink",
+      "url": "/pokemon/703/"
+    },
+    {
+      "name": "klefki",
+      "url": "/pokemon/707/"
+    },
+    {
+      "name": "phantump",
+      "url": "/pokemon/708/"
+    },
+    {
+      "name": "trevenant",
+      "url": "/pokemon/709/"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "/pokemon/710/"
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "/pokemon/711/"
+    },
+    {
+      "name": "diancie",
+      "url": "/pokemon/719/"
+    },
+    {
+      "name": "hoopa",
+      "url": "/pokemon/720/"
+    },
+    {
+      "name": "comfey",
+      "url": "/pokemon/764/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "lunala",
+      "url": "/pokemon/792/"
+    },
+    {
+      "name": "nihilego",
+      "url": "/pokemon/793/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "dottler",
+      "url": "/pokemon/825/"
+    },
+    {
+      "name": "orbeetle",
+      "url": "/pokemon/826/"
+    },
+    {
+      "name": "sinistea",
+      "url": "/pokemon/854/"
+    },
+    {
+      "name": "polteageist",
+      "url": "/pokemon/855/"
+    },
+    {
+      "name": "hatenna",
+      "url": "/pokemon/856/"
+    },
+    {
+      "name": "hattrem",
+      "url": "/pokemon/857/"
+    },
+    {
+      "name": "hatterene",
+      "url": "/pokemon/858/"
+    },
+    {
+      "name": "mr-rime",
+      "url": "/pokemon/866/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "indeedee-male",
+      "url": "/pokemon/876/"
+    },
+    {
+      "name": "calyrex",
+      "url": "/pokemon/898/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "meowscarada",
+      "url": "/pokemon/908/"
+    },
+    {
+      "name": "armarouge",
+      "url": "/pokemon/936/"
+    },
+    {
+      "name": "toedscool",
+      "url": "/pokemon/948/"
+    },
+    {
+      "name": "toedscruel",
+      "url": "/pokemon/949/"
+    },
+    {
+      "name": "rabsca",
+      "url": "/pokemon/954/"
+    },
+    {
+      "name": "flittle",
+      "url": "/pokemon/955/"
+    },
+    {
+      "name": "espathra",
+      "url": "/pokemon/956/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "flutter-mane",
+      "url": "/pokemon/987/"
+    },
+    {
+      "name": "iron-valiant",
+      "url": "/pokemon/1006/"
+    },
+    {
+      "name": "poltchageist",
+      "url": "/pokemon/1012/"
+    },
+    {
+      "name": "sinistcha",
+      "url": "/pokemon/1013/"
+    },
+    {
+      "name": "deoxys-attack",
+      "url": "/pokemon/10001/"
+    },
+    {
+      "name": "deoxys-defense",
+      "url": "/pokemon/10002/"
+    },
+    {
+      "name": "deoxys-speed",
+      "url": "/pokemon/10003/"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "url": "/pokemon/10018/"
+    },
+    {
+      "name": "meowstic-female",
+      "url": "/pokemon/10025/"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "url": "/pokemon/10027/"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "url": "/pokemon/10028/"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "url": "/pokemon/10029/"
+    },
+    {
+      "name": "gourgeist-small",
+      "url": "/pokemon/10030/"
+    },
+    {
+      "name": "gourgeist-large",
+      "url": "/pokemon/10031/"
+    },
+    {
+      "name": "gourgeist-super",
+      "url": "/pokemon/10032/"
+    },
+    {
+      "name": "alakazam-mega",
+      "url": "/pokemon/10037/"
+    },
+    {
+      "name": "gengar-mega",
+      "url": "/pokemon/10038/"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "url": "/pokemon/10043/"
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "url": "/pokemon/10044/"
+    },
+    {
+      "name": "gardevoir-mega",
+      "url": "/pokemon/10051/"
+    },
+    {
+      "name": "banette-mega",
+      "url": "/pokemon/10056/"
+    },
+    {
+      "name": "gallade-mega",
+      "url": "/pokemon/10068/"
+    },
+    {
+      "name": "audino-mega",
+      "url": "/pokemon/10069/"
+    },
+    {
+      "name": "slowbro-mega",
+      "url": "/pokemon/10071/"
+    },
+    {
+      "name": "diancie-mega",
+      "url": "/pokemon/10075/"
+    },
+    {
+      "name": "hoopa-unbound",
+      "url": "/pokemon/10086/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "url": "/pokemon/10144/"
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "url": "/pokemon/10145/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "necrozma-ultra",
+      "url": "/pokemon/10157/"
+    },
+    {
+      "name": "rapidash-galar",
+      "url": "/pokemon/10163/"
+    },
+    {
+      "name": "slowpoke-galar",
+      "url": "/pokemon/10164/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "mr-mime-galar",
+      "url": "/pokemon/10168/"
+    },
+    {
+      "name": "articuno-galar",
+      "url": "/pokemon/10169/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "yamask-galar",
+      "url": "/pokemon/10179/"
+    },
+    {
+      "name": "indeedee-female",
+      "url": "/pokemon/10186/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    },
+    {
+      "name": "dialga-origin",
+      "url": "/pokemon/10245/"
+    },
+    {
+      "name": "palkia-origin",
+      "url": "/pokemon/10246/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1211/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1422/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1423/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1424/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1425/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1426/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1427/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1428/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1429/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1430/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1866/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/2054/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "whole-field-effect",
+      "url": "/move-category/10/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "trick-room",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "トリックルーム"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "트릭룸"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "戲法空間"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Distorsion"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Bizarroraum"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Espacio Raro"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Distortozona"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Trick Room"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "トリックルーム"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "戏法空间"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 5,
+  "priority": -7,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/14/"
+  },
+  "target": {
+    "name": "entire-field",
+    "url": "/move-target/12/"
+  },
+  "type": {
+    "name": "psychic",
+    "url": "/type/14/"
+  }
+}

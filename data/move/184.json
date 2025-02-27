@@ -1,0 +1,2674 @@
+{
+  "accuracy": 100,
+  "contest_combos": {
+    "normal": {
+      "use_after": [
+        {
+          "name": "leer",
+          "url": "/move/43/"
+        },
+        {
+          "name": "rage",
+          "url": "/move/99/"
+        }
+      ],
+      "use_before": [
+        {
+          "name": "leer",
+          "url": "/move/43/"
+        },
+        {
+          "name": "bite",
+          "url": "/move/44/"
+        },
+        {
+          "name": "super-fang",
+          "url": "/move/162/"
+        },
+        {
+          "name": "crunch",
+          "url": "/move/242/"
+        }
+      ]
+    },
+    "super": {
+      "use_after": null,
+      "use_before": null
+    }
+  },
+  "contest_effect": {
+    "url": "/contest-effect/10/"
+  },
+  "contest_type": {
+    "name": "tough",
+    "url": "/contest-type/5/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Lowers the target's Speed by two stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Lowers the target's Speed by two stages."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Sharply reduces\nthe foe's SPEED.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Sharply reduces\nthe foe's SPEED.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "Frightens with a scary face\nto sharply reduce SPEED.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Frightens with a scary face\nto sharply reduce SPEED.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Frightens the foe\nwith a scary face\nto sharply reduce\nits SPEED.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et\nréduit fortement sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary\nface to harshly reduce its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary\nface to harshly reduce its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にらみ　おびえさせて\nあいての　すばやさを　がくっと　さげる。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et réduit\nfortement sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary\nface to harshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にらみ　おびえさせて\n相手の　素早さを　がくっと　さげる。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にら 　おびえさせて\nあいての　すばやさを　がくっと　さげる。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et réduit\nfortement sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary\nface to harshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にら 　おびえさせて\n相手の　素早さを　がくっと　さげる。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にらみ　おびえさせて\nあいての　すばやさを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪著對手，\n讓對手害怕，\n大幅降低對手的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et réduit\nbeaucoup sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にらみ　おびえさせて\n相手の　素早さを　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的脸瞪着对手，\n使其害怕，\n从而大幅降低对手的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にらみ　おびえさせて\nあいての　すばやさを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪著對手，\n讓對手害怕，\n大幅降低對手的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et réduit\nbeaucoup sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にらみ　おびえさせて\n相手の　素早さを　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的脸瞪着对手，\n使其害怕，\n从而大幅降低对手的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にらみ　おびえさせて\nあいての　すばやさを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪著對手，\n讓對手害怕，\n大幅降低對手的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Une grimace qui effraie l’ennemi et réduit beaucoup\nsa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にらみ　おびえさせて\n相手の　素早さを　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪着对手，\n使其害怕，\n从而大幅降低对手的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "おそろしい　かおで　にらみ　おびえさせて\nあいての　すばやさを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "무서운 얼굴로 노려보고 겁주어\n상대의 스피드를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪著對手，\n讓對手害怕，\n大幅降低對手的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fait une grimace qui effraie l’ennemi\net réduit beaucoup sa Vitesse.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Asusta al objetivo para reducir mucho su Velocidad. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "恐ろしい　顔で　にらみ　おびえさせて\n相手の　素早さを　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用恐怖的表情瞪着对手，\n使其害怕，\n从而大幅降低对手的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-ii",
+    "url": "/generation/2/"
+  },
+  "id": 184,
+  "learned_by_pokemon": [
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "spearow",
+      "url": "/pokemon/21/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "primeape",
+      "url": "/pokemon/57/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "poliwrath",
+      "url": "/pokemon/62/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "victreebel",
+      "url": "/pokemon/71/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "/pokemon/73/"
+    },
+    {
+      "name": "geodude",
+      "url": "/pokemon/74/"
+    },
+    {
+      "name": "graveler",
+      "url": "/pokemon/75/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "cloyster",
+      "url": "/pokemon/91/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "onix",
+      "url": "/pokemon/95/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "electrode",
+      "url": "/pokemon/101/"
+    },
+    {
+      "name": "hitmonlee",
+      "url": "/pokemon/106/"
+    },
+    {
+      "name": "hitmonchan",
+      "url": "/pokemon/107/"
+    },
+    {
+      "name": "koffing",
+      "url": "/pokemon/109/"
+    },
+    {
+      "name": "weezing",
+      "url": "/pokemon/110/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "seadra",
+      "url": "/pokemon/117/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "umbreon",
+      "url": "/pokemon/197/"
+    },
+    {
+      "name": "murkrow",
+      "url": "/pokemon/198/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "kingdra",
+      "url": "/pokemon/230/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "magby",
+      "url": "/pokemon/240/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "larvitar",
+      "url": "/pokemon/246/"
+    },
+    {
+      "name": "pupitar",
+      "url": "/pokemon/247/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "masquerain",
+      "url": "/pokemon/284/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "hariyama",
+      "url": "/pokemon/297/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "manectric",
+      "url": "/pokemon/310/"
+    },
+    {
+      "name": "carvanha",
+      "url": "/pokemon/318/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "whiscash",
+      "url": "/pokemon/340/"
+    },
+    {
+      "name": "crawdaunt",
+      "url": "/pokemon/342/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "glalie",
+      "url": "/pokemon/362/"
+    },
+    {
+      "name": "huntail",
+      "url": "/pokemon/367/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "kyogre",
+      "url": "/pokemon/382/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "/pokemon/386/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "shinx",
+      "url": "/pokemon/403/"
+    },
+    {
+      "name": "luxio",
+      "url": "/pokemon/404/"
+    },
+    {
+      "name": "luxray",
+      "url": "/pokemon/405/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "vespiquen",
+      "url": "/pokemon/416/"
+    },
+    {
+      "name": "floatzel",
+      "url": "/pokemon/419/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "honchkrow",
+      "url": "/pokemon/430/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "/pokemon/442/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "skorupi",
+      "url": "/pokemon/451/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "croagunk",
+      "url": "/pokemon/453/"
+    },
+    {
+      "name": "toxicroak",
+      "url": "/pokemon/454/"
+    },
+    {
+      "name": "abomasnow",
+      "url": "/pokemon/460/"
+    },
+    {
+      "name": "weavile",
+      "url": "/pokemon/461/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "yanmega",
+      "url": "/pokemon/469/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "froslass",
+      "url": "/pokemon/478/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "giratina-altered",
+      "url": "/pokemon/487/"
+    },
+    {
+      "name": "cresselia",
+      "url": "/pokemon/488/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "serperior",
+      "url": "/pokemon/497/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "samurott",
+      "url": "/pokemon/503/"
+    },
+    {
+      "name": "excadrill",
+      "url": "/pokemon/530/"
+    },
+    {
+      "name": "timburr",
+      "url": "/pokemon/532/"
+    },
+    {
+      "name": "gurdurr",
+      "url": "/pokemon/533/"
+    },
+    {
+      "name": "conkeldurr",
+      "url": "/pokemon/534/"
+    },
+    {
+      "name": "throh",
+      "url": "/pokemon/538/"
+    },
+    {
+      "name": "sawk",
+      "url": "/pokemon/539/"
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "/pokemon/550/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "karrablast",
+      "url": "/pokemon/588/"
+    },
+    {
+      "name": "escavalier",
+      "url": "/pokemon/589/"
+    },
+    {
+      "name": "amoonguss",
+      "url": "/pokemon/591/"
+    },
+    {
+      "name": "eelektrik",
+      "url": "/pokemon/603/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "cryogonal",
+      "url": "/pokemon/615/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "rufflet",
+      "url": "/pokemon/627/"
+    },
+    {
+      "name": "braviary",
+      "url": "/pokemon/628/"
+    },
+    {
+      "name": "vullaby",
+      "url": "/pokemon/629/"
+    },
+    {
+      "name": "mandibuzz",
+      "url": "/pokemon/630/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "landorus-incarnate",
+      "url": "/pokemon/645/"
+    },
+    {
+      "name": "kyurem",
+      "url": "/pokemon/646/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "malamar",
+      "url": "/pokemon/687/"
+    },
+    {
+      "name": "skrelp",
+      "url": "/pokemon/690/"
+    },
+    {
+      "name": "dragalge",
+      "url": "/pokemon/691/"
+    },
+    {
+      "name": "clawitzer",
+      "url": "/pokemon/693/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "trevenant",
+      "url": "/pokemon/709/"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "/pokemon/710/"
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "/pokemon/711/"
+    },
+    {
+      "name": "avalugg",
+      "url": "/pokemon/713/"
+    },
+    {
+      "name": "noivern",
+      "url": "/pokemon/715/"
+    },
+    {
+      "name": "hoopa",
+      "url": "/pokemon/720/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "crabominable",
+      "url": "/pokemon/740/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "toxapex",
+      "url": "/pokemon/748/"
+    },
+    {
+      "name": "mudsdale",
+      "url": "/pokemon/750/"
+    },
+    {
+      "name": "araquanid",
+      "url": "/pokemon/752/"
+    },
+    {
+      "name": "lurantis",
+      "url": "/pokemon/754/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "passimian",
+      "url": "/pokemon/766/"
+    },
+    {
+      "name": "sandygast",
+      "url": "/pokemon/769/"
+    },
+    {
+      "name": "palossand",
+      "url": "/pokemon/770/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "jangmo-o",
+      "url": "/pokemon/782/"
+    },
+    {
+      "name": "hakamo-o",
+      "url": "/pokemon/783/"
+    },
+    {
+      "name": "kommo-o",
+      "url": "/pokemon/784/"
+    },
+    {
+      "name": "tapu-bulu",
+      "url": "/pokemon/787/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "lunala",
+      "url": "/pokemon/792/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "zeraora",
+      "url": "/pokemon/807/"
+    },
+    {
+      "name": "thwackey",
+      "url": "/pokemon/811/"
+    },
+    {
+      "name": "rillaboom",
+      "url": "/pokemon/812/"
+    },
+    {
+      "name": "rookidee",
+      "url": "/pokemon/821/"
+    },
+    {
+      "name": "corvisquire",
+      "url": "/pokemon/822/"
+    },
+    {
+      "name": "corviknight",
+      "url": "/pokemon/823/"
+    },
+    {
+      "name": "chewtle",
+      "url": "/pokemon/833/"
+    },
+    {
+      "name": "drednaw",
+      "url": "/pokemon/834/"
+    },
+    {
+      "name": "flapple",
+      "url": "/pokemon/841/"
+    },
+    {
+      "name": "silicobra",
+      "url": "/pokemon/843/"
+    },
+    {
+      "name": "sandaconda",
+      "url": "/pokemon/844/"
+    },
+    {
+      "name": "barraskewda",
+      "url": "/pokemon/847/"
+    },
+    {
+      "name": "toxtricity-amped",
+      "url": "/pokemon/849/"
+    },
+    {
+      "name": "grapploct",
+      "url": "/pokemon/853/"
+    },
+    {
+      "name": "impidimp",
+      "url": "/pokemon/859/"
+    },
+    {
+      "name": "morgrem",
+      "url": "/pokemon/860/"
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "/pokemon/861/"
+    },
+    {
+      "name": "obstagoon",
+      "url": "/pokemon/862/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "morpeko-full-belly",
+      "url": "/pokemon/877/"
+    },
+    {
+      "name": "copperajah",
+      "url": "/pokemon/879/"
+    },
+    {
+      "name": "duraludon",
+      "url": "/pokemon/884/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "eternatus",
+      "url": "/pokemon/890/"
+    },
+    {
+      "name": "kubfu",
+      "url": "/pokemon/891/"
+    },
+    {
+      "name": "urshifu-single-strike",
+      "url": "/pokemon/892/"
+    },
+    {
+      "name": "zarude",
+      "url": "/pokemon/893/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "spectrier",
+      "url": "/pokemon/897/"
+    },
+    {
+      "name": "calyrex",
+      "url": "/pokemon/898/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "kleavor",
+      "url": "/pokemon/900/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "basculegion-male",
+      "url": "/pokemon/902/"
+    },
+    {
+      "name": "overqwil",
+      "url": "/pokemon/904/"
+    },
+    {
+      "name": "enamorus-incarnate",
+      "url": "/pokemon/905/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "spidops",
+      "url": "/pokemon/918/"
+    },
+    {
+      "name": "lokix",
+      "url": "/pokemon/920/"
+    },
+    {
+      "name": "dachsbun",
+      "url": "/pokemon/927/"
+    },
+    {
+      "name": "squawkabilly-green-plumage",
+      "url": "/pokemon/931/"
+    },
+    {
+      "name": "kilowattrel",
+      "url": "/pokemon/941/"
+    },
+    {
+      "name": "maschiff",
+      "url": "/pokemon/942/"
+    },
+    {
+      "name": "mabosstiff",
+      "url": "/pokemon/943/"
+    },
+    {
+      "name": "grafaiai",
+      "url": "/pokemon/945/"
+    },
+    {
+      "name": "bramblin",
+      "url": "/pokemon/946/"
+    },
+    {
+      "name": "brambleghast",
+      "url": "/pokemon/947/"
+    },
+    {
+      "name": "toedscool",
+      "url": "/pokemon/948/"
+    },
+    {
+      "name": "toedscruel",
+      "url": "/pokemon/949/"
+    },
+    {
+      "name": "klawf",
+      "url": "/pokemon/950/"
+    },
+    {
+      "name": "scovillain",
+      "url": "/pokemon/952/"
+    },
+    {
+      "name": "bombirdier",
+      "url": "/pokemon/962/"
+    },
+    {
+      "name": "varoom",
+      "url": "/pokemon/965/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "greavard",
+      "url": "/pokemon/971/"
+    },
+    {
+      "name": "houndstone",
+      "url": "/pokemon/972/"
+    },
+    {
+      "name": "dondozo",
+      "url": "/pokemon/977/"
+    },
+    {
+      "name": "annihilape",
+      "url": "/pokemon/979/"
+    },
+    {
+      "name": "dudunsparce-two-segment",
+      "url": "/pokemon/982/"
+    },
+    {
+      "name": "kingambit",
+      "url": "/pokemon/983/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "brute-bonnet",
+      "url": "/pokemon/986/"
+    },
+    {
+      "name": "iron-treads",
+      "url": "/pokemon/990/"
+    },
+    {
+      "name": "iron-hands",
+      "url": "/pokemon/992/"
+    },
+    {
+      "name": "iron-jugulis",
+      "url": "/pokemon/993/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "arctibax",
+      "url": "/pokemon/997/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "wo-chien",
+      "url": "/pokemon/1001/"
+    },
+    {
+      "name": "chien-pao",
+      "url": "/pokemon/1002/"
+    },
+    {
+      "name": "ting-lu",
+      "url": "/pokemon/1003/"
+    },
+    {
+      "name": "chi-yu",
+      "url": "/pokemon/1004/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "miraidon",
+      "url": "/pokemon/1008/"
+    },
+    {
+      "name": "walking-wake",
+      "url": "/pokemon/1009/"
+    },
+    {
+      "name": "iron-leaves",
+      "url": "/pokemon/1010/"
+    },
+    {
+      "name": "okidogi",
+      "url": "/pokemon/1014/"
+    },
+    {
+      "name": "ogerpon",
+      "url": "/pokemon/1017/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "raging-bolt",
+      "url": "/pokemon/1021/"
+    },
+    {
+      "name": "iron-boulder",
+      "url": "/pokemon/1022/"
+    },
+    {
+      "name": "iron-crown",
+      "url": "/pokemon/1023/"
+    },
+    {
+      "name": "deoxys-attack",
+      "url": "/pokemon/10001/"
+    },
+    {
+      "name": "deoxys-defense",
+      "url": "/pokemon/10002/"
+    },
+    {
+      "name": "deoxys-speed",
+      "url": "/pokemon/10003/"
+    },
+    {
+      "name": "giratina-origin",
+      "url": "/pokemon/10007/"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "url": "/pokemon/10016/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "landorus-therian",
+      "url": "/pokemon/10021/"
+    },
+    {
+      "name": "kyurem-black",
+      "url": "/pokemon/10022/"
+    },
+    {
+      "name": "kyurem-white",
+      "url": "/pokemon/10023/"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "url": "/pokemon/10027/"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "url": "/pokemon/10028/"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "url": "/pokemon/10029/"
+    },
+    {
+      "name": "gourgeist-small",
+      "url": "/pokemon/10030/"
+    },
+    {
+      "name": "gourgeist-large",
+      "url": "/pokemon/10031/"
+    },
+    {
+      "name": "gourgeist-super",
+      "url": "/pokemon/10032/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "gyarados-mega",
+      "url": "/pokemon/10041/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "sharpedo-mega",
+      "url": "/pokemon/10070/"
+    },
+    {
+      "name": "metagross-mega",
+      "url": "/pokemon/10076/"
+    },
+    {
+      "name": "kyogre-primal",
+      "url": "/pokemon/10077/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "hoopa-unbound",
+      "url": "/pokemon/10086/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "dugtrio-alola",
+      "url": "/pokemon/10106/"
+    },
+    {
+      "name": "graveler-alola",
+      "url": "/pokemon/10110/"
+    },
+    {
+      "name": "golem-alola",
+      "url": "/pokemon/10111/"
+    },
+    {
+      "name": "grimer-alola",
+      "url": "/pokemon/10112/"
+    },
+    {
+      "name": "muk-alola",
+      "url": "/pokemon/10113/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "kommo-o-totem",
+      "url": "/pokemon/10146/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "weezing-galar",
+      "url": "/pokemon/10167/"
+    },
+    {
+      "name": "articuno-galar",
+      "url": "/pokemon/10169/"
+    },
+    {
+      "name": "zapdos-galar",
+      "url": "/pokemon/10170/"
+    },
+    {
+      "name": "moltres-galar",
+      "url": "/pokemon/10171/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "zigzagoon-galar",
+      "url": "/pokemon/10174/"
+    },
+    {
+      "name": "linoone-galar",
+      "url": "/pokemon/10175/"
+    },
+    {
+      "name": "toxtricity-low-key",
+      "url": "/pokemon/10184/"
+    },
+    {
+      "name": "morpeko-hangry",
+      "url": "/pokemon/10187/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "eternatus-eternamax",
+      "url": "/pokemon/10190/"
+    },
+    {
+      "name": "urshifu-rapid-strike",
+      "url": "/pokemon/10191/"
+    },
+    {
+      "name": "zarude-dada",
+      "url": "/pokemon/10192/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "arcanine-hisui",
+      "url": "/pokemon/10230/"
+    },
+    {
+      "name": "electrode-hisui",
+      "url": "/pokemon/10232/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    },
+    {
+      "name": "samurott-hisui",
+      "url": "/pokemon/10236/"
+    },
+    {
+      "name": "zoroark-hisui",
+      "url": "/pokemon/10239/"
+    },
+    {
+      "name": "braviary-hisui",
+      "url": "/pokemon/10240/"
+    },
+    {
+      "name": "goodra-hisui",
+      "url": "/pokemon/10242/"
+    },
+    {
+      "name": "avalugg-hisui",
+      "url": "/pokemon/10243/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "dialga-origin",
+      "url": "/pokemon/10245/"
+    },
+    {
+      "name": "palkia-origin",
+      "url": "/pokemon/10246/"
+    },
+    {
+      "name": "basculin-white-striped",
+      "url": "/pokemon/10247/"
+    },
+    {
+      "name": "basculegion-female",
+      "url": "/pokemon/10248/"
+    },
+    {
+      "name": "enamorus-therian",
+      "url": "/pokemon/10249/"
+    },
+    {
+      "name": "tauros-paldea-combat-breed",
+      "url": "/pokemon/10250/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "dudunsparce-three-segment",
+      "url": "/pokemon/10255/"
+    },
+    {
+      "name": "squawkabilly-blue-plumage",
+      "url": "/pokemon/10260/"
+    },
+    {
+      "name": "squawkabilly-yellow-plumage",
+      "url": "/pokemon/10261/"
+    },
+    {
+      "name": "squawkabilly-white-plumage",
+      "url": "/pokemon/10262/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    },
+    {
+      "name": "miraidon-low-power-mode",
+      "url": "/pokemon/10268/"
+    },
+    {
+      "name": "miraidon-drive-mode",
+      "url": "/pokemon/10269/"
+    },
+    {
+      "name": "miraidon-aquatic-mode",
+      "url": "/pokemon/10270/"
+    },
+    {
+      "name": "miraidon-glide-mode",
+      "url": "/pokemon/10271/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    },
+    {
+      "name": "ogerpon-wellspring-mask",
+      "url": "/pokemon/10273/"
+    },
+    {
+      "name": "ogerpon-hearthflame-mask",
+      "url": "/pokemon/10274/"
+    },
+    {
+      "name": "ogerpon-cornerstone-mask",
+      "url": "/pokemon/10275/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/521/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1711/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "net-good-stats",
+      "url": "/move-category/2/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "scary-face",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "こわいかお"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "겁나는얼굴"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "鬼面"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Grimace"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Grimasse"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Cara Susto"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Visotruce"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Scary Face"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "こわいかお"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "鬼面"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": 90,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    }
+  ],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": -2,
+      "stat": {
+        "name": "speed",
+        "url": "/stat/6/"
+      }
+    }
+  ],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/2/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

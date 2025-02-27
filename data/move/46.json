@@ -1,0 +1,2235 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/21/"
+  },
+  "contest_type": {
+    "name": "cool",
+    "url": "/contest-type/1/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [
+    {
+      "effect_entries": [
+        {
+          "effect": "Does nothing in trainer battles.",
+          "language": {
+            "name": "en",
+            "url": "/language/9/"
+          }
+        }
+      ],
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    }
+  ],
+  "effect_entries": [
+    {
+      "effect": "Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with suction cups or under the effect of ingrain.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Scares wild foes\nto end battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Scares wild foes\nto end battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "Makes the foe flee to end\nthe battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Makes the foe flee to end\nthe battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et\nle remplace par un autre. Dans\nla nature, met fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off and replaced by\nanother Pokémon in its party. In the\nwild, the battle ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off and switched.\nIn the wild, a battle against a single\nPokémon ends.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。\nやせいの　ばあいは　せんとうが　おわる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.\n야생의 경우에는 배틀이 끝난다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par un\nautre. Dans la nature, met fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon. Beendet den Kampf in der Wildnis.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es cambiado por otro\nPokémon. Si es un Pokémon salvaje, acaba el\ncombate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pokémon\nselvatici.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。\n野生の　場合は　戦闘が　終わる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。\nやせいの　ばあいは　せんとうが　おわる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.\n야생의 경우에는 배틀이 끝난다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par un\nautre. Dans la nature, met fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon. Beendet den Kampf in der Wildnis.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es cambiado por otro \nPokémon. Si es un Pokémon salvaje, acaba el \ncombate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pokémon\nselvatici.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。\n野生の　場合は　戦闘が　終わる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。\nやせいの　ばあいは　せんとうが　おわる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.\n야생의 경우에는 배틀이 끝난다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "趕走對手，強制讓後備寶可夢上場。\n對手為野生寶可夢時，戰鬥將直接結束。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par\nun autre. Lors d’un combat contre un Pokémon\nsauvage seul, met fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon. Beendet den Kampf in der Wildnis.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es cambiado por otro \nPokémon. Si es un Pokémon salvaje, acaba el \ncombate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pokémon\nselvatici.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。\n野生の　場合は　戦闘が　終わる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "放走对手，强制拉后备宝可梦上场。\n如果对手为野生宝可梦，\n战斗将直接结束。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。\nやせいの　ばあいは　せんとうが　おわる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.\n야생의 경우에는 배틀이 끝난다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "趕走對手，強制讓後備寶可夢上場。\n對手為野生寶可夢時，戰鬥將直接結束。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par\nun autre. Lors d’un combat contre un Pokémon\nsauvage seul, met fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon. Beendet den Kampf in der Wildnis.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es cambiado por otro \nPokémon. Si es un Pokémon salvaje, acaba el \ncombate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pokémon\nselvatici.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。\n野生の　場合は　戦闘が　終わる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "放走对手，强制拉后备宝可梦上场。\n如果对手为野生宝可梦，\n战斗将直接结束。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "放走對手，\n強制讓後備寶可夢上場。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par un autre.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es sustituido por otro\nPokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different Pokémon is\ndragged out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "放走对手，\n强制拉后备宝可梦上场。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　にがして\nひかえの　ポケモンを　ひきずりだす。\nやせいの　ばあいは　せんとうが　おわる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "상대를 도망가게 해서\n교대할 포켓몬을 끌어낸다.\n야생의 경우에는 배틀이 끝난다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "趕走對手，\n強制讓後備寶可夢上場。\n對手為野生寶可夢時，戰鬥將直接結束。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Effraie le Pokémon ennemi et le remplace par un autre.\nLors d’un combat contre un Pokémon sauvage seul,\nmet fin au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Verjagt das Ziel und ersetzt es durch ein anderes\nPokémon. Beendet den Kampf in der Wildnis.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Se lleva al objetivo, que es cambiado por otro \nPokémon. Si es un Pokémon salvaje, acaba el \ncombate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pokémon\nselvatici.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "相手を　逃がして\n控えの　ポケモンを　ひきずりだす。\n野生の　場合は　戦闘が　終わる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "放走对手，强制拉后备宝可梦上场。\n如果对手为野生宝可梦，\n战斗将直接结束。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 46,
+  "learned_by_pokemon": [
+    {
+      "name": "ivysaur",
+      "url": "/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "onix",
+      "url": "/pokemon/95/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "eevee",
+      "url": "/pokemon/133/"
+    },
+    {
+      "name": "vaporeon",
+      "url": "/pokemon/134/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "zapdos",
+      "url": "/pokemon/145/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "quilava",
+      "url": "/pokemon/156/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "flaaffy",
+      "url": "/pokemon/180/"
+    },
+    {
+      "name": "ampharos",
+      "url": "/pokemon/181/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "umbreon",
+      "url": "/pokemon/197/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "skarmory",
+      "url": "/pokemon/227/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "suicune",
+      "url": "/pokemon/245/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "sceptile",
+      "url": "/pokemon/254/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "mudkip",
+      "url": "/pokemon/258/"
+    },
+    {
+      "name": "marshtomp",
+      "url": "/pokemon/259/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "linoone",
+      "url": "/pokemon/264/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "whismur",
+      "url": "/pokemon/293/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "aron",
+      "url": "/pokemon/304/"
+    },
+    {
+      "name": "lairon",
+      "url": "/pokemon/305/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "electrike",
+      "url": "/pokemon/309/"
+    },
+    {
+      "name": "manectric",
+      "url": "/pokemon/310/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "wailmer",
+      "url": "/pokemon/320/"
+    },
+    {
+      "name": "wailord",
+      "url": "/pokemon/321/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "sealeo",
+      "url": "/pokemon/364/"
+    },
+    {
+      "name": "walrein",
+      "url": "/pokemon/365/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "kyogre",
+      "url": "/pokemon/382/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "shinx",
+      "url": "/pokemon/403/"
+    },
+    {
+      "name": "luxio",
+      "url": "/pokemon/404/"
+    },
+    {
+      "name": "luxray",
+      "url": "/pokemon/405/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "buizel",
+      "url": "/pokemon/418/"
+    },
+    {
+      "name": "floatzel",
+      "url": "/pokemon/419/"
+    },
+    {
+      "name": "purugly",
+      "url": "/pokemon/432/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "hippopotas",
+      "url": "/pokemon/449/"
+    },
+    {
+      "name": "hippowdon",
+      "url": "/pokemon/450/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "leafeon",
+      "url": "/pokemon/470/"
+    },
+    {
+      "name": "glaceon",
+      "url": "/pokemon/471/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "giratina-altered",
+      "url": "/pokemon/487/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "lillipup",
+      "url": "/pokemon/506/"
+    },
+    {
+      "name": "herdier",
+      "url": "/pokemon/507/"
+    },
+    {
+      "name": "stoutland",
+      "url": "/pokemon/508/"
+    },
+    {
+      "name": "zebstrika",
+      "url": "/pokemon/523/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "darumaka",
+      "url": "/pokemon/554/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "kyurem",
+      "url": "/pokemon/646/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "litleo",
+      "url": "/pokemon/667/"
+    },
+    {
+      "name": "pyroar",
+      "url": "/pokemon/668/"
+    },
+    {
+      "name": "skiddo",
+      "url": "/pokemon/672/"
+    },
+    {
+      "name": "gogoat",
+      "url": "/pokemon/673/"
+    },
+    {
+      "name": "pancham",
+      "url": "/pokemon/674/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "furfrou",
+      "url": "/pokemon/676/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "amaura",
+      "url": "/pokemon/698/"
+    },
+    {
+      "name": "aurorus",
+      "url": "/pokemon/699/"
+    },
+    {
+      "name": "sylveon",
+      "url": "/pokemon/700/"
+    },
+    {
+      "name": "avalugg",
+      "url": "/pokemon/713/"
+    },
+    {
+      "name": "xerneas",
+      "url": "/pokemon/716/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "mudbray",
+      "url": "/pokemon/749/"
+    },
+    {
+      "name": "mudsdale",
+      "url": "/pokemon/750/"
+    },
+    {
+      "name": "stufful",
+      "url": "/pokemon/759/"
+    },
+    {
+      "name": "bewear",
+      "url": "/pokemon/760/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "drampa",
+      "url": "/pokemon/780/"
+    },
+    {
+      "name": "jangmo-o",
+      "url": "/pokemon/782/"
+    },
+    {
+      "name": "hakamo-o",
+      "url": "/pokemon/783/"
+    },
+    {
+      "name": "kommo-o",
+      "url": "/pokemon/784/"
+    },
+    {
+      "name": "tapu-koko",
+      "url": "/pokemon/785/"
+    },
+    {
+      "name": "tapu-bulu",
+      "url": "/pokemon/787/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "lunala",
+      "url": "/pokemon/792/"
+    },
+    {
+      "name": "yamper",
+      "url": "/pokemon/835/"
+    },
+    {
+      "name": "boltund",
+      "url": "/pokemon/836/"
+    },
+    {
+      "name": "duraludon",
+      "url": "/pokemon/884/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "urshifu-single-strike",
+      "url": "/pokemon/892/"
+    },
+    {
+      "name": "zarude",
+      "url": "/pokemon/893/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "fuecoco",
+      "url": "/pokemon/909/"
+    },
+    {
+      "name": "crocalor",
+      "url": "/pokemon/910/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "fidough",
+      "url": "/pokemon/926/"
+    },
+    {
+      "name": "dachsbun",
+      "url": "/pokemon/927/"
+    },
+    {
+      "name": "maschiff",
+      "url": "/pokemon/942/"
+    },
+    {
+      "name": "mabosstiff",
+      "url": "/pokemon/943/"
+    },
+    {
+      "name": "greavard",
+      "url": "/pokemon/971/"
+    },
+    {
+      "name": "houndstone",
+      "url": "/pokemon/972/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "iron-jugulis",
+      "url": "/pokemon/993/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "walking-wake",
+      "url": "/pokemon/1009/"
+    },
+    {
+      "name": "okidogi",
+      "url": "/pokemon/1014/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "raging-bolt",
+      "url": "/pokemon/1021/"
+    },
+    {
+      "name": "terapagos",
+      "url": "/pokemon/1024/"
+    },
+    {
+      "name": "giratina-origin",
+      "url": "/pokemon/10007/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "kyurem-black",
+      "url": "/pokemon/10022/"
+    },
+    {
+      "name": "kyurem-white",
+      "url": "/pokemon/10023/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "venusaur-mega",
+      "url": "/pokemon/10033/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "blastoise-mega",
+      "url": "/pokemon/10036/"
+    },
+    {
+      "name": "kangaskhan-mega",
+      "url": "/pokemon/10039/"
+    },
+    {
+      "name": "gyarados-mega",
+      "url": "/pokemon/10041/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "houndoom-mega",
+      "url": "/pokemon/10048/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "aggron-mega",
+      "url": "/pokemon/10053/"
+    },
+    {
+      "name": "manectric-mega",
+      "url": "/pokemon/10055/"
+    },
+    {
+      "name": "garchomp-mega",
+      "url": "/pokemon/10058/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "latias-mega",
+      "url": "/pokemon/10062/"
+    },
+    {
+      "name": "latios-mega",
+      "url": "/pokemon/10063/"
+    },
+    {
+      "name": "swampert-mega",
+      "url": "/pokemon/10064/"
+    },
+    {
+      "name": "sceptile-mega",
+      "url": "/pokemon/10065/"
+    },
+    {
+      "name": "altaria-mega",
+      "url": "/pokemon/10067/"
+    },
+    {
+      "name": "sharpedo-mega",
+      "url": "/pokemon/10070/"
+    },
+    {
+      "name": "steelix-mega",
+      "url": "/pokemon/10072/"
+    },
+    {
+      "name": "kyogre-primal",
+      "url": "/pokemon/10077/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "camerupt-mega",
+      "url": "/pokemon/10087/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "golem-alola",
+      "url": "/pokemon/10111/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "kommo-o-totem",
+      "url": "/pokemon/10146/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "zarude-dada",
+      "url": "/pokemon/10192/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "arcanine-hisui",
+      "url": "/pokemon/10230/"
+    },
+    {
+      "name": "typhlosion-hisui",
+      "url": "/pokemon/10233/"
+    },
+    {
+      "name": "zorua-hisui",
+      "url": "/pokemon/10238/"
+    },
+    {
+      "name": "zoroark-hisui",
+      "url": "/pokemon/10239/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    },
+    {
+      "name": "terapagos-terastal",
+      "url": "/pokemon/10276/"
+    },
+    {
+      "name": "terapagos-stellar",
+      "url": "/pokemon/10277/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/84/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/85/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/86/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/87/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/88/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/89/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/90/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/91/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/92/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/93/"
+      },
+      "version_group": {
+        "name": "colosseum",
+        "url": "/version-group/12/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/94/"
+      },
+      "version_group": {
+        "name": "xd",
+        "url": "/version-group/13/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/95/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/96/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/97/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/98/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/99/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1877/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1940/"
+      },
+      "version_group": {
+        "name": "the-teal-mask",
+        "url": "/version-group/26/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "force-switch",
+      "url": "/move-category/12/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "roar",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ほえる"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "울부짖기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "吼叫"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Hurlement"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Brüller"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Rugido"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Boato"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Roar"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ほえる"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "吼叫"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": 100,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": null,
+  "pp": 20,
+  "priority": -6,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/19/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

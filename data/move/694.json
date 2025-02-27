@@ -1,0 +1,686 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not hail, or the weather is disabled by the effects of cloud nine or air lock, this move will fail.\n\nAny regular damage dealt to an affected Pokémon is reduced by ½.  (If there are multiple Pokémon on the affected field, the reduction is ⅓.)",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Reduces damage five turns, but must be used during hail."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "５ターンの　あいだ　ぶつりと\nとくしゅの　ダメージを　よわめる。\nあられの　ときしか　だすことが　できない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "5턴 동안 물리와 특수 기술의\n데미지를 약하게 한다.\n싸라기눈일 때만 쓸 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在５回合內減弱\n物理和特殊的傷害。\n在下冰雹時才有效果。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Réduit les dégâts causés par les capacités\nphysiques et spéciales durant cinq tours.\nNe peut être utilisé que lorsqu’il grêle.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke schwächt fünf Runden lang den durch\nphysische sowie durch Spezial-Attacken erhaltenen\nSchaden. Kann nur bei Hagel eingesetzt werden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Reduce el daño de los ataques físicos y especiales\nque ejecuta el rival durante cinco turnos. Solo puede\nusarse cuando está granizando.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Riduce i danni subiti dalle mosse fisiche e dalle\nmosse speciali per cinque turni.\nSi può usare solo quando grandina.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　間　物理と\n特殊の　ダメージを　弱める。\nあられの　時しか　出すことが　できない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在５回合内减弱\n物理和特殊的伤害。\n只有冰雹时才能使出。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　あいだ　ぶつりと\nとくしゅの　ダメージを　よわめる。\nあられの　ときしか　だすことが　できない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "5턴 동안 물리와 특수 기술의\n데미지를 약하게 한다.\n싸라기눈일 때만 쓸 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在５回合內減弱\n物理和特殊的傷害。\n在下冰雹時才有效果。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Réduit les dégâts causés par les capacités\nphysiques et spéciales durant cinq tours.\nNe peut être utilisé que lorsqu’il grêle.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke schwächt fünf Runden lang den durch\nphysische sowie durch Spezial-Attacken erhaltenen\nSchaden. Kann nur bei Hagel eingesetzt werden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Reduce el daño de los ataques físicos y especiales\nque ejecuta el rival durante cinco turnos. Solo puede\nusarse cuando está granizando.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Riduce i danni subiti dalle mosse fisiche e dalle\nmosse speciali per cinque turni.\nSi può usare solo quando grandina.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　間　物理と\n特殊の　ダメージを　弱める。\nあられの　時しか　出すことが　できない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在５回合内减弱\n物理和特殊的伤害。\n只有冰雹时才能使出。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　あいだ　ぶつりと\nとくしゅの　ダメージを　よわめる。\nあられの　ときしか　だすことが　できない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "5턴 동안 물리와 특수 기술의\n데미지를 약하게 한다.\n싸라기눈일 때만 쓸 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在５回合內減弱\n物理和特殊的傷害。\n在下冰雹時才有效果。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Réduit les dégâts causés par les capacités\nphysiques et spéciales durant cinq tours.\nNe peut être utilisé que lorsqu’il grêle.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke schwächt fünf Runden lang den durch\nphysische sowie durch Spezial-Attacken erhaltenen\nSchaden. Kann nur bei Hagel eingesetzt werden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Reduce el daño de los ataques físicos y especiales\nque ejecuta el rival durante cinco turnos. Solo puede\nusarse cuando está granizando.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Riduce i danni subiti dalle mosse fisiche e dalle\nmosse speciali per cinque turni.\nSi può usare solo quando grandina.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　間　物理と\n特殊の　ダメージを　弱める。\nあられの　時しか　出すことが　できない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在５回合内减弱\n物理和特殊的伤害。\n只有冰雹时才能使出。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　あいだ　ぶつりと\nとくしゅの　ダメージを　よわめる。\nあられの　ときしか　だすことが　できない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "5턴 동안 물리와 특수 기술의\n데미지를 약하게 한다.\n싸라기눈일 때만 쓸 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在５回合內減弱\n物理和特殊的傷害。\n在下冰雹時才有效果。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Réduit les dégâts causés par les capacités physiques\net spéciales durant cinq tours.\nNe peut être utilisée que lorsqu’il grêle.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke schwächt fünf Runden lang den durch\nphysische sowie durch Spezial-Attacken erhaltenen\nSchaden. Kann nur bei Hagel eingesetzt werden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Reduce el daño de los ataques físicos y especiales que\nejecuta el rival durante cinco turnos. Solo puede usarse\ncuando está granizando.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Riduce i danni subiti dalle mosse fisiche e dalle\nmosse speciali per cinque turni.\nSi può usare solo quando grandina.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "５ターンの　間　物理と\n特殊の　ダメージを　弱める。\nあられの　時しか　出すことが　できない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在５回合内减弱\n物理和特殊的伤害。\n只有冰雹时才能使出。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-vii",
+    "url": "/generation/7/"
+  },
+  "id": 694,
+  "learned_by_pokemon": [
+    {
+      "name": "jynx",
+      "url": "/pokemon/124/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "delibird",
+      "url": "/pokemon/225/"
+    },
+    {
+      "name": "smoochum",
+      "url": "/pokemon/238/"
+    },
+    {
+      "name": "regice",
+      "url": "/pokemon/378/"
+    },
+    {
+      "name": "abomasnow",
+      "url": "/pokemon/460/"
+    },
+    {
+      "name": "glaceon",
+      "url": "/pokemon/471/"
+    },
+    {
+      "name": "froslass",
+      "url": "/pokemon/478/"
+    },
+    {
+      "name": "vanillite",
+      "url": "/pokemon/582/"
+    },
+    {
+      "name": "cryogonal",
+      "url": "/pokemon/615/"
+    },
+    {
+      "name": "amaura",
+      "url": "/pokemon/698/"
+    },
+    {
+      "name": "bergmite",
+      "url": "/pokemon/712/"
+    },
+    {
+      "name": "frosmoth",
+      "url": "/pokemon/873/"
+    },
+    {
+      "name": "eiscue-ice",
+      "url": "/pokemon/875/"
+    },
+    {
+      "name": "arctovish",
+      "url": "/pokemon/883/"
+    },
+    {
+      "name": "iron-bundle",
+      "url": "/pokemon/991/"
+    },
+    {
+      "name": "sandshrew-alola",
+      "url": "/pokemon/10101/"
+    },
+    {
+      "name": "sandslash-alola",
+      "url": "/pokemon/10102/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "eiscue-noice",
+      "url": "/pokemon/10185/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1209/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1210/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "field-effect",
+      "url": "/move-category/11/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "aurora-veil",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "オーロラベール"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "오로라베일"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "極光幕"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Voile Aurore"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Auroraschleier"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Velo Aurora"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Velaurora"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Aurora Veil"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "オーロラベール"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "极光幕"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "users-field",
+    "url": "/move-target/4/"
+  },
+  "type": {
+    "name": "ice",
+    "url": "/type/15/"
+  }
+}

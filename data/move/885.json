@@ -1,0 +1,1397 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [],
+  "generation": {
+    "name": "generation-ix",
+    "url": "/generation/9/"
+  },
+  "id": 885,
+  "learned_by_pokemon": [
+    {
+      "name": "bulbasaur",
+      "url": "/pokemon/1/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "pikachu",
+      "url": "/pokemon/25/"
+    },
+    {
+      "name": "raichu",
+      "url": "/pokemon/26/"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "/pokemon/39/"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "/pokemon/40/"
+    },
+    {
+      "name": "oddish",
+      "url": "/pokemon/43/"
+    },
+    {
+      "name": "gloom",
+      "url": "/pokemon/44/"
+    },
+    {
+      "name": "vileplume",
+      "url": "/pokemon/45/"
+    },
+    {
+      "name": "meowth",
+      "url": "/pokemon/52/"
+    },
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "psyduck",
+      "url": "/pokemon/54/"
+    },
+    {
+      "name": "golduck",
+      "url": "/pokemon/55/"
+    },
+    {
+      "name": "bellsprout",
+      "url": "/pokemon/69/"
+    },
+    {
+      "name": "weepinbell",
+      "url": "/pokemon/70/"
+    },
+    {
+      "name": "victreebel",
+      "url": "/pokemon/71/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "hitmonchan",
+      "url": "/pokemon/107/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "electabuzz",
+      "url": "/pokemon/125/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "eevee",
+      "url": "/pokemon/133/"
+    },
+    {
+      "name": "vaporeon",
+      "url": "/pokemon/134/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "chikorita",
+      "url": "/pokemon/152/"
+    },
+    {
+      "name": "bayleef",
+      "url": "/pokemon/153/"
+    },
+    {
+      "name": "meganium",
+      "url": "/pokemon/154/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "sentret",
+      "url": "/pokemon/161/"
+    },
+    {
+      "name": "furret",
+      "url": "/pokemon/162/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "pichu",
+      "url": "/pokemon/172/"
+    },
+    {
+      "name": "igglybuff",
+      "url": "/pokemon/174/"
+    },
+    {
+      "name": "mareep",
+      "url": "/pokemon/179/"
+    },
+    {
+      "name": "flaaffy",
+      "url": "/pokemon/180/"
+    },
+    {
+      "name": "ampharos",
+      "url": "/pokemon/181/"
+    },
+    {
+      "name": "bellossom",
+      "url": "/pokemon/182/"
+    },
+    {
+      "name": "marill",
+      "url": "/pokemon/183/"
+    },
+    {
+      "name": "azumarill",
+      "url": "/pokemon/184/"
+    },
+    {
+      "name": "sudowoodo",
+      "url": "/pokemon/185/"
+    },
+    {
+      "name": "hoppip",
+      "url": "/pokemon/187/"
+    },
+    {
+      "name": "skiploom",
+      "url": "/pokemon/188/"
+    },
+    {
+      "name": "jumpluff",
+      "url": "/pokemon/189/"
+    },
+    {
+      "name": "aipom",
+      "url": "/pokemon/190/"
+    },
+    {
+      "name": "sunkern",
+      "url": "/pokemon/191/"
+    },
+    {
+      "name": "sunflora",
+      "url": "/pokemon/192/"
+    },
+    {
+      "name": "wooper",
+      "url": "/pokemon/194/"
+    },
+    {
+      "name": "quagsire",
+      "url": "/pokemon/195/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "umbreon",
+      "url": "/pokemon/197/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "delibird",
+      "url": "/pokemon/225/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "elekid",
+      "url": "/pokemon/239/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "suicune",
+      "url": "/pokemon/245/"
+    },
+    {
+      "name": "treecko",
+      "url": "/pokemon/252/"
+    },
+    {
+      "name": "grovyle",
+      "url": "/pokemon/253/"
+    },
+    {
+      "name": "sceptile",
+      "url": "/pokemon/254/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "lotad",
+      "url": "/pokemon/270/"
+    },
+    {
+      "name": "lombre",
+      "url": "/pokemon/271/"
+    },
+    {
+      "name": "ludicolo",
+      "url": "/pokemon/272/"
+    },
+    {
+      "name": "seedot",
+      "url": "/pokemon/273/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "medicham",
+      "url": "/pokemon/308/"
+    },
+    {
+      "name": "plusle",
+      "url": "/pokemon/311/"
+    },
+    {
+      "name": "minun",
+      "url": "/pokemon/312/"
+    },
+    {
+      "name": "volbeat",
+      "url": "/pokemon/313/"
+    },
+    {
+      "name": "illumise",
+      "url": "/pokemon/314/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "grumpig",
+      "url": "/pokemon/326/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "swablu",
+      "url": "/pokemon/333/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "snorunt",
+      "url": "/pokemon/361/"
+    },
+    {
+      "name": "glalie",
+      "url": "/pokemon/362/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "kricketune",
+      "url": "/pokemon/402/"
+    },
+    {
+      "name": "shinx",
+      "url": "/pokemon/403/"
+    },
+    {
+      "name": "luxio",
+      "url": "/pokemon/404/"
+    },
+    {
+      "name": "luxray",
+      "url": "/pokemon/405/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "pachirisu",
+      "url": "/pokemon/417/"
+    },
+    {
+      "name": "ambipom",
+      "url": "/pokemon/424/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "bonsly",
+      "url": "/pokemon/438/"
+    },
+    {
+      "name": "munchlax",
+      "url": "/pokemon/446/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "snover",
+      "url": "/pokemon/459/"
+    },
+    {
+      "name": "abomasnow",
+      "url": "/pokemon/460/"
+    },
+    {
+      "name": "weavile",
+      "url": "/pokemon/461/"
+    },
+    {
+      "name": "electivire",
+      "url": "/pokemon/466/"
+    },
+    {
+      "name": "leafeon",
+      "url": "/pokemon/470/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "snivy",
+      "url": "/pokemon/495/"
+    },
+    {
+      "name": "servine",
+      "url": "/pokemon/496/"
+    },
+    {
+      "name": "serperior",
+      "url": "/pokemon/497/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "blitzle",
+      "url": "/pokemon/522/"
+    },
+    {
+      "name": "zebstrika",
+      "url": "/pokemon/523/"
+    },
+    {
+      "name": "sewaddle",
+      "url": "/pokemon/540/"
+    },
+    {
+      "name": "swadloon",
+      "url": "/pokemon/541/"
+    },
+    {
+      "name": "leavanny",
+      "url": "/pokemon/542/"
+    },
+    {
+      "name": "petilil",
+      "url": "/pokemon/548/"
+    },
+    {
+      "name": "lilligant",
+      "url": "/pokemon/549/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "minccino",
+      "url": "/pokemon/572/"
+    },
+    {
+      "name": "cinccino",
+      "url": "/pokemon/573/"
+    },
+    {
+      "name": "ducklett",
+      "url": "/pokemon/580/"
+    },
+    {
+      "name": "swanna",
+      "url": "/pokemon/581/"
+    },
+    {
+      "name": "deerling",
+      "url": "/pokemon/585/"
+    },
+    {
+      "name": "sawsbuck",
+      "url": "/pokemon/586/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "cubchoo",
+      "url": "/pokemon/613/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "mienfoo",
+      "url": "/pokemon/619/"
+    },
+    {
+      "name": "mienshao",
+      "url": "/pokemon/620/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "froakie",
+      "url": "/pokemon/656/"
+    },
+    {
+      "name": "frogadier",
+      "url": "/pokemon/657/"
+    },
+    {
+      "name": "greninja",
+      "url": "/pokemon/658/"
+    },
+    {
+      "name": "litleo",
+      "url": "/pokemon/667/"
+    },
+    {
+      "name": "pyroar",
+      "url": "/pokemon/668/"
+    },
+    {
+      "name": "flabebe",
+      "url": "/pokemon/669/"
+    },
+    {
+      "name": "floette",
+      "url": "/pokemon/670/"
+    },
+    {
+      "name": "florges",
+      "url": "/pokemon/671/"
+    },
+    {
+      "name": "skiddo",
+      "url": "/pokemon/672/"
+    },
+    {
+      "name": "gogoat",
+      "url": "/pokemon/673/"
+    },
+    {
+      "name": "meowstic-male",
+      "url": "/pokemon/678/"
+    },
+    {
+      "name": "malamar",
+      "url": "/pokemon/687/"
+    },
+    {
+      "name": "sylveon",
+      "url": "/pokemon/700/"
+    },
+    {
+      "name": "hawlucha",
+      "url": "/pokemon/701/"
+    },
+    {
+      "name": "dedenne",
+      "url": "/pokemon/702/"
+    },
+    {
+      "name": "phantump",
+      "url": "/pokemon/708/"
+    },
+    {
+      "name": "trevenant",
+      "url": "/pokemon/709/"
+    },
+    {
+      "name": "rowlet",
+      "url": "/pokemon/722/"
+    },
+    {
+      "name": "dartrix",
+      "url": "/pokemon/723/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "oricorio-baile",
+      "url": "/pokemon/741/"
+    },
+    {
+      "name": "cutiefly",
+      "url": "/pokemon/742/"
+    },
+    {
+      "name": "ribombee",
+      "url": "/pokemon/743/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "dewpider",
+      "url": "/pokemon/751/"
+    },
+    {
+      "name": "araquanid",
+      "url": "/pokemon/752/"
+    },
+    {
+      "name": "fomantis",
+      "url": "/pokemon/753/"
+    },
+    {
+      "name": "lurantis",
+      "url": "/pokemon/754/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "bounsweet",
+      "url": "/pokemon/761/"
+    },
+    {
+      "name": "steenee",
+      "url": "/pokemon/762/"
+    },
+    {
+      "name": "tsareena",
+      "url": "/pokemon/763/"
+    },
+    {
+      "name": "comfey",
+      "url": "/pokemon/764/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "passimian",
+      "url": "/pokemon/766/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "grookey",
+      "url": "/pokemon/810/"
+    },
+    {
+      "name": "thwackey",
+      "url": "/pokemon/811/"
+    },
+    {
+      "name": "rillaboom",
+      "url": "/pokemon/812/"
+    },
+    {
+      "name": "scorbunny",
+      "url": "/pokemon/813/"
+    },
+    {
+      "name": "raboot",
+      "url": "/pokemon/814/"
+    },
+    {
+      "name": "cinderace",
+      "url": "/pokemon/815/"
+    },
+    {
+      "name": "skwovet",
+      "url": "/pokemon/819/"
+    },
+    {
+      "name": "flapple",
+      "url": "/pokemon/841/"
+    },
+    {
+      "name": "appletun",
+      "url": "/pokemon/842/"
+    },
+    {
+      "name": "toxtricity-amped",
+      "url": "/pokemon/849/"
+    },
+    {
+      "name": "impidimp",
+      "url": "/pokemon/859/"
+    },
+    {
+      "name": "morgrem",
+      "url": "/pokemon/860/"
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "/pokemon/861/"
+    },
+    {
+      "name": "perrserker",
+      "url": "/pokemon/863/"
+    },
+    {
+      "name": "falinks",
+      "url": "/pokemon/870/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "urshifu-single-strike",
+      "url": "/pokemon/892/"
+    },
+    {
+      "name": "zarude",
+      "url": "/pokemon/893/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "kleavor",
+      "url": "/pokemon/900/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "sneasler",
+      "url": "/pokemon/903/"
+    },
+    {
+      "name": "sprigatito",
+      "url": "/pokemon/906/"
+    },
+    {
+      "name": "floragato",
+      "url": "/pokemon/907/"
+    },
+    {
+      "name": "meowscarada",
+      "url": "/pokemon/908/"
+    },
+    {
+      "name": "lechonk",
+      "url": "/pokemon/915/"
+    },
+    {
+      "name": "oinkologne-male",
+      "url": "/pokemon/916/"
+    },
+    {
+      "name": "tarountula",
+      "url": "/pokemon/917/"
+    },
+    {
+      "name": "spidops",
+      "url": "/pokemon/918/"
+    },
+    {
+      "name": "nymble",
+      "url": "/pokemon/919/"
+    },
+    {
+      "name": "lokix",
+      "url": "/pokemon/920/"
+    },
+    {
+      "name": "maushold-family-of-four",
+      "url": "/pokemon/925/"
+    },
+    {
+      "name": "fidough",
+      "url": "/pokemon/926/"
+    },
+    {
+      "name": "dachsbun",
+      "url": "/pokemon/927/"
+    },
+    {
+      "name": "smoliv",
+      "url": "/pokemon/928/"
+    },
+    {
+      "name": "dolliv",
+      "url": "/pokemon/929/"
+    },
+    {
+      "name": "arboliva",
+      "url": "/pokemon/930/"
+    },
+    {
+      "name": "maschiff",
+      "url": "/pokemon/942/"
+    },
+    {
+      "name": "mabosstiff",
+      "url": "/pokemon/943/"
+    },
+    {
+      "name": "shroodle",
+      "url": "/pokemon/944/"
+    },
+    {
+      "name": "grafaiai",
+      "url": "/pokemon/945/"
+    },
+    {
+      "name": "bramblin",
+      "url": "/pokemon/946/"
+    },
+    {
+      "name": "brambleghast",
+      "url": "/pokemon/947/"
+    },
+    {
+      "name": "toedscool",
+      "url": "/pokemon/948/"
+    },
+    {
+      "name": "toedscruel",
+      "url": "/pokemon/949/"
+    },
+    {
+      "name": "klawf",
+      "url": "/pokemon/950/"
+    },
+    {
+      "name": "capsakid",
+      "url": "/pokemon/951/"
+    },
+    {
+      "name": "scovillain",
+      "url": "/pokemon/952/"
+    },
+    {
+      "name": "cyclizar",
+      "url": "/pokemon/967/"
+    },
+    {
+      "name": "clodsire",
+      "url": "/pokemon/980/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "brute-bonnet",
+      "url": "/pokemon/986/"
+    },
+    {
+      "name": "slither-wing",
+      "url": "/pokemon/988/"
+    },
+    {
+      "name": "wo-chien",
+      "url": "/pokemon/1001/"
+    },
+    {
+      "name": "iron-leaves",
+      "url": "/pokemon/1010/"
+    },
+    {
+      "name": "munkidori",
+      "url": "/pokemon/1015/"
+    },
+    {
+      "name": "ogerpon",
+      "url": "/pokemon/1017/"
+    },
+    {
+      "name": "shaymin-sky",
+      "url": "/pokemon/10006/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "meowstic-female",
+      "url": "/pokemon/10025/"
+    },
+    {
+      "name": "pikachu-original-cap",
+      "url": "/pokemon/10094/"
+    },
+    {
+      "name": "pikachu-hoenn-cap",
+      "url": "/pokemon/10095/"
+    },
+    {
+      "name": "pikachu-sinnoh-cap",
+      "url": "/pokemon/10096/"
+    },
+    {
+      "name": "pikachu-unova-cap",
+      "url": "/pokemon/10097/"
+    },
+    {
+      "name": "pikachu-kalos-cap",
+      "url": "/pokemon/10098/"
+    },
+    {
+      "name": "pikachu-alola-cap",
+      "url": "/pokemon/10099/"
+    },
+    {
+      "name": "raichu-alola",
+      "url": "/pokemon/10100/"
+    },
+    {
+      "name": "meowth-alola",
+      "url": "/pokemon/10107/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "greninja-ash",
+      "url": "/pokemon/10117/"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "url": "/pokemon/10123/"
+    },
+    {
+      "name": "oricorio-pau",
+      "url": "/pokemon/10124/"
+    },
+    {
+      "name": "oricorio-sensu",
+      "url": "/pokemon/10125/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "pikachu-partner-cap",
+      "url": "/pokemon/10148/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "pikachu-world-cap",
+      "url": "/pokemon/10160/"
+    },
+    {
+      "name": "meowth-galar",
+      "url": "/pokemon/10161/"
+    },
+    {
+      "name": "zapdos-galar",
+      "url": "/pokemon/10170/"
+    },
+    {
+      "name": "toxtricity-low-key",
+      "url": "/pokemon/10184/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "urshifu-rapid-strike",
+      "url": "/pokemon/10191/"
+    },
+    {
+      "name": "zarude-dada",
+      "url": "/pokemon/10192/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "sneasel-hisui",
+      "url": "/pokemon/10235/"
+    },
+    {
+      "name": "lilligant-hisui",
+      "url": "/pokemon/10237/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "tauros-paldea-combat-breed",
+      "url": "/pokemon/10250/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "wooper-paldea",
+      "url": "/pokemon/10253/"
+    },
+    {
+      "name": "oinkologne-female",
+      "url": "/pokemon/10254/"
+    },
+    {
+      "name": "maushold-family-of-three",
+      "url": "/pokemon/10257/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    },
+    {
+      "name": "ogerpon-wellspring-mask",
+      "url": "/pokemon/10273/"
+    },
+    {
+      "name": "ogerpon-hearthflame-mask",
+      "url": "/pokemon/10274/"
+    },
+    {
+      "name": "ogerpon-cornerstone-mask",
+      "url": "/pokemon/10275/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1725/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": null,
+  "name": "trailblaze",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "くさわけ"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "起草"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Apripista"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Trailblaze"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "くさわけ"
+    }
+  ],
+  "past_values": [],
+  "power": 50,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "grass",
+    "url": "/type/12/"
+  }
+}

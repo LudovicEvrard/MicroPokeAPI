@@ -1,0 +1,868 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Raises the user's Defense by three stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Raises the user's Defense by three stages."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "用軟綿綿的絨毛\n保護自己的身體。\n極大幅提高自己的防禦。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant\ndans du coton. Sa Défense augmente\nfortement.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping\nits body in soft cotton, drastically\nraising the user’s Defense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping\nits body in soft cotton, drastically\nraising the user’s Defense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつみこんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du\ncoton. Sa Défense augmente fortement.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er\nsich in einen luftigen Flaum hüllt.\nErhöht die Verteidigung drastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping\nits body in soft cotton, which drastically\nraises the user’s Defense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包みこんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつ こんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du\ncoton. Sa Défense augmente énormément.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er\nsich in einen luftigen Flaum hüllt.\nErhöht die Verteidigung drastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping\nits body in soft cotton, which drastically\nraises the user’s Defense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包 こんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつみこんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du\ncoton. Sa Défense augmente énormément.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er sich in einen\nluftigen Flaum hüllt. Erhöht die Verteidigung\ndrastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包みこんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用软绵绵的绒毛包裹住\n自己的身体进行守护。\n巨幅提高自己的防御。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつみこんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用軟綿綿的絨毛\n保護自己的身體。\n極大幅提高自己的防禦。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du\ncoton. Sa Défense augmente énormément.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er sich in einen\nluftigen Flaum hüllt. Erhöht die Verteidigung\ndrastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包みこんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用软绵绵的绒毛包裹住\n自己的身体进行守护。\n巨幅提高自己的防御。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつみこんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用軟綿綿的絨毛\n保護自己的身體。\n極大幅提高自己的防禦。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du coton.\nSa Défense augmente énormément.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er sich in einen\nluftigen Flaum hüllt. Erhöht die Verteidigung\ndrastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包みこんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用软绵绵的绒毛包裹住\n自己的身体进行守护。\n巨幅提高自己的防御。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　わたげで　じぶんの\nからだを　つつみこんで　まもる。\nぼうぎょを　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "푹신푹신한 솜털로 자신의\n몸을 둘러싸서 지킨다.\n방어를 매우 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用軟綿綿的絨毛\n保護自己的身體。\n極大幅提高自己的防禦。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur se protège en s’emmitouflant dans du coton.\nSa Défense augmente énormément.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schützt sich, indem er sich in einen luftigen\nFlaum hüllt. Erhöht die Verteidigung drastisch.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cubre al Pokémon con una madeja protectora.\nAumenta muchísimo la Defensa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user’s\nDefense stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "フワフワの　綿毛で　自分の\n体を　包みこんで　守る。\n防御を　ぐぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用软绵绵的绒毛包裹住\n自己的身体进行守护。\n巨幅提高自己的防御。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 538,
+  "learned_by_pokemon": [
+    {
+      "name": "mareep",
+      "url": "/pokemon/179/"
+    },
+    {
+      "name": "flaaffy",
+      "url": "/pokemon/180/"
+    },
+    {
+      "name": "ampharos",
+      "url": "/pokemon/181/"
+    },
+    {
+      "name": "hoppip",
+      "url": "/pokemon/187/"
+    },
+    {
+      "name": "swablu",
+      "url": "/pokemon/333/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "cottonee",
+      "url": "/pokemon/546/"
+    },
+    {
+      "name": "whimsicott",
+      "url": "/pokemon/547/"
+    },
+    {
+      "name": "maractus",
+      "url": "/pokemon/556/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "furfrou",
+      "url": "/pokemon/676/"
+    },
+    {
+      "name": "swirlix",
+      "url": "/pokemon/684/"
+    },
+    {
+      "name": "slurpuff",
+      "url": "/pokemon/685/"
+    },
+    {
+      "name": "eldegoss",
+      "url": "/pokemon/830/"
+    },
+    {
+      "name": "wooloo",
+      "url": "/pokemon/831/"
+    },
+    {
+      "name": "dubwool",
+      "url": "/pokemon/832/"
+    },
+    {
+      "name": "ampharos-mega",
+      "url": "/pokemon/10045/"
+    },
+    {
+      "name": "altaria-mega",
+      "url": "/pokemon/10067/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "net-good-stats",
+      "url": "/move-category/2/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "cotton-guard",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "コットンガード"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "코튼가드"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "棉花防守"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Cotogarde"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Watteschild"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Rizo Algodón"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Cotonscudo"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Cotton Guard"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "コットンガード"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "棉花防守"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": 3,
+      "stat": {
+        "name": "defense",
+        "url": "/stat/3/"
+      }
+    }
+  ],
+  "super_contest_effect": null,
+  "target": {
+    "name": "user",
+    "url": "/move-target/7/"
+  },
+  "type": {
+    "name": "grass",
+    "url": "/type/12/"
+  }
+}

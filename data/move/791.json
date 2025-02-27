@@ -1,0 +1,396 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "ふしぎな　みずを　ふりまいて\nじぶんと　ばにいる\nみかたの　ＨＰを　かいふくする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "신비한 물을 흩뿌려서\n자신과 배틀에 나와 있는\n같은 편의 HP를 회복한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "灑出神奇之水，\n回復自己和場上同伴的ＨＰ。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur projette une eau mystérieuse\nautour du terrain pour restaurer ses PV\net ceux de ses alliés au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Wundersames Wasser heilt die KP des Anwenders und\nseiner am Kampf beteiligten Mitstreiter.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Vierte un agua misteriosa y balsámica que restaura\ntanto sus propios PS como los de aquellos aliados\npresentes en el terreno de combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Sparge tutt’intorno dell’acqua misteriosa che fa\nrecuperare PS a sé a agli alleati in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user scatters mysterious water around and restores\nthe HP of itself and its ally Pokémon in the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "不思議な　水を　ふりまいて\n自分と　場にいる\n味方の　ＨＰを　回復する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "喷洒出神奇的水，\n回复自己和场上同伴的ＨＰ。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-viii",
+    "url": "/generation/8/"
+  },
+  "id": 791,
+  "learned_by_pokemon": [
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "shellder",
+      "url": "/pokemon/90/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "corsola",
+      "url": "/pokemon/222/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "roselia",
+      "url": "/pokemon/315/"
+    },
+    {
+      "name": "milotic",
+      "url": "/pokemon/350/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "budew",
+      "url": "/pokemon/406/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "goomy",
+      "url": "/pokemon/704/"
+    },
+    {
+      "name": "popplio",
+      "url": "/pokemon/728/"
+    },
+    {
+      "name": "brionne",
+      "url": "/pokemon/729/"
+    },
+    {
+      "name": "primarina",
+      "url": "/pokemon/730/"
+    },
+    {
+      "name": "hatenna",
+      "url": "/pokemon/856/"
+    },
+    {
+      "name": "hattrem",
+      "url": "/pokemon/857/"
+    },
+    {
+      "name": "hatterene",
+      "url": "/pokemon/858/"
+    },
+    {
+      "name": "calyrex",
+      "url": "/pokemon/898/"
+    },
+    {
+      "name": "poltchageist",
+      "url": "/pokemon/1012/"
+    },
+    {
+      "name": "sinistcha",
+      "url": "/pokemon/1013/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "heal",
+      "url": "/move-category/3/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 25,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "life-dew",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "いのちのしずく"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "생명의물방울"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "生命水滴"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Fontaine de Vie"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Lebenstropfen"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Gota Vital"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Goccia Vitale"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Life Dew"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "いのちのしずく"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "生命水滴"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "user-and-allies",
+    "url": "/move-target/13/"
+  },
+  "type": {
+    "name": "water",
+    "url": "/type/11/"
+  }
+}

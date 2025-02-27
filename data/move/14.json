@@ -1,0 +1,2461 @@
+{
+  "accuracy": null,
+  "contest_combos": {
+    "normal": {
+      "use_after": null,
+      "use_before": [
+        {
+          "name": "cut",
+          "url": "/move/15/"
+        },
+        {
+          "name": "crabhammer",
+          "url": "/move/152/"
+        },
+        {
+          "name": "slash",
+          "url": "/move/163/"
+        },
+        {
+          "name": "false-swipe",
+          "url": "/move/206/"
+        },
+        {
+          "name": "fury-cutter",
+          "url": "/move/210/"
+        },
+        {
+          "name": "crush-claw",
+          "url": "/move/306/"
+        }
+      ]
+    },
+    "super": {
+      "use_after": null,
+      "use_before": null
+    }
+  },
+  "contest_effect": {
+    "url": "/contest-effect/32/"
+  },
+  "contest_type": {
+    "name": "beauty",
+    "url": "/contest-type/2/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Raises the user's Attack by two stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Raises the user's Attack by two stages."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "A dance that in­\ncreases ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "A dance that in­\ncreases ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "A fighting dance that\nsharply raises ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "A fighting dance that\nsharply raises ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Danse frénétique qui exalte l’esprit\ncombatif. Augmente beaucoup\nl’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 추며\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Kampftanz, der den eigenen\nAngriffs-Wert stark erhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 추며\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Kampftanz, der den eigenen\nAngriffs-Wert stark erhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 춰서\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起戰舞提升氣勢。\n大幅提高自己的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Kampftanz, der den eigenen Angriffs-Wert\nstark erhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起战舞提高气势。\n大幅提高自己的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 춰서\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起戰舞提升氣勢。\n大幅提高自己的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Kampftanz, der den eigenen Angriffs-Wert\nstark erhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起战舞提高气势。\n大幅提高自己的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 춰서\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起戰舞提升氣勢。\n大幅提高自己的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Une danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Tanz, der den Kampfgeist wecken soll.\nDer Angriffs-Wert des Anwenders wird stark\nerhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起战舞提高气势。\n大幅提高自己的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "たたかいのまいを　はげしく　おどって\nきあいを　たかめる。\nじぶんの　こうげきを　ぐーんと　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "싸움의 춤을 격렬하게 춰서\n기세를 높인다.\n자신의 공격을 크게 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起戰舞提升氣勢，\n大幅提高自己的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Une danse frénétique qui exalte l’esprit combatif.\nAugmente beaucoup l’Attaque du lanceur.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ein wilder Tanz, der den Kampfgeist wecken soll.\nDer Angriffs-Wert des Anwenders wird stark erhöht.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Baile frenético que aumenta mucho el Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "戦いの舞を　激しく　おどって\n気合を　高める。\n自分の　攻撃を　ぐーんと　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "激烈地跳起战舞提高气势。\n大幅提高自己的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 14,
+  "learned_by_pokemon": [
+    {
+      "name": "bulbasaur",
+      "url": "/pokemon/1/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "beedrill",
+      "url": "/pokemon/15/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "sandshrew",
+      "url": "/pokemon/27/"
+    },
+    {
+      "name": "sandslash",
+      "url": "/pokemon/28/"
+    },
+    {
+      "name": "oddish",
+      "url": "/pokemon/43/"
+    },
+    {
+      "name": "gloom",
+      "url": "/pokemon/44/"
+    },
+    {
+      "name": "vileplume",
+      "url": "/pokemon/45/"
+    },
+    {
+      "name": "paras",
+      "url": "/pokemon/46/"
+    },
+    {
+      "name": "parasect",
+      "url": "/pokemon/47/"
+    },
+    {
+      "name": "diglett",
+      "url": "/pokemon/50/"
+    },
+    {
+      "name": "dugtrio",
+      "url": "/pokemon/51/"
+    },
+    {
+      "name": "bellsprout",
+      "url": "/pokemon/69/"
+    },
+    {
+      "name": "weepinbell",
+      "url": "/pokemon/70/"
+    },
+    {
+      "name": "victreebel",
+      "url": "/pokemon/71/"
+    },
+    {
+      "name": "tentacool",
+      "url": "/pokemon/72/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "/pokemon/73/"
+    },
+    {
+      "name": "rapidash",
+      "url": "/pokemon/78/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "doduo",
+      "url": "/pokemon/84/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "krabby",
+      "url": "/pokemon/98/"
+    },
+    {
+      "name": "kingler",
+      "url": "/pokemon/99/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "hitmonlee",
+      "url": "/pokemon/106/"
+    },
+    {
+      "name": "hitmonchan",
+      "url": "/pokemon/107/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "tangela",
+      "url": "/pokemon/114/"
+    },
+    {
+      "name": "goldeen",
+      "url": "/pokemon/118/"
+    },
+    {
+      "name": "seaking",
+      "url": "/pokemon/119/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "pinsir",
+      "url": "/pokemon/127/"
+    },
+    {
+      "name": "kabutops",
+      "url": "/pokemon/141/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "chikorita",
+      "url": "/pokemon/152/"
+    },
+    {
+      "name": "bayleef",
+      "url": "/pokemon/153/"
+    },
+    {
+      "name": "meganium",
+      "url": "/pokemon/154/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "ledyba",
+      "url": "/pokemon/165/"
+    },
+    {
+      "name": "ledian",
+      "url": "/pokemon/166/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "bellossom",
+      "url": "/pokemon/182/"
+    },
+    {
+      "name": "hoppip",
+      "url": "/pokemon/187/"
+    },
+    {
+      "name": "skiploom",
+      "url": "/pokemon/188/"
+    },
+    {
+      "name": "jumpluff",
+      "url": "/pokemon/189/"
+    },
+    {
+      "name": "sunkern",
+      "url": "/pokemon/191/"
+    },
+    {
+      "name": "sunflora",
+      "url": "/pokemon/192/"
+    },
+    {
+      "name": "yanma",
+      "url": "/pokemon/193/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "skarmory",
+      "url": "/pokemon/227/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "treecko",
+      "url": "/pokemon/252/"
+    },
+    {
+      "name": "grovyle",
+      "url": "/pokemon/253/"
+    },
+    {
+      "name": "sceptile",
+      "url": "/pokemon/254/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "lotad",
+      "url": "/pokemon/270/"
+    },
+    {
+      "name": "lombre",
+      "url": "/pokemon/271/"
+    },
+    {
+      "name": "ludicolo",
+      "url": "/pokemon/272/"
+    },
+    {
+      "name": "seedot",
+      "url": "/pokemon/273/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "shroomish",
+      "url": "/pokemon/285/"
+    },
+    {
+      "name": "breloom",
+      "url": "/pokemon/286/"
+    },
+    {
+      "name": "ninjask",
+      "url": "/pokemon/291/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "roselia",
+      "url": "/pokemon/315/"
+    },
+    {
+      "name": "gulpin",
+      "url": "/pokemon/316/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "corphish",
+      "url": "/pokemon/341/"
+    },
+    {
+      "name": "crawdaunt",
+      "url": "/pokemon/342/"
+    },
+    {
+      "name": "lileep",
+      "url": "/pokemon/345/"
+    },
+    {
+      "name": "cradily",
+      "url": "/pokemon/346/"
+    },
+    {
+      "name": "anorith",
+      "url": "/pokemon/347/"
+    },
+    {
+      "name": "armaldo",
+      "url": "/pokemon/348/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "walrein",
+      "url": "/pokemon/365/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "chimchar",
+      "url": "/pokemon/390/"
+    },
+    {
+      "name": "monferno",
+      "url": "/pokemon/391/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "bidoof",
+      "url": "/pokemon/399/"
+    },
+    {
+      "name": "bibarel",
+      "url": "/pokemon/400/"
+    },
+    {
+      "name": "kricketune",
+      "url": "/pokemon/402/"
+    },
+    {
+      "name": "budew",
+      "url": "/pokemon/406/"
+    },
+    {
+      "name": "roserade",
+      "url": "/pokemon/407/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "cherubi",
+      "url": "/pokemon/420/"
+    },
+    {
+      "name": "cherrim",
+      "url": "/pokemon/421/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "skorupi",
+      "url": "/pokemon/451/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "toxicroak",
+      "url": "/pokemon/454/"
+    },
+    {
+      "name": "carnivine",
+      "url": "/pokemon/455/"
+    },
+    {
+      "name": "snover",
+      "url": "/pokemon/459/"
+    },
+    {
+      "name": "abomasnow",
+      "url": "/pokemon/460/"
+    },
+    {
+      "name": "weavile",
+      "url": "/pokemon/461/"
+    },
+    {
+      "name": "lickilicky",
+      "url": "/pokemon/463/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "tangrowth",
+      "url": "/pokemon/465/"
+    },
+    {
+      "name": "yanmega",
+      "url": "/pokemon/469/"
+    },
+    {
+      "name": "leafeon",
+      "url": "/pokemon/470/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "snivy",
+      "url": "/pokemon/495/"
+    },
+    {
+      "name": "servine",
+      "url": "/pokemon/496/"
+    },
+    {
+      "name": "serperior",
+      "url": "/pokemon/497/"
+    },
+    {
+      "name": "oshawott",
+      "url": "/pokemon/501/"
+    },
+    {
+      "name": "dewott",
+      "url": "/pokemon/502/"
+    },
+    {
+      "name": "samurott",
+      "url": "/pokemon/503/"
+    },
+    {
+      "name": "patrat",
+      "url": "/pokemon/504/"
+    },
+    {
+      "name": "watchog",
+      "url": "/pokemon/505/"
+    },
+    {
+      "name": "drilbur",
+      "url": "/pokemon/529/"
+    },
+    {
+      "name": "excadrill",
+      "url": "/pokemon/530/"
+    },
+    {
+      "name": "leavanny",
+      "url": "/pokemon/542/"
+    },
+    {
+      "name": "scolipede",
+      "url": "/pokemon/545/"
+    },
+    {
+      "name": "lilligant",
+      "url": "/pokemon/549/"
+    },
+    {
+      "name": "dwebble",
+      "url": "/pokemon/557/"
+    },
+    {
+      "name": "crustle",
+      "url": "/pokemon/558/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "sawsbuck",
+      "url": "/pokemon/586/"
+    },
+    {
+      "name": "karrablast",
+      "url": "/pokemon/588/"
+    },
+    {
+      "name": "escavalier",
+      "url": "/pokemon/589/"
+    },
+    {
+      "name": "ferrothorn",
+      "url": "/pokemon/598/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "mienfoo",
+      "url": "/pokemon/619/"
+    },
+    {
+      "name": "mienshao",
+      "url": "/pokemon/620/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "landorus-incarnate",
+      "url": "/pokemon/645/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "meloetta-aria",
+      "url": "/pokemon/648/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "frogadier",
+      "url": "/pokemon/657/"
+    },
+    {
+      "name": "greninja",
+      "url": "/pokemon/658/"
+    },
+    {
+      "name": "bunnelby",
+      "url": "/pokemon/659/"
+    },
+    {
+      "name": "diggersby",
+      "url": "/pokemon/660/"
+    },
+    {
+      "name": "fletchling",
+      "url": "/pokemon/661/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "pancham",
+      "url": "/pokemon/674/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "honedge",
+      "url": "/pokemon/679/"
+    },
+    {
+      "name": "doublade",
+      "url": "/pokemon/680/"
+    },
+    {
+      "name": "aegislash-shield",
+      "url": "/pokemon/681/"
+    },
+    {
+      "name": "binacle",
+      "url": "/pokemon/688/"
+    },
+    {
+      "name": "barbaracle",
+      "url": "/pokemon/689/"
+    },
+    {
+      "name": "clauncher",
+      "url": "/pokemon/692/"
+    },
+    {
+      "name": "clawitzer",
+      "url": "/pokemon/693/"
+    },
+    {
+      "name": "hawlucha",
+      "url": "/pokemon/701/"
+    },
+    {
+      "name": "rowlet",
+      "url": "/pokemon/722/"
+    },
+    {
+      "name": "dartrix",
+      "url": "/pokemon/723/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "pikipek",
+      "url": "/pokemon/731/"
+    },
+    {
+      "name": "trumbeak",
+      "url": "/pokemon/732/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "oricorio-baile",
+      "url": "/pokemon/741/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "fomantis",
+      "url": "/pokemon/753/"
+    },
+    {
+      "name": "lurantis",
+      "url": "/pokemon/754/"
+    },
+    {
+      "name": "stufful",
+      "url": "/pokemon/759/"
+    },
+    {
+      "name": "bewear",
+      "url": "/pokemon/760/"
+    },
+    {
+      "name": "golisopod",
+      "url": "/pokemon/768/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "dhelmise",
+      "url": "/pokemon/781/"
+    },
+    {
+      "name": "jangmo-o",
+      "url": "/pokemon/782/"
+    },
+    {
+      "name": "hakamo-o",
+      "url": "/pokemon/783/"
+    },
+    {
+      "name": "kommo-o",
+      "url": "/pokemon/784/"
+    },
+    {
+      "name": "tapu-bulu",
+      "url": "/pokemon/787/"
+    },
+    {
+      "name": "kartana",
+      "url": "/pokemon/798/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "grookey",
+      "url": "/pokemon/810/"
+    },
+    {
+      "name": "thwackey",
+      "url": "/pokemon/811/"
+    },
+    {
+      "name": "rillaboom",
+      "url": "/pokemon/812/"
+    },
+    {
+      "name": "raboot",
+      "url": "/pokemon/814/"
+    },
+    {
+      "name": "cinderace",
+      "url": "/pokemon/815/"
+    },
+    {
+      "name": "inteleon",
+      "url": "/pokemon/818/"
+    },
+    {
+      "name": "greedent",
+      "url": "/pokemon/820/"
+    },
+    {
+      "name": "dubwool",
+      "url": "/pokemon/832/"
+    },
+    {
+      "name": "drednaw",
+      "url": "/pokemon/834/"
+    },
+    {
+      "name": "hatterene",
+      "url": "/pokemon/858/"
+    },
+    {
+      "name": "perrserker",
+      "url": "/pokemon/863/"
+    },
+    {
+      "name": "sirfetchd",
+      "url": "/pokemon/865/"
+    },
+    {
+      "name": "falinks",
+      "url": "/pokemon/870/"
+    },
+    {
+      "name": "duraludon",
+      "url": "/pokemon/884/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "kubfu",
+      "url": "/pokemon/891/"
+    },
+    {
+      "name": "urshifu-single-strike",
+      "url": "/pokemon/892/"
+    },
+    {
+      "name": "zarude",
+      "url": "/pokemon/893/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "kleavor",
+      "url": "/pokemon/900/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "sneasler",
+      "url": "/pokemon/903/"
+    },
+    {
+      "name": "overqwil",
+      "url": "/pokemon/904/"
+    },
+    {
+      "name": "quaquaval",
+      "url": "/pokemon/914/"
+    },
+    {
+      "name": "lokix",
+      "url": "/pokemon/920/"
+    },
+    {
+      "name": "ceruledge",
+      "url": "/pokemon/937/"
+    },
+    {
+      "name": "shroodle",
+      "url": "/pokemon/944/"
+    },
+    {
+      "name": "grafaiai",
+      "url": "/pokemon/945/"
+    },
+    {
+      "name": "klawf",
+      "url": "/pokemon/950/"
+    },
+    {
+      "name": "tinkatink",
+      "url": "/pokemon/957/"
+    },
+    {
+      "name": "tinkatuff",
+      "url": "/pokemon/958/"
+    },
+    {
+      "name": "tinkaton",
+      "url": "/pokemon/959/"
+    },
+    {
+      "name": "flamigo",
+      "url": "/pokemon/973/"
+    },
+    {
+      "name": "kingambit",
+      "url": "/pokemon/983/"
+    },
+    {
+      "name": "iron-hands",
+      "url": "/pokemon/992/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "frigibax",
+      "url": "/pokemon/996/"
+    },
+    {
+      "name": "arctibax",
+      "url": "/pokemon/997/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "chien-pao",
+      "url": "/pokemon/1002/"
+    },
+    {
+      "name": "iron-valiant",
+      "url": "/pokemon/1006/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "miraidon",
+      "url": "/pokemon/1008/"
+    },
+    {
+      "name": "iron-leaves",
+      "url": "/pokemon/1010/"
+    },
+    {
+      "name": "fezandipiti",
+      "url": "/pokemon/1016/"
+    },
+    {
+      "name": "ogerpon",
+      "url": "/pokemon/1017/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "iron-boulder",
+      "url": "/pokemon/1022/"
+    },
+    {
+      "name": "iron-crown",
+      "url": "/pokemon/1023/"
+    },
+    {
+      "name": "shaymin-sky",
+      "url": "/pokemon/10006/"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "url": "/pokemon/10018/"
+    },
+    {
+      "name": "landorus-therian",
+      "url": "/pokemon/10021/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "aegislash-blade",
+      "url": "/pokemon/10026/"
+    },
+    {
+      "name": "venusaur-mega",
+      "url": "/pokemon/10033/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "pinsir-mega",
+      "url": "/pokemon/10040/"
+    },
+    {
+      "name": "scizor-mega",
+      "url": "/pokemon/10046/"
+    },
+    {
+      "name": "heracross-mega",
+      "url": "/pokemon/10047/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "absol-mega",
+      "url": "/pokemon/10057/"
+    },
+    {
+      "name": "garchomp-mega",
+      "url": "/pokemon/10058/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "abomasnow-mega",
+      "url": "/pokemon/10060/"
+    },
+    {
+      "name": "sceptile-mega",
+      "url": "/pokemon/10065/"
+    },
+    {
+      "name": "gallade-mega",
+      "url": "/pokemon/10068/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "beedrill-mega",
+      "url": "/pokemon/10090/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "sandshrew-alola",
+      "url": "/pokemon/10101/"
+    },
+    {
+      "name": "sandslash-alola",
+      "url": "/pokemon/10102/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "dugtrio-alola",
+      "url": "/pokemon/10106/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "greninja-ash",
+      "url": "/pokemon/10117/"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "url": "/pokemon/10123/"
+    },
+    {
+      "name": "oricorio-pau",
+      "url": "/pokemon/10124/"
+    },
+    {
+      "name": "oricorio-sensu",
+      "url": "/pokemon/10125/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "lurantis-totem",
+      "url": "/pokemon/10128/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "url": "/pokemon/10144/"
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "url": "/pokemon/10145/"
+    },
+    {
+      "name": "kommo-o-totem",
+      "url": "/pokemon/10146/"
+    },
+    {
+      "name": "marowak-totem",
+      "url": "/pokemon/10149/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "necrozma-ultra",
+      "url": "/pokemon/10157/"
+    },
+    {
+      "name": "meowth-galar",
+      "url": "/pokemon/10161/"
+    },
+    {
+      "name": "rapidash-galar",
+      "url": "/pokemon/10163/"
+    },
+    {
+      "name": "farfetchd-galar",
+      "url": "/pokemon/10166/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "urshifu-rapid-strike",
+      "url": "/pokemon/10191/"
+    },
+    {
+      "name": "zarude-dada",
+      "url": "/pokemon/10192/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    },
+    {
+      "name": "sneasel-hisui",
+      "url": "/pokemon/10235/"
+    },
+    {
+      "name": "samurott-hisui",
+      "url": "/pokemon/10236/"
+    },
+    {
+      "name": "lilligant-hisui",
+      "url": "/pokemon/10237/"
+    },
+    {
+      "name": "zoroark-hisui",
+      "url": "/pokemon/10239/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    },
+    {
+      "name": "miraidon-low-power-mode",
+      "url": "/pokemon/10268/"
+    },
+    {
+      "name": "miraidon-drive-mode",
+      "url": "/pokemon/10269/"
+    },
+    {
+      "name": "miraidon-aquatic-mode",
+      "url": "/pokemon/10270/"
+    },
+    {
+      "name": "miraidon-glide-mode",
+      "url": "/pokemon/10271/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    },
+    {
+      "name": "ogerpon-wellspring-mask",
+      "url": "/pokemon/10273/"
+    },
+    {
+      "name": "ogerpon-hearthflame-mask",
+      "url": "/pokemon/10274/"
+    },
+    {
+      "name": "ogerpon-cornerstone-mask",
+      "url": "/pokemon/10275/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/42/"
+      },
+      "version_group": {
+        "name": "red-blue",
+        "url": "/version-group/1/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/43/"
+      },
+      "version_group": {
+        "name": "yellow",
+        "url": "/version-group/2/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1252/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1253/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1254/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1255/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1256/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1257/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1258/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1259/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1260/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1477/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1793/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/2001/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "net-good-stats",
+      "url": "/move-category/2/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "swords-dance",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "つるぎのまい"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "칼춤"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "劍舞"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Danse Lames"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Schwerttanz"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Danza Espada"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Danzaspada"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Swords Dance"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "つるぎのまい"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "剑舞"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": 30,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": null,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": 2,
+      "stat": {
+        "name": "attack",
+        "url": "/stat/2/"
+      }
+    }
+  ],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/11/"
+  },
+  "target": {
+    "name": "user",
+    "url": "/move-target/7/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

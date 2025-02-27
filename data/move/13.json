@@ -1,0 +1,1119 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/2/"
+  },
+  "contest_type": {
+    "name": "cool",
+    "url": "/contest-type/1/"
+  },
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Requires a turn to charge before attacking."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "1st turn: Prepare\n2nd turn: Attack",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "1st turn: Prepare\n2nd turn: Attack",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en 2 tours.\nDes lames de vent frappent l’ennemi au\n2è tour. Taux de critiques élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "かぜの　やいばを　つくり\n２ターンめに　あいてを　こうげきする。\nきゅうしょに　あたりやすい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "바람의 칼날을 만들어\n2턴째에 상대를 공격한다.\n급소에 맞기 쉽다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en deux tours.\nDes lames de vent frappent l’ennemi au second\ntour. Taux de critiques élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Eine Attacke, die über zwei Runden geht.\nHohe Volltrefferquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Primero se prepara y en el segundo turno ataca\nal oponente con ráfagas de viento cortante. Alta\nprobabilidad de ser crítico.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "風の　刃を　つくり\n２ターン目に　相手を　攻撃する。\n急所に　当たりやすい。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "かぜの　やいばを　つくり\n２ターンめに　あいてを　こうげきする。\nきゅうしょに　あたりやすい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "바람의 칼날을 만들어\n2턴째에 상대를 공격한다.\n급소에 맞기 쉽다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en deux tours.\nDes lames de vent frappent l’ennemi au second\ntour. Taux de critiques élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Eine Attacke, die über zwei Runden geht.\nHohe Volltrefferquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Primero se prepara y en el segundo turno\nataca al oponente con ráfagas de viento\ncortante. Alta probabilidad de ser crítico.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "風の　刃を　つくり\n２ターン目に　相手を　攻撃する。\n急所に　当たりやすい。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "かぜの　やいばを　つくり\n２ターンめに　あいてを　こうげきする。\nきゅうしょに　あたりやすい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "바람의 칼날을 만들어\n2턴째에 상대를 공격한다.\n급소에 맞기 쉽다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "製造出風之刃，\n在下一回合攻擊對手。\n容易擊中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en deux tours.\nDes lames de vent frappent l’ennemi au second\ntour. Taux de critique élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Eine Attacke, die über zwei Runden geht.\nHohe Volltrefferquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Primero se prepara y en el segundo turno\nataca al oponente con ráfagas de viento\ncortante. Alta probabilidad de ser crítico.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "風の　刃を　つくり\n２ターン目に　相手を　攻撃する。\n急所に　当たりやすい。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "制造风之刃，\n于第２回合攻击对手。\n容易击中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "かぜの　やいばを　つくり\n２ターンめに　あいてを　こうげきする。\nきゅうしょに　あたりやすい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "바람의 칼날을 만들어\n2턴째에 상대를 공격한다.\n급소에 맞기 쉽다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "製造出風之刃，\n在下一回合攻擊對手。\n容易擊中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en deux tours.\nDes lames de vent frappent l’ennemi au second\ntour. Taux de critique élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Eine Attacke, die über zwei Runden geht.\nHohe Volltrefferquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Primero se prepara y en el segundo turno\nataca al oponente con ráfagas de viento\ncortante. Alta probabilidad de ser crítico.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "風の　刃を　つくり\n２ターン目に　相手を　攻撃する。\n急所に　当たりやすい。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "制造风之刃，\n于第２回合攻击对手。\n容易击中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "かぜの　やいばを　つくり\n２ターンめに　あいてを　こうげきする。\nきゅうしょに　あたりやすい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "바람의 칼날을 만들어\n2턴째에 상대를 공격한다.\n급소에 맞기 쉽다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "製造出風之刃，\n在下一回合攻擊對手。\n容易擊中要害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Attaque en deux tours.\nDes lames de vent frappent l’ennemi au second tour.\nTaux de critique élevé.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Eine Attacke, die über zwei Runden geht.\nHohe Volltrefferquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Primero se prepara y en el segundo turno\nataca al oponente con ráfagas de viento\ncortante. Alta probabilidad de ser crítico.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "風の　刃を　つくり\n２ターン目に　相手を　攻撃する。\n急所に　当たりやすい。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "制造风之刃，\n于第２回合攻击对手。\n容易击中要害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "このわざは　つかえません\nおもいだすことが　できなくなりますが\nわざを　わすれることを　おすすめします",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "사용할 수 없는 기술입니다.\n다시 배우게 할 수 없지만\n기술을 잊게 하는 것을 권장합니다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "無法使用此招式。\n雖然忘記後將無法再想起來，\n但還是建議忘記此招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nicht eingesetzt werden. Du solltest\ndein Pokémon sie vergessen lassen. Beachte aber,\ndass es sich danach nicht wieder an sie erinnern kann.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento no se puede usar, por lo que sería\nmejor olvidarlo, aunque eso implique que no se pueda\nrecordar posteriormente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Questa mossa non può essere usata.\nÈ consigliabile farla dimenticare al Pokémon. Tuttavia,\nuna volta dimenticata, non potrà più essere ricordata.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "この技は　使えません\n思い出すことが　できなくなりますが\n技を　忘れることを　おすすめします",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "无法使用这个招式。\n虽然忘记之后就再也想不起来了，\n但还是建议忘记这个招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 13,
+  "learned_by_pokemon": [
+    {
+      "name": "bulbasaur",
+      "url": "/pokemon/1/"
+    },
+    {
+      "name": "butterfree",
+      "url": "/pokemon/12/"
+    },
+    {
+      "name": "pidgey",
+      "url": "/pokemon/16/"
+    },
+    {
+      "name": "pidgeotto",
+      "url": "/pokemon/17/"
+    },
+    {
+      "name": "pidgeot",
+      "url": "/pokemon/18/"
+    },
+    {
+      "name": "spearow",
+      "url": "/pokemon/21/"
+    },
+    {
+      "name": "fearow",
+      "url": "/pokemon/22/"
+    },
+    {
+      "name": "zubat",
+      "url": "/pokemon/41/"
+    },
+    {
+      "name": "golbat",
+      "url": "/pokemon/42/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "horsea",
+      "url": "/pokemon/116/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "kabutops",
+      "url": "/pokemon/141/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "zapdos",
+      "url": "/pokemon/145/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "treecko",
+      "url": "/pokemon/252/"
+    },
+    {
+      "name": "seedot",
+      "url": "/pokemon/273/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "buizel",
+      "url": "/pokemon/418/"
+    },
+    {
+      "name": "floatzel",
+      "url": "/pokemon/419/"
+    },
+    {
+      "name": "pidove",
+      "url": "/pokemon/519/"
+    },
+    {
+      "name": "tranquill",
+      "url": "/pokemon/520/"
+    },
+    {
+      "name": "unfezant",
+      "url": "/pokemon/521/"
+    },
+    {
+      "name": "sewaddle",
+      "url": "/pokemon/540/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fletchling",
+      "url": "/pokemon/661/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "helioptile",
+      "url": "/pokemon/694/"
+    },
+    {
+      "name": "heliolisk",
+      "url": "/pokemon/695/"
+    },
+    {
+      "name": "noibat",
+      "url": "/pokemon/714/"
+    },
+    {
+      "name": "noivern",
+      "url": "/pokemon/715/"
+    },
+    {
+      "name": "yveltal",
+      "url": "/pokemon/717/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "drampa",
+      "url": "/pokemon/780/"
+    },
+    {
+      "name": "scizor-mega",
+      "url": "/pokemon/10046/"
+    },
+    {
+      "name": "absol-mega",
+      "url": "/pokemon/10057/"
+    },
+    {
+      "name": "pidgeot-mega",
+      "url": "/pokemon/10073/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/22/"
+      },
+      "version_group": {
+        "name": "red-blue",
+        "url": "/version-group/1/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/23/"
+      },
+      "version_group": {
+        "name": "yellow",
+        "url": "/version-group/2/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 1,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "razor-wind",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "かまいたち"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "칼바람"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "旋風刀"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Coupe-Vent"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Klingensturm"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Viento Cortante"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Ventagliente"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Razor Wind"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "かまいたち"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "旋风刀"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": 75,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    }
+  ],
+  "power": 80,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/6/"
+  },
+  "target": {
+    "name": "all-opponents",
+    "url": "/move-target/11/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

@@ -1,0 +1,2498 @@
+{
+  "accuracy": 90,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "beauty",
+    "url": "/contest-type/2/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": 20,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Has a 20% chance to make the target flinch."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et\ndonne un coup de tête. Peut aussi\napeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne un coup\nde tête. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt\ndas Ziel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para\ngolpear. Puede hacer que el objetivo retroceda.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra la forza nella testa e si lancia\ncontro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head\nand attacks the target.\nThis may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne un coup\nde tête. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt\ndas Ziel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para \ngolpear. Puede hacer que el objetivo retroceda.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra la forza nella testa e si lancia\ncontro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head\nand attacks the target.\nThis may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "將意念的力量集中在\n前額進行攻擊。\n有時會讓對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne un coup\nde tête. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt das\nZiel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para \ngolpear. Puede hacer que el objetivo retroceda.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra la forza nella testa e si lancia\ncontro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "将思念的力量集中在\n前额进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "將意念的力量集中在\n前額進行攻擊。\n有時會讓對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne un coup\nde tête. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt das\nZiel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para \ngolpear. Puede hacer que el objetivo retroceda.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra la forza nella testa e si lancia\ncontro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "将思念的力量集中在\n前额进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "將意念的力量集中在\n前額進行攻擊。\n有時會讓對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne un coup de tête.\nPeut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt das\nZiel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para \ngolpear. Puede hacer que el objetivo retroceda.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra le energie psichiche nella testa e si\nlancia contro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "将思念的力量集中在\n前额进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "しねんの　ちからを\nひたいに　あつめて　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "사념의 힘을\n이마에 모아서 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "將意念的力量集中在\n前額進行攻擊。\n有時會讓對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre sa volonté et donne\nun coup de tête. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender konzentriert seinen Willen und rammt das\nZiel. Dieses schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Concentra su energía psíquica en la cabeza para\ngolpear. Puede hacer que el objetivo se amedrente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa concentra le energie psichiche nella testa e si\nlancia contro il bersaglio. Può anche farlo tentennare.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "思念の　力を\n額に　集めて　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "将思念的力量集中在\n前额进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 428,
+  "learned_by_pokemon": [
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "rattata",
+      "url": "/pokemon/19/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "/pokemon/39/"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "/pokemon/40/"
+    },
+    {
+      "name": "zubat",
+      "url": "/pokemon/41/"
+    },
+    {
+      "name": "golbat",
+      "url": "/pokemon/42/"
+    },
+    {
+      "name": "venonat",
+      "url": "/pokemon/48/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "psyduck",
+      "url": "/pokemon/54/"
+    },
+    {
+      "name": "golduck",
+      "url": "/pokemon/55/"
+    },
+    {
+      "name": "abra",
+      "url": "/pokemon/63/"
+    },
+    {
+      "name": "kadabra",
+      "url": "/pokemon/64/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "mr-mime",
+      "url": "/pokemon/122/"
+    },
+    {
+      "name": "jynx",
+      "url": "/pokemon/124/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "porygon",
+      "url": "/pokemon/137/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "meganium",
+      "url": "/pokemon/154/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "quilava",
+      "url": "/pokemon/156/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "furret",
+      "url": "/pokemon/162/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "crobat",
+      "url": "/pokemon/169/"
+    },
+    {
+      "name": "cleffa",
+      "url": "/pokemon/173/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "porygon2",
+      "url": "/pokemon/233/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "smoochum",
+      "url": "/pokemon/238/"
+    },
+    {
+      "name": "miltank",
+      "url": "/pokemon/241/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "lotad",
+      "url": "/pokemon/270/"
+    },
+    {
+      "name": "lombre",
+      "url": "/pokemon/271/"
+    },
+    {
+      "name": "ludicolo",
+      "url": "/pokemon/272/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "shroomish",
+      "url": "/pokemon/285/"
+    },
+    {
+      "name": "breloom",
+      "url": "/pokemon/286/"
+    },
+    {
+      "name": "slakoth",
+      "url": "/pokemon/287/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "whismur",
+      "url": "/pokemon/293/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "makuhita",
+      "url": "/pokemon/296/"
+    },
+    {
+      "name": "hariyama",
+      "url": "/pokemon/297/"
+    },
+    {
+      "name": "skitty",
+      "url": "/pokemon/300/"
+    },
+    {
+      "name": "delcatty",
+      "url": "/pokemon/301/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "medicham",
+      "url": "/pokemon/308/"
+    },
+    {
+      "name": "volbeat",
+      "url": "/pokemon/313/"
+    },
+    {
+      "name": "illumise",
+      "url": "/pokemon/314/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "carvanha",
+      "url": "/pokemon/318/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "wailmer",
+      "url": "/pokemon/320/"
+    },
+    {
+      "name": "wailord",
+      "url": "/pokemon/321/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "torkoal",
+      "url": "/pokemon/324/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "grumpig",
+      "url": "/pokemon/326/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "barboach",
+      "url": "/pokemon/339/"
+    },
+    {
+      "name": "whiscash",
+      "url": "/pokemon/340/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "relicanth",
+      "url": "/pokemon/369/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "beldum",
+      "url": "/pokemon/374/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "/pokemon/386/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "chimchar",
+      "url": "/pokemon/390/"
+    },
+    {
+      "name": "monferno",
+      "url": "/pokemon/391/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "chingling",
+      "url": "/pokemon/433/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "mime-jr",
+      "url": "/pokemon/439/"
+    },
+    {
+      "name": "happiny",
+      "url": "/pokemon/440/"
+    },
+    {
+      "name": "munchlax",
+      "url": "/pokemon/446/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "lickilicky",
+      "url": "/pokemon/463/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "porygon-z",
+      "url": "/pokemon/474/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "uxie",
+      "url": "/pokemon/480/"
+    },
+    {
+      "name": "mesprit",
+      "url": "/pokemon/481/"
+    },
+    {
+      "name": "azelf",
+      "url": "/pokemon/482/"
+    },
+    {
+      "name": "regigigas",
+      "url": "/pokemon/486/"
+    },
+    {
+      "name": "cresselia",
+      "url": "/pokemon/488/"
+    },
+    {
+      "name": "phione",
+      "url": "/pokemon/489/"
+    },
+    {
+      "name": "manaphy",
+      "url": "/pokemon/490/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "patrat",
+      "url": "/pokemon/504/"
+    },
+    {
+      "name": "watchog",
+      "url": "/pokemon/505/"
+    },
+    {
+      "name": "munna",
+      "url": "/pokemon/517/"
+    },
+    {
+      "name": "musharna",
+      "url": "/pokemon/518/"
+    },
+    {
+      "name": "woobat",
+      "url": "/pokemon/527/"
+    },
+    {
+      "name": "swoobat",
+      "url": "/pokemon/528/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "throh",
+      "url": "/pokemon/538/"
+    },
+    {
+      "name": "sawk",
+      "url": "/pokemon/539/"
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "/pokemon/550/"
+    },
+    {
+      "name": "darumaka",
+      "url": "/pokemon/554/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "yamask",
+      "url": "/pokemon/562/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "tirtouga",
+      "url": "/pokemon/564/"
+    },
+    {
+      "name": "carracosta",
+      "url": "/pokemon/565/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "gothita",
+      "url": "/pokemon/574/"
+    },
+    {
+      "name": "gothorita",
+      "url": "/pokemon/575/"
+    },
+    {
+      "name": "gothitelle",
+      "url": "/pokemon/576/"
+    },
+    {
+      "name": "solosis",
+      "url": "/pokemon/577/"
+    },
+    {
+      "name": "duosion",
+      "url": "/pokemon/578/"
+    },
+    {
+      "name": "reuniclus",
+      "url": "/pokemon/579/"
+    },
+    {
+      "name": "deerling",
+      "url": "/pokemon/585/"
+    },
+    {
+      "name": "sawsbuck",
+      "url": "/pokemon/586/"
+    },
+    {
+      "name": "alomomola",
+      "url": "/pokemon/594/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "elgyem",
+      "url": "/pokemon/605/"
+    },
+    {
+      "name": "beheeyem",
+      "url": "/pokemon/606/"
+    },
+    {
+      "name": "golurk",
+      "url": "/pokemon/623/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "rufflet",
+      "url": "/pokemon/627/"
+    },
+    {
+      "name": "braviary",
+      "url": "/pokemon/628/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "kyurem",
+      "url": "/pokemon/646/"
+    },
+    {
+      "name": "meloetta-aria",
+      "url": "/pokemon/648/"
+    },
+    {
+      "name": "genesect",
+      "url": "/pokemon/649/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "skiddo",
+      "url": "/pokemon/672/"
+    },
+    {
+      "name": "gogoat",
+      "url": "/pokemon/673/"
+    },
+    {
+      "name": "pancham",
+      "url": "/pokemon/674/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "furfrou",
+      "url": "/pokemon/676/"
+    },
+    {
+      "name": "espurr",
+      "url": "/pokemon/677/"
+    },
+    {
+      "name": "meowstic-male",
+      "url": "/pokemon/678/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "amaura",
+      "url": "/pokemon/698/"
+    },
+    {
+      "name": "aurorus",
+      "url": "/pokemon/699/"
+    },
+    {
+      "name": "hawlucha",
+      "url": "/pokemon/701/"
+    },
+    {
+      "name": "xerneas",
+      "url": "/pokemon/716/"
+    },
+    {
+      "name": "yveltal",
+      "url": "/pokemon/717/"
+    },
+    {
+      "name": "zygarde-50",
+      "url": "/pokemon/718/"
+    },
+    {
+      "name": "hoopa",
+      "url": "/pokemon/720/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "crabrawler",
+      "url": "/pokemon/739/"
+    },
+    {
+      "name": "crabominable",
+      "url": "/pokemon/740/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "stufful",
+      "url": "/pokemon/759/"
+    },
+    {
+      "name": "bewear",
+      "url": "/pokemon/760/"
+    },
+    {
+      "name": "bounsweet",
+      "url": "/pokemon/761/"
+    },
+    {
+      "name": "steenee",
+      "url": "/pokemon/762/"
+    },
+    {
+      "name": "tsareena",
+      "url": "/pokemon/763/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "minior-red-meteor",
+      "url": "/pokemon/774/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "togedemaru",
+      "url": "/pokemon/777/"
+    },
+    {
+      "name": "tapu-bulu",
+      "url": "/pokemon/787/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "nihilego",
+      "url": "/pokemon/793/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "marshadow",
+      "url": "/pokemon/802/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "cinderace",
+      "url": "/pokemon/815/"
+    },
+    {
+      "name": "dottler",
+      "url": "/pokemon/825/"
+    },
+    {
+      "name": "orbeetle",
+      "url": "/pokemon/826/"
+    },
+    {
+      "name": "dubwool",
+      "url": "/pokemon/832/"
+    },
+    {
+      "name": "appletun",
+      "url": "/pokemon/842/"
+    },
+    {
+      "name": "sandaconda",
+      "url": "/pokemon/844/"
+    },
+    {
+      "name": "mr-rime",
+      "url": "/pokemon/866/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "falinks",
+      "url": "/pokemon/870/"
+    },
+    {
+      "name": "eiscue-ice",
+      "url": "/pokemon/875/"
+    },
+    {
+      "name": "indeedee-male",
+      "url": "/pokemon/876/"
+    },
+    {
+      "name": "cufant",
+      "url": "/pokemon/878/"
+    },
+    {
+      "name": "copperajah",
+      "url": "/pokemon/879/"
+    },
+    {
+      "name": "dracovish",
+      "url": "/pokemon/882/"
+    },
+    {
+      "name": "arctovish",
+      "url": "/pokemon/883/"
+    },
+    {
+      "name": "kubfu",
+      "url": "/pokemon/891/"
+    },
+    {
+      "name": "urshifu-single-strike",
+      "url": "/pokemon/892/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "calyrex",
+      "url": "/pokemon/898/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "basculegion-male",
+      "url": "/pokemon/902/"
+    },
+    {
+      "name": "enamorus-incarnate",
+      "url": "/pokemon/905/"
+    },
+    {
+      "name": "fuecoco",
+      "url": "/pokemon/909/"
+    },
+    {
+      "name": "crocalor",
+      "url": "/pokemon/910/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "lechonk",
+      "url": "/pokemon/915/"
+    },
+    {
+      "name": "oinkologne-male",
+      "url": "/pokemon/916/"
+    },
+    {
+      "name": "nacli",
+      "url": "/pokemon/932/"
+    },
+    {
+      "name": "naclstack",
+      "url": "/pokemon/933/"
+    },
+    {
+      "name": "garganacl",
+      "url": "/pokemon/934/"
+    },
+    {
+      "name": "capsakid",
+      "url": "/pokemon/951/"
+    },
+    {
+      "name": "scovillain",
+      "url": "/pokemon/952/"
+    },
+    {
+      "name": "rabsca",
+      "url": "/pokemon/954/"
+    },
+    {
+      "name": "flittle",
+      "url": "/pokemon/955/"
+    },
+    {
+      "name": "espathra",
+      "url": "/pokemon/956/"
+    },
+    {
+      "name": "finizen",
+      "url": "/pokemon/963/"
+    },
+    {
+      "name": "palafin-zero",
+      "url": "/pokemon/964/"
+    },
+    {
+      "name": "varoom",
+      "url": "/pokemon/965/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "veluza",
+      "url": "/pokemon/976/"
+    },
+    {
+      "name": "dondozo",
+      "url": "/pokemon/977/"
+    },
+    {
+      "name": "clodsire",
+      "url": "/pokemon/980/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "dudunsparce-two-segment",
+      "url": "/pokemon/982/"
+    },
+    {
+      "name": "kingambit",
+      "url": "/pokemon/983/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "brute-bonnet",
+      "url": "/pokemon/986/"
+    },
+    {
+      "name": "slither-wing",
+      "url": "/pokemon/988/"
+    },
+    {
+      "name": "iron-treads",
+      "url": "/pokemon/990/"
+    },
+    {
+      "name": "iron-jugulis",
+      "url": "/pokemon/993/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "wo-chien",
+      "url": "/pokemon/1001/"
+    },
+    {
+      "name": "ting-lu",
+      "url": "/pokemon/1003/"
+    },
+    {
+      "name": "chi-yu",
+      "url": "/pokemon/1004/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "iron-valiant",
+      "url": "/pokemon/1006/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "miraidon",
+      "url": "/pokemon/1008/"
+    },
+    {
+      "name": "ogerpon",
+      "url": "/pokemon/1017/"
+    },
+    {
+      "name": "iron-boulder",
+      "url": "/pokemon/1022/"
+    },
+    {
+      "name": "iron-crown",
+      "url": "/pokemon/1023/"
+    },
+    {
+      "name": "terapagos",
+      "url": "/pokemon/1024/"
+    },
+    {
+      "name": "deoxys-attack",
+      "url": "/pokemon/10001/"
+    },
+    {
+      "name": "deoxys-defense",
+      "url": "/pokemon/10002/"
+    },
+    {
+      "name": "deoxys-speed",
+      "url": "/pokemon/10003/"
+    },
+    {
+      "name": "shaymin-sky",
+      "url": "/pokemon/10006/"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "url": "/pokemon/10016/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "url": "/pokemon/10018/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "kyurem-black",
+      "url": "/pokemon/10022/"
+    },
+    {
+      "name": "kyurem-white",
+      "url": "/pokemon/10023/"
+    },
+    {
+      "name": "meowstic-female",
+      "url": "/pokemon/10025/"
+    },
+    {
+      "name": "blastoise-mega",
+      "url": "/pokemon/10036/"
+    },
+    {
+      "name": "alakazam-mega",
+      "url": "/pokemon/10037/"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "url": "/pokemon/10043/"
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "url": "/pokemon/10044/"
+    },
+    {
+      "name": "gardevoir-mega",
+      "url": "/pokemon/10051/"
+    },
+    {
+      "name": "medicham-mega",
+      "url": "/pokemon/10054/"
+    },
+    {
+      "name": "absol-mega",
+      "url": "/pokemon/10057/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "latias-mega",
+      "url": "/pokemon/10062/"
+    },
+    {
+      "name": "latios-mega",
+      "url": "/pokemon/10063/"
+    },
+    {
+      "name": "sableye-mega",
+      "url": "/pokemon/10066/"
+    },
+    {
+      "name": "gallade-mega",
+      "url": "/pokemon/10068/"
+    },
+    {
+      "name": "audino-mega",
+      "url": "/pokemon/10069/"
+    },
+    {
+      "name": "sharpedo-mega",
+      "url": "/pokemon/10070/"
+    },
+    {
+      "name": "slowbro-mega",
+      "url": "/pokemon/10071/"
+    },
+    {
+      "name": "metagross-mega",
+      "url": "/pokemon/10076/"
+    },
+    {
+      "name": "hoopa-unbound",
+      "url": "/pokemon/10086/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "rattata-alola",
+      "url": "/pokemon/10091/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "grimer-alola",
+      "url": "/pokemon/10112/"
+    },
+    {
+      "name": "muk-alola",
+      "url": "/pokemon/10113/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "zygarde-10-power-construct",
+      "url": "/pokemon/10118/"
+    },
+    {
+      "name": "zygarde-50-power-construct",
+      "url": "/pokemon/10119/"
+    },
+    {
+      "name": "zygarde-complete",
+      "url": "/pokemon/10120/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "minior-orange-meteor",
+      "url": "/pokemon/10130/"
+    },
+    {
+      "name": "minior-yellow-meteor",
+      "url": "/pokemon/10131/"
+    },
+    {
+      "name": "minior-green-meteor",
+      "url": "/pokemon/10132/"
+    },
+    {
+      "name": "minior-blue-meteor",
+      "url": "/pokemon/10133/"
+    },
+    {
+      "name": "minior-indigo-meteor",
+      "url": "/pokemon/10134/"
+    },
+    {
+      "name": "minior-violet-meteor",
+      "url": "/pokemon/10135/"
+    },
+    {
+      "name": "minior-red",
+      "url": "/pokemon/10136/"
+    },
+    {
+      "name": "minior-orange",
+      "url": "/pokemon/10137/"
+    },
+    {
+      "name": "minior-yellow",
+      "url": "/pokemon/10138/"
+    },
+    {
+      "name": "minior-green",
+      "url": "/pokemon/10139/"
+    },
+    {
+      "name": "minior-blue",
+      "url": "/pokemon/10140/"
+    },
+    {
+      "name": "minior-indigo",
+      "url": "/pokemon/10141/"
+    },
+    {
+      "name": "minior-violet",
+      "url": "/pokemon/10142/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "togedemaru-totem",
+      "url": "/pokemon/10154/"
+    },
+    {
+      "name": "ponyta-galar",
+      "url": "/pokemon/10162/"
+    },
+    {
+      "name": "rapidash-galar",
+      "url": "/pokemon/10163/"
+    },
+    {
+      "name": "slowpoke-galar",
+      "url": "/pokemon/10164/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "mr-mime-galar",
+      "url": "/pokemon/10168/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "darumaka-galar",
+      "url": "/pokemon/10176/"
+    },
+    {
+      "name": "darmanitan-galar-standard",
+      "url": "/pokemon/10177/"
+    },
+    {
+      "name": "darmanitan-galar-zen",
+      "url": "/pokemon/10178/"
+    },
+    {
+      "name": "yamask-galar",
+      "url": "/pokemon/10179/"
+    },
+    {
+      "name": "zygarde-10",
+      "url": "/pokemon/10181/"
+    },
+    {
+      "name": "eiscue-noice",
+      "url": "/pokemon/10185/"
+    },
+    {
+      "name": "indeedee-female",
+      "url": "/pokemon/10186/"
+    },
+    {
+      "name": "urshifu-rapid-strike",
+      "url": "/pokemon/10191/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    },
+    {
+      "name": "typhlosion-hisui",
+      "url": "/pokemon/10233/"
+    },
+    {
+      "name": "braviary-hisui",
+      "url": "/pokemon/10240/"
+    },
+    {
+      "name": "basculin-white-striped",
+      "url": "/pokemon/10247/"
+    },
+    {
+      "name": "enamorus-therian",
+      "url": "/pokemon/10249/"
+    },
+    {
+      "name": "tauros-paldea-combat-breed",
+      "url": "/pokemon/10250/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "oinkologne-female",
+      "url": "/pokemon/10254/"
+    },
+    {
+      "name": "dudunsparce-three-segment",
+      "url": "/pokemon/10255/"
+    },
+    {
+      "name": "palafin-hero",
+      "url": "/pokemon/10256/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    },
+    {
+      "name": "miraidon-low-power-mode",
+      "url": "/pokemon/10268/"
+    },
+    {
+      "name": "miraidon-drive-mode",
+      "url": "/pokemon/10269/"
+    },
+    {
+      "name": "miraidon-aquatic-mode",
+      "url": "/pokemon/10270/"
+    },
+    {
+      "name": "miraidon-glide-mode",
+      "url": "/pokemon/10271/"
+    },
+    {
+      "name": "ogerpon-wellspring-mask",
+      "url": "/pokemon/10273/"
+    },
+    {
+      "name": "ogerpon-hearthflame-mask",
+      "url": "/pokemon/10274/"
+    },
+    {
+      "name": "ogerpon-cornerstone-mask",
+      "url": "/pokemon/10275/"
+    },
+    {
+      "name": "terapagos-terastal",
+      "url": "/pokemon/10276/"
+    },
+    {
+      "name": "terapagos-stellar",
+      "url": "/pokemon/10277/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1658/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1764/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1984/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 20,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "zen-headbutt",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "しねんのずつき"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "사념의박치기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "意念頭錘"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Psykoud’Boul"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Zen-Kopfstoß"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Cabezazo Zen"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Cozzata Zen"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Zen Headbutt"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "しねんのずつき"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "意念头锤"
+    }
+  ],
+  "past_values": [],
+  "power": 80,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/18/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "psychic",
+    "url": "/type/14/"
+  }
+}

@@ -1,0 +1,1530 @@
+{
+  "accuracy": 95,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cool",
+    "url": "/contest-type/1/"
+  },
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": 30,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Has a 30% chance to make the target flinch."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air\nqui fend tout. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that\nslices even the sky. It may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that\nslices even the sky. It may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend\ntout. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con una hoja de aire que incluso corta el\ncielo. También puede hacer retroceder al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Può anche far tentennare\nil Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that\nslices even the sky. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend\ntout. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con una hoja de aire que incluso corta el cielo. \nTambién puede hacer retroceder al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Può anche far tentennare\nil Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that\nslices even the sky. This may also make the\ntarget flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用連天空也能劈開的\n空氣之刃進行攻擊。\n有時會使對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend\ntout. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con una hoja de aire que incluso corta el cielo. \nTambién puede hacer retroceder al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Può anche far tentennare\nil Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that slices even\nthe sky. This may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用连天空也能劈开的\n空气之刃进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用連天空也能劈開的\n空氣之刃進行攻擊。\n有時會使對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend\ntout. Peut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con una hoja de aire que incluso corta el cielo. \nTambién puede hacer retroceder al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Può anche far tentennare\nil Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that slices even\nthe sky. This may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用连天空也能劈开的\n空气之刃进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用連天空也能劈開的\n空氣之刃進行攻擊。\n有時會使對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend tout.\nPeut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con una hoja de aire que incluso corta el cielo. \nTambién puede hacer retroceder al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Può anche far tentennare\nil Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that slices even\nthe sky. This may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用连天空也能劈开的\n空气之刃进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "そらをも　きりさく\nくうきの　やいばで　こうげきする。\nあいてを　ひるませる　ことが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "하늘까지 베어 가르는\n공기의 칼날로 공격한다.\n상대를 풀죽게 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用連天空也能劈開的\n空氣之刃進行攻擊。\n有時會使對手畏縮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur attaque avec une lame d’air qui fend tout.\nPeut aussi apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zurück.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un viento afilado que incluso corta el aire.\nTambién puede amedrentar al objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca con un vento tagliente che squarcia\nil cielo. Può anche far tentennare il Pokémon colpito.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks with a blade of air that slices even\nthe sky. This may also make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "空をも　切り裂く\n空気の　刃で　攻撃する。\n相手を　ひるませることが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用连天空也能劈开的\n空气之刃进行攻击。\n有时会使对手畏缩。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 403,
+  "learned_by_pokemon": [
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "butterfree",
+      "url": "/pokemon/12/"
+    },
+    {
+      "name": "pidgey",
+      "url": "/pokemon/16/"
+    },
+    {
+      "name": "pidgeotto",
+      "url": "/pokemon/17/"
+    },
+    {
+      "name": "pidgeot",
+      "url": "/pokemon/18/"
+    },
+    {
+      "name": "zubat",
+      "url": "/pokemon/41/"
+    },
+    {
+      "name": "golbat",
+      "url": "/pokemon/42/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "ledyba",
+      "url": "/pokemon/165/"
+    },
+    {
+      "name": "ledian",
+      "url": "/pokemon/166/"
+    },
+    {
+      "name": "crobat",
+      "url": "/pokemon/169/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "yanma",
+      "url": "/pokemon/193/"
+    },
+    {
+      "name": "murkrow",
+      "url": "/pokemon/198/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "delibird",
+      "url": "/pokemon/225/"
+    },
+    {
+      "name": "mantine",
+      "url": "/pokemon/226/"
+    },
+    {
+      "name": "skarmory",
+      "url": "/pokemon/227/"
+    },
+    {
+      "name": "suicune",
+      "url": "/pokemon/245/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "beautifly",
+      "url": "/pokemon/267/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "taillow",
+      "url": "/pokemon/276/"
+    },
+    {
+      "name": "swellow",
+      "url": "/pokemon/277/"
+    },
+    {
+      "name": "wingull",
+      "url": "/pokemon/278/"
+    },
+    {
+      "name": "pelipper",
+      "url": "/pokemon/279/"
+    },
+    {
+      "name": "masquerain",
+      "url": "/pokemon/284/"
+    },
+    {
+      "name": "ninjask",
+      "url": "/pokemon/291/"
+    },
+    {
+      "name": "volbeat",
+      "url": "/pokemon/313/"
+    },
+    {
+      "name": "illumise",
+      "url": "/pokemon/314/"
+    },
+    {
+      "name": "vibrava",
+      "url": "/pokemon/329/"
+    },
+    {
+      "name": "flygon",
+      "url": "/pokemon/330/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "starly",
+      "url": "/pokemon/396/"
+    },
+    {
+      "name": "staravia",
+      "url": "/pokemon/397/"
+    },
+    {
+      "name": "staraptor",
+      "url": "/pokemon/398/"
+    },
+    {
+      "name": "mothim",
+      "url": "/pokemon/414/"
+    },
+    {
+      "name": "vespiquen",
+      "url": "/pokemon/416/"
+    },
+    {
+      "name": "drifblim",
+      "url": "/pokemon/426/"
+    },
+    {
+      "name": "honchkrow",
+      "url": "/pokemon/430/"
+    },
+    {
+      "name": "chatot",
+      "url": "/pokemon/441/"
+    },
+    {
+      "name": "finneon",
+      "url": "/pokemon/456/"
+    },
+    {
+      "name": "lumineon",
+      "url": "/pokemon/457/"
+    },
+    {
+      "name": "mantyke",
+      "url": "/pokemon/458/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "yanmega",
+      "url": "/pokemon/469/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "oshawott",
+      "url": "/pokemon/501/"
+    },
+    {
+      "name": "dewott",
+      "url": "/pokemon/502/"
+    },
+    {
+      "name": "samurott",
+      "url": "/pokemon/503/"
+    },
+    {
+      "name": "pidove",
+      "url": "/pokemon/519/"
+    },
+    {
+      "name": "tranquill",
+      "url": "/pokemon/520/"
+    },
+    {
+      "name": "unfezant",
+      "url": "/pokemon/521/"
+    },
+    {
+      "name": "woobat",
+      "url": "/pokemon/527/"
+    },
+    {
+      "name": "swoobat",
+      "url": "/pokemon/528/"
+    },
+    {
+      "name": "sewaddle",
+      "url": "/pokemon/540/"
+    },
+    {
+      "name": "leavanny",
+      "url": "/pokemon/542/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "ducklett",
+      "url": "/pokemon/580/"
+    },
+    {
+      "name": "swanna",
+      "url": "/pokemon/581/"
+    },
+    {
+      "name": "emolga",
+      "url": "/pokemon/587/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "rufflet",
+      "url": "/pokemon/627/"
+    },
+    {
+      "name": "braviary",
+      "url": "/pokemon/628/"
+    },
+    {
+      "name": "vullaby",
+      "url": "/pokemon/629/"
+    },
+    {
+      "name": "mandibuzz",
+      "url": "/pokemon/630/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "virizion",
+      "url": "/pokemon/640/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "fletchling",
+      "url": "/pokemon/661/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "vivillon",
+      "url": "/pokemon/666/"
+    },
+    {
+      "name": "aegislash-shield",
+      "url": "/pokemon/681/"
+    },
+    {
+      "name": "noibat",
+      "url": "/pokemon/714/"
+    },
+    {
+      "name": "noivern",
+      "url": "/pokemon/715/"
+    },
+    {
+      "name": "yveltal",
+      "url": "/pokemon/717/"
+    },
+    {
+      "name": "rowlet",
+      "url": "/pokemon/722/"
+    },
+    {
+      "name": "dartrix",
+      "url": "/pokemon/723/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "pikipek",
+      "url": "/pokemon/731/"
+    },
+    {
+      "name": "trumbeak",
+      "url": "/pokemon/732/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "vikavolt",
+      "url": "/pokemon/738/"
+    },
+    {
+      "name": "oricorio-baile",
+      "url": "/pokemon/741/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "lunala",
+      "url": "/pokemon/792/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "kartana",
+      "url": "/pokemon/798/"
+    },
+    {
+      "name": "naganadel",
+      "url": "/pokemon/804/"
+    },
+    {
+      "name": "inteleon",
+      "url": "/pokemon/818/"
+    },
+    {
+      "name": "rookidee",
+      "url": "/pokemon/821/"
+    },
+    {
+      "name": "corvisquire",
+      "url": "/pokemon/822/"
+    },
+    {
+      "name": "corviknight",
+      "url": "/pokemon/823/"
+    },
+    {
+      "name": "flapple",
+      "url": "/pokemon/841/"
+    },
+    {
+      "name": "cramorant",
+      "url": "/pokemon/845/"
+    },
+    {
+      "name": "frosmoth",
+      "url": "/pokemon/873/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "kleavor",
+      "url": "/pokemon/900/"
+    },
+    {
+      "name": "quaxly",
+      "url": "/pokemon/912/"
+    },
+    {
+      "name": "quaxwell",
+      "url": "/pokemon/913/"
+    },
+    {
+      "name": "quaquaval",
+      "url": "/pokemon/914/"
+    },
+    {
+      "name": "squawkabilly-green-plumage",
+      "url": "/pokemon/931/"
+    },
+    {
+      "name": "wattrel",
+      "url": "/pokemon/940/"
+    },
+    {
+      "name": "kilowattrel",
+      "url": "/pokemon/941/"
+    },
+    {
+      "name": "bombirdier",
+      "url": "/pokemon/962/"
+    },
+    {
+      "name": "flamigo",
+      "url": "/pokemon/973/"
+    },
+    {
+      "name": "dudunsparce-two-segment",
+      "url": "/pokemon/982/"
+    },
+    {
+      "name": "kingambit",
+      "url": "/pokemon/983/"
+    },
+    {
+      "name": "iron-jugulis",
+      "url": "/pokemon/993/"
+    },
+    {
+      "name": "iron-moth",
+      "url": "/pokemon/994/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "iron-leaves",
+      "url": "/pokemon/1010/"
+    },
+    {
+      "name": "fezandipiti",
+      "url": "/pokemon/1016/"
+    },
+    {
+      "name": "iron-boulder",
+      "url": "/pokemon/1022/"
+    },
+    {
+      "name": "iron-crown",
+      "url": "/pokemon/1023/"
+    },
+    {
+      "name": "shaymin-sky",
+      "url": "/pokemon/10006/"
+    },
+    {
+      "name": "rotom-fan",
+      "url": "/pokemon/10011/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "aegislash-blade",
+      "url": "/pokemon/10026/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "pidgeot-mega",
+      "url": "/pokemon/10073/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "vikavolt-totem",
+      "url": "/pokemon/10122/"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "url": "/pokemon/10123/"
+    },
+    {
+      "name": "oricorio-pau",
+      "url": "/pokemon/10124/"
+    },
+    {
+      "name": "oricorio-sensu",
+      "url": "/pokemon/10125/"
+    },
+    {
+      "name": "articuno-galar",
+      "url": "/pokemon/10169/"
+    },
+    {
+      "name": "moltres-galar",
+      "url": "/pokemon/10171/"
+    },
+    {
+      "name": "cramorant-gulping",
+      "url": "/pokemon/10182/"
+    },
+    {
+      "name": "cramorant-gorging",
+      "url": "/pokemon/10183/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "samurott-hisui",
+      "url": "/pokemon/10236/"
+    },
+    {
+      "name": "lilligant-hisui",
+      "url": "/pokemon/10237/"
+    },
+    {
+      "name": "braviary-hisui",
+      "url": "/pokemon/10240/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "dudunsparce-three-segment",
+      "url": "/pokemon/10255/"
+    },
+    {
+      "name": "squawkabilly-blue-plumage",
+      "url": "/pokemon/10260/"
+    },
+    {
+      "name": "squawkabilly-yellow-plumage",
+      "url": "/pokemon/10261/"
+    },
+    {
+      "name": "squawkabilly-white-plumage",
+      "url": "/pokemon/10262/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1452/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1770/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 30,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "air-slash",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "エアスラッシュ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "에어슬래시"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "空氣斬"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Lame d’Air"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Luftschnitt"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Tajo Aéreo"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Eterelama"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Air Slash"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "エアスラッシュ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "空气斩"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": 20,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": 75,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/17/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "flying",
+    "url": "/type/3/"
+  }
+}

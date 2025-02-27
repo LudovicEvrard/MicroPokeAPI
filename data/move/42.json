@@ -1,0 +1,1110 @@
+{
+  "accuracy": 95,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/10/"
+  },
+  "contest_type": {
+    "name": "cool",
+    "url": "/contest-type/1/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Hits 2-5 times in one turn."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Fires pins that\nstrike 2-5 times.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Fires pins that\nstrike 2-5 times.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are fired to\nstrike 2 to 5 times.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are fired to\nstrike 2 to 5 times.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are shot\nat the foe and hit\ntwo to five times\nat once.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de 2 à 5 fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\ncon spilli appuntiti in rapida successione.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　あいだ　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\ncon spilli appuntiti in rapida successione.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　あいだ　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "向對手發射\n銳利的針進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\nin rapida successione con delle spine.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "向对手发射\n锐针进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "向對手發射\n銳利的針進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\nin rapida successione con delle spine.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "向对手发射\n锐针进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "向對手發射\n銳利的針進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\nin rapida successione con delle spine.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "向对手发射\n锐针进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "するどい　ハリを\nあいてに　はっしゃして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "날카로운 침을\n상대에게 발사해서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "向對手發射\n銳利的針進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Envoie une rafale de dards.\nPeut toucher de deux à cinq fois.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Spitze Nadeln treffen das Ziel zwei- bis fünfmal\nhintereinander.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Lanza finas púas que hieren de dos a cinco veces. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Il bersaglio viene colpito da due a cinque volte\nin rapida successione con delle spine.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "鋭い　ハリを\n相手に　発射して　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "向对手发射\n锐针进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 42,
+  "learned_by_pokemon": [
+    {
+      "name": "beedrill",
+      "url": "/pokemon/15/"
+    },
+    {
+      "name": "sandslash",
+      "url": "/pokemon/28/"
+    },
+    {
+      "name": "cloyster",
+      "url": "/pokemon/91/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "omastar",
+      "url": "/pokemon/139/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "pineco",
+      "url": "/pokemon/204/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "zigzagoon",
+      "url": "/pokemon/263/"
+    },
+    {
+      "name": "linoone",
+      "url": "/pokemon/264/"
+    },
+    {
+      "name": "roselia",
+      "url": "/pokemon/315/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "budew",
+      "url": "/pokemon/406/"
+    },
+    {
+      "name": "roserade",
+      "url": "/pokemon/407/"
+    },
+    {
+      "name": "vespiquen",
+      "url": "/pokemon/416/"
+    },
+    {
+      "name": "skorupi",
+      "url": "/pokemon/451/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "venipede",
+      "url": "/pokemon/543/"
+    },
+    {
+      "name": "whirlipede",
+      "url": "/pokemon/544/"
+    },
+    {
+      "name": "scolipede",
+      "url": "/pokemon/545/"
+    },
+    {
+      "name": "maractus",
+      "url": "/pokemon/556/"
+    },
+    {
+      "name": "joltik",
+      "url": "/pokemon/595/"
+    },
+    {
+      "name": "galvantula",
+      "url": "/pokemon/596/"
+    },
+    {
+      "name": "ferroseed",
+      "url": "/pokemon/597/"
+    },
+    {
+      "name": "ferrothorn",
+      "url": "/pokemon/598/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "mareanie",
+      "url": "/pokemon/747/"
+    },
+    {
+      "name": "toxapex",
+      "url": "/pokemon/748/"
+    },
+    {
+      "name": "golisopod",
+      "url": "/pokemon/768/"
+    },
+    {
+      "name": "togedemaru",
+      "url": "/pokemon/777/"
+    },
+    {
+      "name": "poipole",
+      "url": "/pokemon/803/"
+    },
+    {
+      "name": "naganadel",
+      "url": "/pokemon/804/"
+    },
+    {
+      "name": "obstagoon",
+      "url": "/pokemon/862/"
+    },
+    {
+      "name": "cursola",
+      "url": "/pokemon/864/"
+    },
+    {
+      "name": "pincurchin",
+      "url": "/pokemon/871/"
+    },
+    {
+      "name": "overqwil",
+      "url": "/pokemon/904/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "heracross-mega",
+      "url": "/pokemon/10047/"
+    },
+    {
+      "name": "beedrill-mega",
+      "url": "/pokemon/10090/"
+    },
+    {
+      "name": "sandslash-alola",
+      "url": "/pokemon/10102/"
+    },
+    {
+      "name": "togedemaru-totem",
+      "url": "/pokemon/10154/"
+    },
+    {
+      "name": "zigzagoon-galar",
+      "url": "/pokemon/10174/"
+    },
+    {
+      "name": "linoone-galar",
+      "url": "/pokemon/10175/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/141/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": 5,
+    "max_turns": null,
+    "min_hits": 2,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "pin-missile",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ミサイルばり"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "바늘미사일"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "飛彈針"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Dard-Nuée"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Nadelrakete"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Pin Misil"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Missilspillo"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Pin Missile"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ミサイルばり"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "飞弹针"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": 85,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": 14,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": 25,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/7/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "bug",
+    "url": "/type/7/"
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "accuracy": 85,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Hits 2-5 times in one turn."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Golpea con la cola u otras partes de su cuerpo de\ndos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de 2 à 5 fois\nd’affilée avec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois\nd’affilée avec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　あいだ　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois\nd’affilée avec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Golpea con la cola u otras partes de su cuerpo de \ndos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　あいだ　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "將堅硬的尾巴\n掃向對手進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois\nd’affilée avec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Golpea con la cola de dos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用坚硬的尾巴\n拍打对手进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "將堅硬的尾巴\n掃向對手進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois\nd’affilée avec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Golpea con la cola de dos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用坚硬的尾巴\n拍打对手进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "將堅硬的尾巴\n掃向對手進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois d’affilée\navec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Golpea con la cola de dos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用坚硬的尾巴\n拍打对手进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "かたい　しっぽで\nあいてを　たたいて　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "단단한 꼬리로\n상대를 때려서 공격한다.\n2-5회 동안 연속으로 쓴다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "將堅硬的尾巴\n掃向對手進行攻擊。\n可連續攻擊２～５次。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur frappe l’ennemi de deux à cinq fois d’affilée\navec sa queue robuste.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift das Ziel mit seiner schlagfesten Rute\nzwei- bis fünfmal hintereinander an.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Golpea con la cola de dos a cinco veces seguidas.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "硬い　しっぽで\n相手を　たたいて　攻撃する。\n２ー５回の　間　連続で　だす。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用坚硬的尾巴\n拍打对手进行攻击。\n连续攻击２～５次。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 541,
+  "learned_by_pokemon": [
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "aipom",
+      "url": "/pokemon/190/"
+    },
+    {
+      "name": "zigzagoon",
+      "url": "/pokemon/263/"
+    },
+    {
+      "name": "linoone",
+      "url": "/pokemon/264/"
+    },
+    {
+      "name": "buizel",
+      "url": "/pokemon/418/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "minccino",
+      "url": "/pokemon/572/"
+    },
+    {
+      "name": "cinccino",
+      "url": "/pokemon/573/"
+    },
+    {
+      "name": "meowstic-male",
+      "url": "/pokemon/678/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "skwovet",
+      "url": "/pokemon/819/"
+    },
+    {
+      "name": "greedent",
+      "url": "/pokemon/820/"
+    },
+    {
+      "name": "nickit",
+      "url": "/pokemon/827/"
+    },
+    {
+      "name": "thievul",
+      "url": "/pokemon/828/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "fezandipiti",
+      "url": "/pokemon/1016/"
+    },
+    {
+      "name": "meowstic-female",
+      "url": "/pokemon/10025/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1351/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": 5,
+    "max_turns": null,
+    "min_hits": 2,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "tail-slap",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "スイープビンタ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "스위프뺨치기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "掃尾拍打"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Plumo-Queue"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Kehrschelle"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Plumerazo"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Spazzasberla"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Tail Slap"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "スイープビンタ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "扫尾拍打"
+    }
+  ],
+  "past_values": [],
+  "power": 25,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

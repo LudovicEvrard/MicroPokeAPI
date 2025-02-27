@@ -1,0 +1,1111 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/33/"
+  },
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Negates accuracy\nreduction moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Negates accuracy\nreduction moves.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "Negates the foe’s efforts\nto heighten evasiveness.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Negates the foe’s efforts\nto heighten evasiveness.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Completely negates\nthe foe’s efforts to\nheighten its ability\nto evade.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre\navec n’importe quelle capacité et de\ntoucher un ennemi insaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　こうかがない　わざや\nかいひりつの　たかい　あいてに\nこうげきが　あたるように　なる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "고스트타입에 효과가 없는 기술이나\n회피율이 높은 상대라 할지라도\n공격이 맞게 된다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre avec\nn’importe quelle capacité ou de toucher un\nennemi insaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Erlaubt es, Geist-Pokémon mit Normal-\nund Kampf-Attacken anzugreifen.\nIgnoriert den Fluchtwert des Zieles.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Permite atacar con cualquier movimiento a\nobjetivos de tipo Fantasma y golpear a Pokémon\nevasivos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rende i Pokémon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e può,\ninoltre, colpire i nemici sfuggenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. This also\nenables an evasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　効果がない　技や\n回避率の　高い　相手に\n攻撃が　当たるように　なる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　こうかがない　わざや\nかいひりつの　たかい　あいてに\nこうげきが　あたるように　なる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "고스트타입에 효과가 없는 기술이나\n회피율이 높은 상대라 할지라도\n공격이 맞게 된다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre avec\nn’importe quelle capacité ou de toucher un\nennemi insaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Erlaubt es, Geister-Pokémon mit Normal-\nund Kampf-Attacken anzugreifen.\nIgnoriert den Fluchtwert des Zieles.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pokémon evasivos. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rende i Pokémon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e può,\ninoltre, colpire i nemici sfuggenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. This also\nenables an evasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　効果がない　技や\n回避率の　高い　相手に\n攻撃が　当たるように　なる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　こうかがない　わざや\nかいひりつの　たかい　あいてに\nこうげきが　あたるように　なる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "고스트타입에 효과가 없는 기술이나\n회피율이 높은 상대라 할지라도\n공격이 맞게 된다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "讓對幽靈屬性寶可夢無效的招式\n能夠發揮效果，也可不顧對手\n提高後的閃避率進行攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre avec\nn’importe quelle capacité ou de toucher un\nennemi insaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ermöglicht es, Geister-Pokémon mit Normal- und\nKampf-Attacken anzugreifen. Ignoriert den\nFluchtwert des Zieles.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pokémon evasivos. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rende i Pokémon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e può,\ninoltre, colpire i nemici sfuggenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　効果がない　技や\n回避率の　高い　相手に\n攻撃が　当たるように　なる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "对幽灵属性宝可梦没有效果的招式\n以及闪避率高的对手，\n使用后变得能够打中。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　こうかがない　わざや\nかいひりつの　たかい　あいてに\nこうげきが　あたるように　なる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "고스트타입에 효과가 없는 기술이나\n회피율이 높은 상대라 할지라도\n공격이 맞게 된다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "讓對幽靈屬性寶可夢無效的招式\n能夠發揮效果，也可不顧對手\n提高後的閃避率進行攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre avec\nn’importe quelle capacité ou de toucher un\nennemi insaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ermöglicht es, Geister-Pokémon mit Normal- und\nKampf-Attacken anzugreifen. Ignoriert den\nFluchtwert des Zieles.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pokémon evasivos. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rende i Pokémon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e può,\ninoltre, colpire i nemici sfuggenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　効果がない　技や\n回避率の　高い　相手に\n攻撃が　当たるように　なる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "使出后对幽灵属性宝可梦没有\n效果的招式以及闪避率高的对手，\n变得能够打中。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　こうかがない　わざや\nかいひりつの　たかい　あいてに\nこうげきが　あたるように　なる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "고스트타입에 효과가 없는 기술이나\n회피율이 높은 상대라 할지라도\n공격이 맞게 된다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "讓對幽靈屬性寶可夢無效的招式\n能夠發揮效果，也可不顧對手\n提高後的閃避率進行攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Permet de toucher un Pokémon Spectre avec\nn’importe quelle capacité ou de toucher un ennemi\ninsaisissable.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ermöglicht es, Geister-Pokémon mit Normal- und\nKampf-Attacken anzugreifen. Ignoriert den\nFluchtwert des Zieles.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pokémon evasivos. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa rende i Pokémon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e può,\ninoltre, colpire i nemici sfuggenti.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Enables a Ghost-type target to be hit by Normal-\nand Fighting-type attacks. This also enables an\nevasive target to be hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "ゴーストタイプに　効果がない　技や\n回避率の　高い　相手に\n攻撃が　当たるように　なる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "使出后对幽灵属性宝可梦没有\n效果的招式以及闪避率高的对手，\n变得能够打中。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "このわざは　つかえません\nおもいだすことが　できなくなりますが\nわざを　わすれることを　おすすめします",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "사용할 수 없는 기술입니다.\n다시 배우게 할 수 없지만\n기술을 잊게 하는 것을 권장합니다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "無法使用此招式。\n雖然忘記後將無法再想起來，\n但還是建議忘記此招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nicht eingesetzt werden. Du solltest\ndein Pokémon sie vergessen lassen. Beachte aber,\ndass es sich danach nicht wieder an sie erinnern kann.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento no se puede usar, por lo que sería\nmejor olvidarlo, aunque eso implique que no se pueda\nrecordar posteriormente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Questa mossa non può essere usata.\nÈ consigliabile farla dimenticare al Pokémon. Tuttavia,\nuna volta dimenticata, non potrà più essere ricordata.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "この技は　使えません\n思い出すことが　できなくなりますが\n技を　忘れることを　おすすめします",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "无法使用这个招式。\n虽然忘记之后就再也想不起来了，\n但还是建议忘记这个招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-ii",
+    "url": "/generation/2/"
+  },
+  "id": 193,
+  "learned_by_pokemon": [
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "pidgey",
+      "url": "/pokemon/16/"
+    },
+    {
+      "name": "venonat",
+      "url": "/pokemon/48/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "psyduck",
+      "url": "/pokemon/54/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "hitmonlee",
+      "url": "/pokemon/106/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "kabuto",
+      "url": "/pokemon/140/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "sentret",
+      "url": "/pokemon/161/"
+    },
+    {
+      "name": "furret",
+      "url": "/pokemon/162/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "marill",
+      "url": "/pokemon/183/"
+    },
+    {
+      "name": "yanma",
+      "url": "/pokemon/193/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "tyrogue",
+      "url": "/pokemon/236/"
+    },
+    {
+      "name": "mudkip",
+      "url": "/pokemon/258/"
+    },
+    {
+      "name": "marshtomp",
+      "url": "/pokemon/259/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "surskit",
+      "url": "/pokemon/283/"
+    },
+    {
+      "name": "makuhita",
+      "url": "/pokemon/296/"
+    },
+    {
+      "name": "skitty",
+      "url": "/pokemon/300/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "duskull",
+      "url": "/pokemon/355/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "starly",
+      "url": "/pokemon/396/"
+    },
+    {
+      "name": "buneary",
+      "url": "/pokemon/427/"
+    },
+    {
+      "name": "lopunny",
+      "url": "/pokemon/428/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "yanmega",
+      "url": "/pokemon/469/"
+    },
+    {
+      "name": "dusknoir",
+      "url": "/pokemon/477/"
+    },
+    {
+      "name": "regigigas",
+      "url": "/pokemon/486/"
+    },
+    {
+      "name": "patrat",
+      "url": "/pokemon/504/"
+    },
+    {
+      "name": "timburr",
+      "url": "/pokemon/532/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "rowlet",
+      "url": "/pokemon/722/"
+    },
+    {
+      "name": "dartrix",
+      "url": "/pokemon/723/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "kangaskhan-mega",
+      "url": "/pokemon/10039/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "swampert-mega",
+      "url": "/pokemon/10064/"
+    },
+    {
+      "name": "sableye-mega",
+      "url": "/pokemon/10066/"
+    },
+    {
+      "name": "lopunny-mega",
+      "url": "/pokemon/10088/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "no-type-immunity",
+      "url": "/move-ailment/17/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "ailment",
+      "url": "/move-category/1/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "foresight",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "みやぶる"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "꿰뚫어보기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "識破"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Clairvoyance"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Scharfblick"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Profecía"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Preveggenza"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Foresight"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "みやぶる"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "识破"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 40,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/20/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

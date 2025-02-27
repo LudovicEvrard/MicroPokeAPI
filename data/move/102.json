@@ -1,0 +1,2482 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/19/"
+  },
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.\n\nIf chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Copies the target's last used move."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Copies a move used\nby the foe.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Copies a move used\nby the foe.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "Copies a move used by the\nfoe during one battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Copies a move used by the\nfoe during one battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the\nmove last used by\nthe foe for the\nrest of the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité\nutilisée par la cible et la conserve\ntant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo.\nDicho movimiento se podrá usar mientras el\nPokémon no sea cambiado.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Copia l’ultima mossa usata dal bersaglio. La mossa\ncopiata si può utilizzare fino alla sostituzione\ndel Pokémon che l’ha usata.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo, y \npuede utilizarlo mientras esté en el combate.\n",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copia l’ultima mossa usata dal bersaglio\ne la conserva finché rimane in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥期間，\n將對手最近一次使用的招式\n變成自己的招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo, y \npuede utilizarlo mientras esté en el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copia l’ultima mossa usata dal bersaglio\ne la conserva finché rimane in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "可以将对手\n最后使用的招式，\n在战斗内变成自己的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥期間，\n將對手最近一次使用的招式\n變成自己的招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo, y \npuede utilizarlo mientras esté en el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copia l’ultima mossa usata dal bersaglio\ne la conserva finché rimane in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "可以将对手\n最后使用的招式，\n在战斗内变成自己的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥期間，\n將對手最近一次使用的招式\n變成自己的招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo, y \npuede utilizarlo mientras esté en el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copia l’ultima mossa usata dal bersaglio\ne la conserva finché rimane in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "可以将对手\n最后使用的招式，\n在战斗内变成自己的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　さいごに　つかった　わざを\nせんとうの　あいだ\nじぶんの　わざに　することが　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "상대가 마지막에 사용한 기술을\n배틀을 하는 동안\n자신의 기술로 만들 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥期間，\n將對手最近一次使用的招式\n變成自己的招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur copie la dernière capacité utilisée par\nla cible et la conserve tant qu’il reste au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Kopiert die zuvor ausgeführte Attacke des Zieles.\nDiese kann im Kampf bis zur Auswechslung verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Copia el último movimiento usado por el objetivo, y \npuede utilizarlo mientras esté en el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copia l’ultima mossa usata dal bersaglio\ne la conserva finché rimane in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "相手が　最後に　使った　技を\n戦闘の　あいだ\n自分の　技に　することが　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "可以将对手\n最后使用的招式，\n在战斗内变成自己的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 102,
+  "learned_by_pokemon": [
+    {
+      "name": "bulbasaur",
+      "url": "/pokemon/1/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "butterfree",
+      "url": "/pokemon/12/"
+    },
+    {
+      "name": "beedrill",
+      "url": "/pokemon/15/"
+    },
+    {
+      "name": "pidgey",
+      "url": "/pokemon/16/"
+    },
+    {
+      "name": "pidgeotto",
+      "url": "/pokemon/17/"
+    },
+    {
+      "name": "pidgeot",
+      "url": "/pokemon/18/"
+    },
+    {
+      "name": "rattata",
+      "url": "/pokemon/19/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "spearow",
+      "url": "/pokemon/21/"
+    },
+    {
+      "name": "fearow",
+      "url": "/pokemon/22/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "pikachu",
+      "url": "/pokemon/25/"
+    },
+    {
+      "name": "raichu",
+      "url": "/pokemon/26/"
+    },
+    {
+      "name": "sandshrew",
+      "url": "/pokemon/27/"
+    },
+    {
+      "name": "sandslash",
+      "url": "/pokemon/28/"
+    },
+    {
+      "name": "nidoran-f",
+      "url": "/pokemon/29/"
+    },
+    {
+      "name": "nidorina",
+      "url": "/pokemon/30/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoran-m",
+      "url": "/pokemon/32/"
+    },
+    {
+      "name": "nidorino",
+      "url": "/pokemon/33/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "/pokemon/39/"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "/pokemon/40/"
+    },
+    {
+      "name": "zubat",
+      "url": "/pokemon/41/"
+    },
+    {
+      "name": "golbat",
+      "url": "/pokemon/42/"
+    },
+    {
+      "name": "oddish",
+      "url": "/pokemon/43/"
+    },
+    {
+      "name": "gloom",
+      "url": "/pokemon/44/"
+    },
+    {
+      "name": "vileplume",
+      "url": "/pokemon/45/"
+    },
+    {
+      "name": "paras",
+      "url": "/pokemon/46/"
+    },
+    {
+      "name": "parasect",
+      "url": "/pokemon/47/"
+    },
+    {
+      "name": "venonat",
+      "url": "/pokemon/48/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "diglett",
+      "url": "/pokemon/50/"
+    },
+    {
+      "name": "dugtrio",
+      "url": "/pokemon/51/"
+    },
+    {
+      "name": "meowth",
+      "url": "/pokemon/52/"
+    },
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "psyduck",
+      "url": "/pokemon/54/"
+    },
+    {
+      "name": "golduck",
+      "url": "/pokemon/55/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "primeape",
+      "url": "/pokemon/57/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "poliwag",
+      "url": "/pokemon/60/"
+    },
+    {
+      "name": "poliwhirl",
+      "url": "/pokemon/61/"
+    },
+    {
+      "name": "poliwrath",
+      "url": "/pokemon/62/"
+    },
+    {
+      "name": "abra",
+      "url": "/pokemon/63/"
+    },
+    {
+      "name": "kadabra",
+      "url": "/pokemon/64/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "bellsprout",
+      "url": "/pokemon/69/"
+    },
+    {
+      "name": "weepinbell",
+      "url": "/pokemon/70/"
+    },
+    {
+      "name": "victreebel",
+      "url": "/pokemon/71/"
+    },
+    {
+      "name": "tentacool",
+      "url": "/pokemon/72/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "/pokemon/73/"
+    },
+    {
+      "name": "geodude",
+      "url": "/pokemon/74/"
+    },
+    {
+      "name": "graveler",
+      "url": "/pokemon/75/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "ponyta",
+      "url": "/pokemon/77/"
+    },
+    {
+      "name": "rapidash",
+      "url": "/pokemon/78/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "magnemite",
+      "url": "/pokemon/81/"
+    },
+    {
+      "name": "magneton",
+      "url": "/pokemon/82/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "doduo",
+      "url": "/pokemon/84/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "seel",
+      "url": "/pokemon/86/"
+    },
+    {
+      "name": "dewgong",
+      "url": "/pokemon/87/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "shellder",
+      "url": "/pokemon/90/"
+    },
+    {
+      "name": "cloyster",
+      "url": "/pokemon/91/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "onix",
+      "url": "/pokemon/95/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "krabby",
+      "url": "/pokemon/98/"
+    },
+    {
+      "name": "kingler",
+      "url": "/pokemon/99/"
+    },
+    {
+      "name": "voltorb",
+      "url": "/pokemon/100/"
+    },
+    {
+      "name": "electrode",
+      "url": "/pokemon/101/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "hitmonlee",
+      "url": "/pokemon/106/"
+    },
+    {
+      "name": "hitmonchan",
+      "url": "/pokemon/107/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "koffing",
+      "url": "/pokemon/109/"
+    },
+    {
+      "name": "weezing",
+      "url": "/pokemon/110/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "tangela",
+      "url": "/pokemon/114/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "horsea",
+      "url": "/pokemon/116/"
+    },
+    {
+      "name": "seadra",
+      "url": "/pokemon/117/"
+    },
+    {
+      "name": "goldeen",
+      "url": "/pokemon/118/"
+    },
+    {
+      "name": "seaking",
+      "url": "/pokemon/119/"
+    },
+    {
+      "name": "staryu",
+      "url": "/pokemon/120/"
+    },
+    {
+      "name": "starmie",
+      "url": "/pokemon/121/"
+    },
+    {
+      "name": "mr-mime",
+      "url": "/pokemon/122/"
+    },
+    {
+      "name": "scyther",
+      "url": "/pokemon/123/"
+    },
+    {
+      "name": "jynx",
+      "url": "/pokemon/124/"
+    },
+    {
+      "name": "electabuzz",
+      "url": "/pokemon/125/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "pinsir",
+      "url": "/pokemon/127/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "lapras",
+      "url": "/pokemon/131/"
+    },
+    {
+      "name": "eevee",
+      "url": "/pokemon/133/"
+    },
+    {
+      "name": "vaporeon",
+      "url": "/pokemon/134/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "porygon",
+      "url": "/pokemon/137/"
+    },
+    {
+      "name": "omanyte",
+      "url": "/pokemon/138/"
+    },
+    {
+      "name": "omastar",
+      "url": "/pokemon/139/"
+    },
+    {
+      "name": "kabuto",
+      "url": "/pokemon/140/"
+    },
+    {
+      "name": "kabutops",
+      "url": "/pokemon/141/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "zapdos",
+      "url": "/pokemon/145/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "dratini",
+      "url": "/pokemon/147/"
+    },
+    {
+      "name": "dragonair",
+      "url": "/pokemon/148/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "chikorita",
+      "url": "/pokemon/152/"
+    },
+    {
+      "name": "bayleef",
+      "url": "/pokemon/153/"
+    },
+    {
+      "name": "meganium",
+      "url": "/pokemon/154/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "quilava",
+      "url": "/pokemon/156/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "sentret",
+      "url": "/pokemon/161/"
+    },
+    {
+      "name": "furret",
+      "url": "/pokemon/162/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "ledyba",
+      "url": "/pokemon/165/"
+    },
+    {
+      "name": "ledian",
+      "url": "/pokemon/166/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "crobat",
+      "url": "/pokemon/169/"
+    },
+    {
+      "name": "chinchou",
+      "url": "/pokemon/170/"
+    },
+    {
+      "name": "lanturn",
+      "url": "/pokemon/171/"
+    },
+    {
+      "name": "pichu",
+      "url": "/pokemon/172/"
+    },
+    {
+      "name": "cleffa",
+      "url": "/pokemon/173/"
+    },
+    {
+      "name": "igglybuff",
+      "url": "/pokemon/174/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "mareep",
+      "url": "/pokemon/179/"
+    },
+    {
+      "name": "flaaffy",
+      "url": "/pokemon/180/"
+    },
+    {
+      "name": "ampharos",
+      "url": "/pokemon/181/"
+    },
+    {
+      "name": "bellossom",
+      "url": "/pokemon/182/"
+    },
+    {
+      "name": "marill",
+      "url": "/pokemon/183/"
+    },
+    {
+      "name": "azumarill",
+      "url": "/pokemon/184/"
+    },
+    {
+      "name": "sudowoodo",
+      "url": "/pokemon/185/"
+    },
+    {
+      "name": "politoed",
+      "url": "/pokemon/186/"
+    },
+    {
+      "name": "hoppip",
+      "url": "/pokemon/187/"
+    },
+    {
+      "name": "skiploom",
+      "url": "/pokemon/188/"
+    },
+    {
+      "name": "jumpluff",
+      "url": "/pokemon/189/"
+    },
+    {
+      "name": "aipom",
+      "url": "/pokemon/190/"
+    },
+    {
+      "name": "sunkern",
+      "url": "/pokemon/191/"
+    },
+    {
+      "name": "sunflora",
+      "url": "/pokemon/192/"
+    },
+    {
+      "name": "yanma",
+      "url": "/pokemon/193/"
+    },
+    {
+      "name": "wooper",
+      "url": "/pokemon/194/"
+    },
+    {
+      "name": "quagsire",
+      "url": "/pokemon/195/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "umbreon",
+      "url": "/pokemon/197/"
+    },
+    {
+      "name": "murkrow",
+      "url": "/pokemon/198/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "pineco",
+      "url": "/pokemon/204/"
+    },
+    {
+      "name": "forretress",
+      "url": "/pokemon/205/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "shuckle",
+      "url": "/pokemon/213/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "slugma",
+      "url": "/pokemon/218/"
+    },
+    {
+      "name": "magcargo",
+      "url": "/pokemon/219/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "corsola",
+      "url": "/pokemon/222/"
+    },
+    {
+      "name": "remoraid",
+      "url": "/pokemon/223/"
+    },
+    {
+      "name": "octillery",
+      "url": "/pokemon/224/"
+    },
+    {
+      "name": "delibird",
+      "url": "/pokemon/225/"
+    },
+    {
+      "name": "mantine",
+      "url": "/pokemon/226/"
+    },
+    {
+      "name": "skarmory",
+      "url": "/pokemon/227/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "kingdra",
+      "url": "/pokemon/230/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "porygon2",
+      "url": "/pokemon/233/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "tyrogue",
+      "url": "/pokemon/236/"
+    },
+    {
+      "name": "hitmontop",
+      "url": "/pokemon/237/"
+    },
+    {
+      "name": "smoochum",
+      "url": "/pokemon/238/"
+    },
+    {
+      "name": "elekid",
+      "url": "/pokemon/239/"
+    },
+    {
+      "name": "magby",
+      "url": "/pokemon/240/"
+    },
+    {
+      "name": "miltank",
+      "url": "/pokemon/241/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "suicune",
+      "url": "/pokemon/245/"
+    },
+    {
+      "name": "larvitar",
+      "url": "/pokemon/246/"
+    },
+    {
+      "name": "pupitar",
+      "url": "/pokemon/247/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "treecko",
+      "url": "/pokemon/252/"
+    },
+    {
+      "name": "grovyle",
+      "url": "/pokemon/253/"
+    },
+    {
+      "name": "sceptile",
+      "url": "/pokemon/254/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "mudkip",
+      "url": "/pokemon/258/"
+    },
+    {
+      "name": "marshtomp",
+      "url": "/pokemon/259/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "zigzagoon",
+      "url": "/pokemon/263/"
+    },
+    {
+      "name": "linoone",
+      "url": "/pokemon/264/"
+    },
+    {
+      "name": "beautifly",
+      "url": "/pokemon/267/"
+    },
+    {
+      "name": "dustox",
+      "url": "/pokemon/269/"
+    },
+    {
+      "name": "lotad",
+      "url": "/pokemon/270/"
+    },
+    {
+      "name": "lombre",
+      "url": "/pokemon/271/"
+    },
+    {
+      "name": "ludicolo",
+      "url": "/pokemon/272/"
+    },
+    {
+      "name": "seedot",
+      "url": "/pokemon/273/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "taillow",
+      "url": "/pokemon/276/"
+    },
+    {
+      "name": "swellow",
+      "url": "/pokemon/277/"
+    },
+    {
+      "name": "wingull",
+      "url": "/pokemon/278/"
+    },
+    {
+      "name": "pelipper",
+      "url": "/pokemon/279/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "surskit",
+      "url": "/pokemon/283/"
+    },
+    {
+      "name": "masquerain",
+      "url": "/pokemon/284/"
+    },
+    {
+      "name": "shroomish",
+      "url": "/pokemon/285/"
+    },
+    {
+      "name": "breloom",
+      "url": "/pokemon/286/"
+    },
+    {
+      "name": "slakoth",
+      "url": "/pokemon/287/"
+    },
+    {
+      "name": "vigoroth",
+      "url": "/pokemon/288/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "nincada",
+      "url": "/pokemon/290/"
+    },
+    {
+      "name": "ninjask",
+      "url": "/pokemon/291/"
+    },
+    {
+      "name": "shedinja",
+      "url": "/pokemon/292/"
+    },
+    {
+      "name": "whismur",
+      "url": "/pokemon/293/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "makuhita",
+      "url": "/pokemon/296/"
+    },
+    {
+      "name": "hariyama",
+      "url": "/pokemon/297/"
+    },
+    {
+      "name": "azurill",
+      "url": "/pokemon/298/"
+    },
+    {
+      "name": "nosepass",
+      "url": "/pokemon/299/"
+    },
+    {
+      "name": "skitty",
+      "url": "/pokemon/300/"
+    },
+    {
+      "name": "delcatty",
+      "url": "/pokemon/301/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "aron",
+      "url": "/pokemon/304/"
+    },
+    {
+      "name": "lairon",
+      "url": "/pokemon/305/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "medicham",
+      "url": "/pokemon/308/"
+    },
+    {
+      "name": "electrike",
+      "url": "/pokemon/309/"
+    },
+    {
+      "name": "manectric",
+      "url": "/pokemon/310/"
+    },
+    {
+      "name": "plusle",
+      "url": "/pokemon/311/"
+    },
+    {
+      "name": "minun",
+      "url": "/pokemon/312/"
+    },
+    {
+      "name": "volbeat",
+      "url": "/pokemon/313/"
+    },
+    {
+      "name": "illumise",
+      "url": "/pokemon/314/"
+    },
+    {
+      "name": "roselia",
+      "url": "/pokemon/315/"
+    },
+    {
+      "name": "gulpin",
+      "url": "/pokemon/316/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "carvanha",
+      "url": "/pokemon/318/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "wailmer",
+      "url": "/pokemon/320/"
+    },
+    {
+      "name": "wailord",
+      "url": "/pokemon/321/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "torkoal",
+      "url": "/pokemon/324/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "grumpig",
+      "url": "/pokemon/326/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "trapinch",
+      "url": "/pokemon/328/"
+    },
+    {
+      "name": "vibrava",
+      "url": "/pokemon/329/"
+    },
+    {
+      "name": "flygon",
+      "url": "/pokemon/330/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "swablu",
+      "url": "/pokemon/333/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "barboach",
+      "url": "/pokemon/339/"
+    },
+    {
+      "name": "whiscash",
+      "url": "/pokemon/340/"
+    },
+    {
+      "name": "corphish",
+      "url": "/pokemon/341/"
+    },
+    {
+      "name": "crawdaunt",
+      "url": "/pokemon/342/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "lileep",
+      "url": "/pokemon/345/"
+    },
+    {
+      "name": "cradily",
+      "url": "/pokemon/346/"
+    },
+    {
+      "name": "anorith",
+      "url": "/pokemon/347/"
+    },
+    {
+      "name": "armaldo",
+      "url": "/pokemon/348/"
+    },
+    {
+      "name": "feebas",
+      "url": "/pokemon/349/"
+    },
+    {
+      "name": "milotic",
+      "url": "/pokemon/350/"
+    },
+    {
+      "name": "castform",
+      "url": "/pokemon/351/"
+    },
+    {
+      "name": "kecleon",
+      "url": "/pokemon/352/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "duskull",
+      "url": "/pokemon/355/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "tropius",
+      "url": "/pokemon/357/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "absol",
+      "url": "/pokemon/359/"
+    },
+    {
+      "name": "snorunt",
+      "url": "/pokemon/361/"
+    },
+    {
+      "name": "glalie",
+      "url": "/pokemon/362/"
+    },
+    {
+      "name": "spheal",
+      "url": "/pokemon/363/"
+    },
+    {
+      "name": "sealeo",
+      "url": "/pokemon/364/"
+    },
+    {
+      "name": "walrein",
+      "url": "/pokemon/365/"
+    },
+    {
+      "name": "clamperl",
+      "url": "/pokemon/366/"
+    },
+    {
+      "name": "huntail",
+      "url": "/pokemon/367/"
+    },
+    {
+      "name": "gorebyss",
+      "url": "/pokemon/368/"
+    },
+    {
+      "name": "relicanth",
+      "url": "/pokemon/369/"
+    },
+    {
+      "name": "luvdisc",
+      "url": "/pokemon/370/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "regirock",
+      "url": "/pokemon/377/"
+    },
+    {
+      "name": "regice",
+      "url": "/pokemon/378/"
+    },
+    {
+      "name": "registeel",
+      "url": "/pokemon/379/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "kyogre",
+      "url": "/pokemon/382/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "/pokemon/386/"
+    },
+    {
+      "name": "bonsly",
+      "url": "/pokemon/438/"
+    },
+    {
+      "name": "mime-jr",
+      "url": "/pokemon/439/"
+    },
+    {
+      "name": "chatot",
+      "url": "/pokemon/441/"
+    },
+    {
+      "name": "leafeon",
+      "url": "/pokemon/470/"
+    },
+    {
+      "name": "glaceon",
+      "url": "/pokemon/471/"
+    },
+    {
+      "name": "furfrou",
+      "url": "/pokemon/676/"
+    },
+    {
+      "name": "sylveon",
+      "url": "/pokemon/700/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "mr-rime",
+      "url": "/pokemon/866/"
+    },
+    {
+      "name": "squawkabilly-green-plumage",
+      "url": "/pokemon/931/"
+    },
+    {
+      "name": "deoxys-attack",
+      "url": "/pokemon/10001/"
+    },
+    {
+      "name": "deoxys-defense",
+      "url": "/pokemon/10002/"
+    },
+    {
+      "name": "deoxys-speed",
+      "url": "/pokemon/10003/"
+    },
+    {
+      "name": "castform-sunny",
+      "url": "/pokemon/10013/"
+    },
+    {
+      "name": "castform-rainy",
+      "url": "/pokemon/10014/"
+    },
+    {
+      "name": "castform-snowy",
+      "url": "/pokemon/10015/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "url": "/pokemon/10144/"
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "url": "/pokemon/10145/"
+    },
+    {
+      "name": "mr-mime-galar",
+      "url": "/pokemon/10168/"
+    },
+    {
+      "name": "squawkabilly-blue-plumage",
+      "url": "/pokemon/10260/"
+    },
+    {
+      "name": "squawkabilly-yellow-plumage",
+      "url": "/pokemon/10261/"
+    },
+    {
+      "name": "squawkabilly-white-plumage",
+      "url": "/pokemon/10262/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/602/"
+      },
+      "version_group": {
+        "name": "red-blue",
+        "url": "/version-group/1/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/603/"
+      },
+      "version_group": {
+        "name": "yellow",
+        "url": "/version-group/2/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "unique",
+      "url": "/move-category/13/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "mimic",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ものまね"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "흉내내기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "模仿"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Copie"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Mimikry"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Mimético"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Mimica"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Mimic"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ものまね"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "模仿"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/12/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

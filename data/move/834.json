@@ -1,0 +1,147 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [],
+  "generation": {
+    "name": "generation-viii",
+    "url": "/generation/8/"
+  },
+  "id": 834,
+  "learned_by_pokemon": [
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "kingdra",
+      "url": "/pokemon/230/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "buizel",
+      "url": "/pokemon/418/"
+    },
+    {
+      "name": "floatzel",
+      "url": "/pokemon/419/"
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "/pokemon/550/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "basculegion-male",
+      "url": "/pokemon/902/"
+    },
+    {
+      "name": "quaquaval",
+      "url": "/pokemon/914/"
+    },
+    {
+      "name": "palafin-zero",
+      "url": "/pokemon/964/"
+    },
+    {
+      "name": "dondozo",
+      "url": "/pokemon/977/"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "url": "/pokemon/10016/"
+    },
+    {
+      "name": "basculin-white-striped",
+      "url": "/pokemon/10247/"
+    },
+    {
+      "name": "basculegion-female",
+      "url": "/pokemon/10248/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "palafin-hero",
+      "url": "/pokemon/10256/"
+    }
+  ],
+  "machines": [],
+  "meta": null,
+  "name": "wave-crash",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ウェーブタックル"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "波动冲"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Ondaschianto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Wave Crash"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ウェーブタックル"
+    }
+  ],
+  "past_values": [],
+  "power": 120,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "water",
+    "url": "/type/11/"
+  }
+}

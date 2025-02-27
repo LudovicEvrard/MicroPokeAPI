@@ -1,0 +1,1209 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Scatters poisoned spikes around the opposing field, which poison opposing Pokémon that enter the field.  A second layer of these spikes may be laid down, in which case Pokémon will be badly poisoned instead.  Pokémon immune to either ground moves or being poisoned are immune to this effect.  Pokémon otherwise immune to ground moves are affected during gravity.\n\nIf a poison Pokémon not immune to ground moves enters a field covered with poisoned spikes, the spikes are removed.\n\nrapid spin will remove this effect from its user's side of the field.  defog will remove this effect from its target's side of the field.\n\nThis move does not trigger synchronize, unless the Pokémon with synchronize was forced to enter the field by another effect such as roar.\n\nPokémon entering the field due to baton pass are not affected by this effect.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Scatters poisoned spikes, poisoning opposing Pokémon that switch in."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi. Ils\nempoisonnent les ennemis qui entrent\nau combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at\nthe opponent’s feet. They poison\nopponents that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at\nthe opponent’s feet. They poison\nopponents that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독압정을\n뿌린다. 교체로 나온 상대\n포켓몬에 독을 덮어씌운다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au\ncombat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus.\nIn den Kampf eingewechselte gegnerische\nPokémon werden vergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del\nobjetivo. El veneno afecta a los Pokémon que\nentran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the\nopposing team’s feet. They poison\nopposing Pokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독압정을\n뿌린다. 교체로 나온 상대\n포켓몬에 독을 덮어씌운다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au\ncombat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus.\nIn den Kampf eingewechselte gegnerische\nPokémon werden vergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del \nobjetivo. El veneno afecta a los Pokémon que\nentran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the\nopposing team’s feet. They poison\nopposing Pokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。　こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독압정을\n뿌린다. 교체로 나온 상대\n포켓몬에 독을 덮어씌운다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在對手腳下散布毒菱。\n讓對手替換出場的寶可夢\n陷入中毒狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus. In den\nKampf eingewechselte gegnerische Pokémon werden\nvergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del \nobjetivo. El veneno afecta a los Pokémon que\nentran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。　交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在对手的脚下撒毒菱。\n使对手替换出场的宝可梦中毒。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。　こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독압정을\n뿌린다. 교체로 나온 상대\n포켓몬에 독을 덮어씌운다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在對手腳下散布毒菱。\n讓對手替換出場的寶可夢\n陷入中毒狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus. In den\nKampf eingewechselte gegnerische Pokémon werden\nvergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del\nobjetivo. El veneno afecta a los Pokémon oponentes\nque entran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。　交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在对手的脚下撒毒菱。\n使对手替换出场的宝可梦中毒。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。　こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독압정을\n뿌린다. 교체로 나온 상대\n포켓몬에 독을 덮어씌운다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在對手腳下散布毒菱。\n讓對手替換出場的寶可夢\n陷入中毒狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus. In den\nKampf eingewechselte gegnerische Pokémon werden\nvergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del\nobjetivo. El veneno afecta a los Pokémon oponentes\nque entran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。　交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在对手的脚下撒毒菱。\n使对手替换出场的宝可梦中毒。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あいての　あしもとに　どくびしを\nしかける。　こうたいで　でてきた　あいての\nポケモンに　どくを　おわせる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "상대의 발밑에 독 압정을\n뿌린다. 교체로 나온 상대\n포켓몬에게 독을 퍼지게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在對手腳下散布毒菱。\n讓對手替換出場的寶可夢\n陷入中毒狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Lance des pics autour de l’ennemi.\nIls empoisonnent les ennemis qui entrent au combat.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender legt eine Falle mit Giftdornen aus. In den\nKampf eingewechselte gegnerische Pokémon werden\nvergiftet.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Lanza una trampa de púas tóxicas a los pies del\nobjetivo. El veneno afecta a los Pokémon oponentes\nque entran en combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user lays a trap of poison spikes at the feet of\nthe opposing team. The spikes will poison opposing\nPokémon that switch into battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "相手の　足下に　どくびしを\nしかける。　交代で　でてきた　相手の\nポケモンに　毒を　おわせる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在对手的脚下撒毒菱。\n使对手替换出场的宝可梦中毒。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 390,
+  "learned_by_pokemon": [
+    {
+      "name": "beedrill",
+      "url": "/pokemon/15/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "nidoran-f",
+      "url": "/pokemon/29/"
+    },
+    {
+      "name": "nidorina",
+      "url": "/pokemon/30/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoran-m",
+      "url": "/pokemon/32/"
+    },
+    {
+      "name": "nidorino",
+      "url": "/pokemon/33/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "venonat",
+      "url": "/pokemon/48/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "tentacool",
+      "url": "/pokemon/72/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "/pokemon/73/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "shellder",
+      "url": "/pokemon/90/"
+    },
+    {
+      "name": "cloyster",
+      "url": "/pokemon/91/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "koffing",
+      "url": "/pokemon/109/"
+    },
+    {
+      "name": "weezing",
+      "url": "/pokemon/110/"
+    },
+    {
+      "name": "omanyte",
+      "url": "/pokemon/138/"
+    },
+    {
+      "name": "omastar",
+      "url": "/pokemon/139/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "quagsire",
+      "url": "/pokemon/195/"
+    },
+    {
+      "name": "pineco",
+      "url": "/pokemon/204/"
+    },
+    {
+      "name": "forretress",
+      "url": "/pokemon/205/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "roselia",
+      "url": "/pokemon/315/"
+    },
+    {
+      "name": "gulpin",
+      "url": "/pokemon/316/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "cacnea",
+      "url": "/pokemon/331/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "roserade",
+      "url": "/pokemon/407/"
+    },
+    {
+      "name": "vespiquen",
+      "url": "/pokemon/416/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "skorupi",
+      "url": "/pokemon/451/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "venipede",
+      "url": "/pokemon/543/"
+    },
+    {
+      "name": "whirlipede",
+      "url": "/pokemon/544/"
+    },
+    {
+      "name": "scolipede",
+      "url": "/pokemon/545/"
+    },
+    {
+      "name": "yamask",
+      "url": "/pokemon/562/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "trubbish",
+      "url": "/pokemon/568/"
+    },
+    {
+      "name": "garbodor",
+      "url": "/pokemon/569/"
+    },
+    {
+      "name": "shelmet",
+      "url": "/pokemon/616/"
+    },
+    {
+      "name": "accelgor",
+      "url": "/pokemon/617/"
+    },
+    {
+      "name": "froakie",
+      "url": "/pokemon/656/"
+    },
+    {
+      "name": "frogadier",
+      "url": "/pokemon/657/"
+    },
+    {
+      "name": "greninja",
+      "url": "/pokemon/658/"
+    },
+    {
+      "name": "skrelp",
+      "url": "/pokemon/690/"
+    },
+    {
+      "name": "dragalge",
+      "url": "/pokemon/691/"
+    },
+    {
+      "name": "mareanie",
+      "url": "/pokemon/747/"
+    },
+    {
+      "name": "toxapex",
+      "url": "/pokemon/748/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "nihilego",
+      "url": "/pokemon/793/"
+    },
+    {
+      "name": "poipole",
+      "url": "/pokemon/803/"
+    },
+    {
+      "name": "naganadel",
+      "url": "/pokemon/804/"
+    },
+    {
+      "name": "toxtricity-amped",
+      "url": "/pokemon/849/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "pincurchin",
+      "url": "/pokemon/871/"
+    },
+    {
+      "name": "eternatus",
+      "url": "/pokemon/890/"
+    },
+    {
+      "name": "sneasler",
+      "url": "/pokemon/903/"
+    },
+    {
+      "name": "overqwil",
+      "url": "/pokemon/904/"
+    },
+    {
+      "name": "meowscarada",
+      "url": "/pokemon/908/"
+    },
+    {
+      "name": "tarountula",
+      "url": "/pokemon/917/"
+    },
+    {
+      "name": "spidops",
+      "url": "/pokemon/918/"
+    },
+    {
+      "name": "toedscool",
+      "url": "/pokemon/948/"
+    },
+    {
+      "name": "toedscruel",
+      "url": "/pokemon/949/"
+    },
+    {
+      "name": "varoom",
+      "url": "/pokemon/965/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "glimmet",
+      "url": "/pokemon/969/"
+    },
+    {
+      "name": "glimmora",
+      "url": "/pokemon/970/"
+    },
+    {
+      "name": "clodsire",
+      "url": "/pokemon/980/"
+    },
+    {
+      "name": "iron-moth",
+      "url": "/pokemon/994/"
+    },
+    {
+      "name": "beedrill-mega",
+      "url": "/pokemon/10090/"
+    },
+    {
+      "name": "greninja-ash",
+      "url": "/pokemon/10117/"
+    },
+    {
+      "name": "weezing-galar",
+      "url": "/pokemon/10167/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "yamask-galar",
+      "url": "/pokemon/10179/"
+    },
+    {
+      "name": "toxtricity-low-key",
+      "url": "/pokemon/10184/"
+    },
+    {
+      "name": "eternatus-eternamax",
+      "url": "/pokemon/10190/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    },
+    {
+      "name": "sneasel-hisui",
+      "url": "/pokemon/10235/"
+    },
+    {
+      "name": "wooper-paldea",
+      "url": "/pokemon/10253/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1643/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1796/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "field-effect",
+      "url": "/move-category/11/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "toxic-spikes",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "どくびし"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "독압정"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "毒菱"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Pics Toxik"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Giftspitzen"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Púas Tóxicas"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Fielepunte"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Toxic Spikes"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "どくびし"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "毒菱"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/13/"
+  },
+  "target": {
+    "name": "opponents-field",
+    "url": "/move-target/6/"
+  },
+  "type": {
+    "name": "poison",
+    "url": "/type/4/"
+  }
+}

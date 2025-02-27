@@ -1,0 +1,1335 @@
+{
+  "accuracy": 95,
+  "contest_combos": {
+    "normal": {
+      "use_after": null,
+      "use_before": null
+    },
+    "super": {
+      "use_after": [
+        {
+          "name": "charge",
+          "url": "/move/268/"
+        }
+      ],
+      "use_before": null
+    }
+  },
+  "contest_effect": null,
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": 10,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Has a 10% chance to paralyze the target and a 10% chance to make the target flinch."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　かみつく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nDas Ziel schreckt eventuell zurück oder wird\nparalysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Usa colmillos electrificados para morder. Puede\nhacer que el objetivo retroceda o se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　かみつく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　か つく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nDas Ziel schreckt eventuell zurück oder wird\nparalysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Usa colmillos electrificados para morder. Puede hacer \nque el objetivo retroceda o se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　か つく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　かみつく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用蓄滿電流的牙齒咬住對手。\n有時會讓對手畏縮\n或陷入麻痺狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nDas Ziel schreckt eventuell zurück oder wird\nparalysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Usa colmillos electrificados para morder. Puede\nhacer que el objetivo retroceda o se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　かみつく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "用蓄满电流的牙齿咬住对手。\n有时会使对手畏缩\n或陷入麻痹状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　かみつく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用蓄滿電流的牙齒咬住對手。\n有時會讓對手畏縮\n或陷入麻痺狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nDas Ziel schreckt eventuell zurück oder wird\nparalysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Usa colmillos electrificados para morder. Puede\nhacer que el objetivo retroceda o se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　かみつく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "用蓄满电流的牙齿咬住对手。\n有时会使对手畏缩\n或陷入麻痹状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　かみつく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用蓄滿電流的牙齒咬住對手。\n有時會讓對手畏縮\n或陷入麻痺狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nDas Ziel schreckt eventuell zurück oder wird\nparalysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Usa colmillos electrificados para morder. Puede\nhacer que el objetivo retroceda o se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　かみつく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "用蓄满电流的牙齿咬住对手。\n有时会使对手畏缩\n或陷入麻痹状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "でんきを　ためた　キバで　かみつく。\nあいてを　ひるませたり\nまひ　じょうたいに　することが　ある。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "전기를 모은 이빨로 문다.\n상대를 풀죽게 하거나\n마비 상태로 만들 때가 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用蓄滿電流的牙齒咬住對手。\n有時會讓對手畏縮\n或陷入麻痺狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise une morsure électrifiée.\nPeut aussi paralyser ou apeurer l’ennemi.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender beißt mit elektrifizierten Reißzähnen zu.\nZiel schreckt eventuell zurück oder wird paralysiert.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "El usuario muerde al objetivo con colmillos\nelectrificados y puede hacer que se amedrente\no se paralice.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa morde con denti elettrificati che possono\nanche paralizzare o far tentennare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "電気を　ためた　キバで　かみつく。\n相手を　ひるませたり\nまひ状態に　することが　ある。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "用蓄满电流的牙齿咬住对手。\n有时会使对手畏缩\n或陷入麻痹状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 422,
+  "learned_by_pokemon": [
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "gligar",
+      "url": "/pokemon/207/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "electrike",
+      "url": "/pokemon/309/"
+    },
+    {
+      "name": "manectric",
+      "url": "/pokemon/310/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "shinx",
+      "url": "/pokemon/403/"
+    },
+    {
+      "name": "luxio",
+      "url": "/pokemon/404/"
+    },
+    {
+      "name": "luxray",
+      "url": "/pokemon/405/"
+    },
+    {
+      "name": "pachirisu",
+      "url": "/pokemon/417/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "hippopotas",
+      "url": "/pokemon/449/"
+    },
+    {
+      "name": "hippowdon",
+      "url": "/pokemon/450/"
+    },
+    {
+      "name": "drapion",
+      "url": "/pokemon/452/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "gliscor",
+      "url": "/pokemon/472/"
+    },
+    {
+      "name": "lillipup",
+      "url": "/pokemon/506/"
+    },
+    {
+      "name": "herdier",
+      "url": "/pokemon/507/"
+    },
+    {
+      "name": "stoutland",
+      "url": "/pokemon/508/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "eelektrik",
+      "url": "/pokemon/603/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "durant",
+      "url": "/pokemon/632/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "litleo",
+      "url": "/pokemon/667/"
+    },
+    {
+      "name": "pyroar",
+      "url": "/pokemon/668/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "greedent",
+      "url": "/pokemon/820/"
+    },
+    {
+      "name": "thievul",
+      "url": "/pokemon/828/"
+    },
+    {
+      "name": "yamper",
+      "url": "/pokemon/835/"
+    },
+    {
+      "name": "boltund",
+      "url": "/pokemon/836/"
+    },
+    {
+      "name": "sandaconda",
+      "url": "/pokemon/844/"
+    },
+    {
+      "name": "toxtricity-amped",
+      "url": "/pokemon/849/"
+    },
+    {
+      "name": "centiskorch",
+      "url": "/pokemon/851/"
+    },
+    {
+      "name": "morpeko-full-belly",
+      "url": "/pokemon/877/"
+    },
+    {
+      "name": "dracozolt",
+      "url": "/pokemon/880/"
+    },
+    {
+      "name": "arctozolt",
+      "url": "/pokemon/881/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "regidrago",
+      "url": "/pokemon/895/"
+    },
+    {
+      "name": "fuecoco",
+      "url": "/pokemon/909/"
+    },
+    {
+      "name": "crocalor",
+      "url": "/pokemon/910/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "pawmi",
+      "url": "/pokemon/921/"
+    },
+    {
+      "name": "pawmo",
+      "url": "/pokemon/922/"
+    },
+    {
+      "name": "pawmot",
+      "url": "/pokemon/923/"
+    },
+    {
+      "name": "fidough",
+      "url": "/pokemon/926/"
+    },
+    {
+      "name": "dachsbun",
+      "url": "/pokemon/927/"
+    },
+    {
+      "name": "maschiff",
+      "url": "/pokemon/942/"
+    },
+    {
+      "name": "mabosstiff",
+      "url": "/pokemon/943/"
+    },
+    {
+      "name": "cyclizar",
+      "url": "/pokemon/967/"
+    },
+    {
+      "name": "greavard",
+      "url": "/pokemon/971/"
+    },
+    {
+      "name": "houndstone",
+      "url": "/pokemon/972/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "iron-treads",
+      "url": "/pokemon/990/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "okidogi",
+      "url": "/pokemon/1014/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "raging-bolt",
+      "url": "/pokemon/1021/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "houndoom-mega",
+      "url": "/pokemon/10048/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "manectric-mega",
+      "url": "/pokemon/10055/"
+    },
+    {
+      "name": "steelix-mega",
+      "url": "/pokemon/10072/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "toxtricity-low-key",
+      "url": "/pokemon/10184/"
+    },
+    {
+      "name": "morpeko-hangry",
+      "url": "/pokemon/10187/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "arcanine-hisui",
+      "url": "/pokemon/10230/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1171/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1714/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "paralysis",
+      "url": "/move-ailment/1/"
+    },
+    "ailment_chance": 10,
+    "category": {
+      "name": "damage+ailment",
+      "url": "/move-category/4/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 10,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "thunder-fang",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "かみなりのキバ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "번개엄니"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "雷電牙"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Crocs Éclair"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Donnerzahn"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Colmillo Rayo"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Fulmindenti"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Thunder Fang"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "かみなりのキバ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "雷电牙"
+    }
+  ],
+  "past_values": [],
+  "power": 65,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/5/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "electric",
+    "url": "/type/13/"
+  }
+}

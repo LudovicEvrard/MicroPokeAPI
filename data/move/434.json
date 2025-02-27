@@ -1,0 +1,1269 @@
+{
+  "accuracy": 90,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": 100,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Lowers the user's Special Attack by two stages after inflicting damage."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit fortement\nson Attaque Spéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly reduces the user’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly reduces the user’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit fortement son Attaque\nSpéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre\nel objetivo. Baja mucho el Ataque Especial del\nque lo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly lowers the user’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit fortement son Attaque\nSpéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly lowers the user’s Sp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "讓隕石從空中落下以攻擊對手。\n使用後因為反作用力，\n自己的特攻會大幅降低。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque\nSpéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "从天空中向对手落下陨石。\n使用之后因为反作用力，\n自己的特攻会大幅降低。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "讓隕石從空中落下以攻擊對手。\n使用後因為反作用力，\n自己的特攻會大幅降低。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque\nSpéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "从天空中向对手落下陨石。\n使用之后因为反作用力，\n自己的特攻会大幅降低。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "讓隕石從空中落下以攻擊對手。\n使用後因為反作用力，\n自己的特攻會大幅降低。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "从天空中向对手落下陨石。\n使用之后因为反作用力，\n自己的特攻会大幅降低。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "てんくうから　いんせきを\nあいてに　おとす。つかうと　はんどうで\nじぶんの　とくこうが　がくっと　さがる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "천공에서 운석을 상대에게\n떨어뜨린다. 사용하면 반동으로\n자신의 특수공격이 크게 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "讓隕石從空中落下以攻擊對手。\n使用後因為反作用力，\n自己的特攻會大幅降低。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Kometen werden heraufbeschworen. Der Rückstoß\nreduziert den Spezial-Angriff des Anwenders stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Hace que grandes cometas caigan del cielo sobre el\nobjetivo. Baja mucho el Ataque Especial del que lo usa.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl’Attacco Speciale di chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "天空から　隕石を\n相手に　落とす。使うと　反動で\n自分の　特攻が　がくっと　さがる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "从天空中向对手落下陨石。\n使用之后因为反作用力，\n自己的特攻会大幅降低。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 434,
+  "learned_by_pokemon": [
+    {
+      "name": "dratini",
+      "url": "/pokemon/147/"
+    },
+    {
+      "name": "dragonair",
+      "url": "/pokemon/148/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "kingdra",
+      "url": "/pokemon/230/"
+    },
+    {
+      "name": "vibrava",
+      "url": "/pokemon/329/"
+    },
+    {
+      "name": "flygon",
+      "url": "/pokemon/330/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "shelgon",
+      "url": "/pokemon/372/"
+    },
+    {
+      "name": "salamence",
+      "url": "/pokemon/373/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "rayquaza",
+      "url": "/pokemon/384/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "gabite",
+      "url": "/pokemon/444/"
+    },
+    {
+      "name": "garchomp",
+      "url": "/pokemon/445/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "palkia",
+      "url": "/pokemon/484/"
+    },
+    {
+      "name": "giratina-altered",
+      "url": "/pokemon/487/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "axew",
+      "url": "/pokemon/610/"
+    },
+    {
+      "name": "fraxure",
+      "url": "/pokemon/611/"
+    },
+    {
+      "name": "haxorus",
+      "url": "/pokemon/612/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "deino",
+      "url": "/pokemon/633/"
+    },
+    {
+      "name": "zweilous",
+      "url": "/pokemon/634/"
+    },
+    {
+      "name": "hydreigon",
+      "url": "/pokemon/635/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "kyurem",
+      "url": "/pokemon/646/"
+    },
+    {
+      "name": "dragalge",
+      "url": "/pokemon/691/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "goomy",
+      "url": "/pokemon/704/"
+    },
+    {
+      "name": "sliggoo",
+      "url": "/pokemon/705/"
+    },
+    {
+      "name": "goodra",
+      "url": "/pokemon/706/"
+    },
+    {
+      "name": "noibat",
+      "url": "/pokemon/714/"
+    },
+    {
+      "name": "noivern",
+      "url": "/pokemon/715/"
+    },
+    {
+      "name": "zygarde-50",
+      "url": "/pokemon/718/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "drampa",
+      "url": "/pokemon/780/"
+    },
+    {
+      "name": "jangmo-o",
+      "url": "/pokemon/782/"
+    },
+    {
+      "name": "hakamo-o",
+      "url": "/pokemon/783/"
+    },
+    {
+      "name": "kommo-o",
+      "url": "/pokemon/784/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "naganadel",
+      "url": "/pokemon/804/"
+    },
+    {
+      "name": "applin",
+      "url": "/pokemon/840/"
+    },
+    {
+      "name": "flapple",
+      "url": "/pokemon/841/"
+    },
+    {
+      "name": "appletun",
+      "url": "/pokemon/842/"
+    },
+    {
+      "name": "dracozolt",
+      "url": "/pokemon/880/"
+    },
+    {
+      "name": "dracovish",
+      "url": "/pokemon/882/"
+    },
+    {
+      "name": "duraludon",
+      "url": "/pokemon/884/"
+    },
+    {
+      "name": "dreepy",
+      "url": "/pokemon/885/"
+    },
+    {
+      "name": "drakloak",
+      "url": "/pokemon/886/"
+    },
+    {
+      "name": "dragapult",
+      "url": "/pokemon/887/"
+    },
+    {
+      "name": "eternatus",
+      "url": "/pokemon/890/"
+    },
+    {
+      "name": "regidrago",
+      "url": "/pokemon/895/"
+    },
+    {
+      "name": "cyclizar",
+      "url": "/pokemon/967/"
+    },
+    {
+      "name": "tatsugiri-curly",
+      "url": "/pokemon/978/"
+    },
+    {
+      "name": "frigibax",
+      "url": "/pokemon/996/"
+    },
+    {
+      "name": "arctibax",
+      "url": "/pokemon/997/"
+    },
+    {
+      "name": "baxcalibur",
+      "url": "/pokemon/998/"
+    },
+    {
+      "name": "roaring-moon",
+      "url": "/pokemon/1005/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "miraidon",
+      "url": "/pokemon/1008/"
+    },
+    {
+      "name": "walking-wake",
+      "url": "/pokemon/1009/"
+    },
+    {
+      "name": "dipplin",
+      "url": "/pokemon/1011/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "hydrapple",
+      "url": "/pokemon/1019/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "raging-bolt",
+      "url": "/pokemon/1021/"
+    },
+    {
+      "name": "giratina-origin",
+      "url": "/pokemon/10007/"
+    },
+    {
+      "name": "kyurem-black",
+      "url": "/pokemon/10022/"
+    },
+    {
+      "name": "kyurem-white",
+      "url": "/pokemon/10023/"
+    },
+    {
+      "name": "garchomp-mega",
+      "url": "/pokemon/10058/"
+    },
+    {
+      "name": "latias-mega",
+      "url": "/pokemon/10062/"
+    },
+    {
+      "name": "latios-mega",
+      "url": "/pokemon/10063/"
+    },
+    {
+      "name": "altaria-mega",
+      "url": "/pokemon/10067/"
+    },
+    {
+      "name": "rayquaza-mega",
+      "url": "/pokemon/10079/"
+    },
+    {
+      "name": "salamence-mega",
+      "url": "/pokemon/10089/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "zygarde-10-power-construct",
+      "url": "/pokemon/10118/"
+    },
+    {
+      "name": "zygarde-50-power-construct",
+      "url": "/pokemon/10119/"
+    },
+    {
+      "name": "zygarde-complete",
+      "url": "/pokemon/10120/"
+    },
+    {
+      "name": "kommo-o-totem",
+      "url": "/pokemon/10146/"
+    },
+    {
+      "name": "zygarde-10",
+      "url": "/pokemon/10181/"
+    },
+    {
+      "name": "eternatus-eternamax",
+      "url": "/pokemon/10190/"
+    },
+    {
+      "name": "sliggoo-hisui",
+      "url": "/pokemon/10241/"
+    },
+    {
+      "name": "goodra-hisui",
+      "url": "/pokemon/10242/"
+    },
+    {
+      "name": "dialga-origin",
+      "url": "/pokemon/10245/"
+    },
+    {
+      "name": "palkia-origin",
+      "url": "/pokemon/10246/"
+    },
+    {
+      "name": "tatsugiri-droopy",
+      "url": "/pokemon/10258/"
+    },
+    {
+      "name": "tatsugiri-stretchy",
+      "url": "/pokemon/10259/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    },
+    {
+      "name": "miraidon-low-power-mode",
+      "url": "/pokemon/10268/"
+    },
+    {
+      "name": "miraidon-drive-mode",
+      "url": "/pokemon/10269/"
+    },
+    {
+      "name": "miraidon-aquatic-mode",
+      "url": "/pokemon/10270/"
+    },
+    {
+      "name": "miraidon-glide-mode",
+      "url": "/pokemon/10271/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1874/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage+raise",
+      "url": "/move-category/7/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 100
+  },
+  "name": "draco-meteor",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "りゅうせいぐん"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "용성군"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "流星群"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Draco-Météore"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Draco Meteor"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Cometa Draco"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Dragobolide"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Draco Meteor"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "りゅうせいぐん"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "流星群"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": 140,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    }
+  ],
+  "power": 130,
+  "pp": 5,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": -2,
+      "stat": {
+        "name": "special-attack",
+        "url": "/stat/4/"
+      }
+    }
+  ],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/22/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "dragon",
+    "url": "/type/16/"
+  }
+}

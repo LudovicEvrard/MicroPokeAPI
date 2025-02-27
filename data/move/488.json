@@ -1,0 +1,1324 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": 100,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Raises the user's Speed by one stage.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Inflicts regular damage.  Raises the user's Speed by one stage."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour\nattaquer l’ennemi. Il se concentre\net sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer\nl’ennemi. Il se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und\ngreift das Ziel an. Sammelt seine Energie\nund erhöht dadurch die eigene Initiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la\nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks.\nThen, building up more power,\nthe user raises its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer\nl’ennemi. Il se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und\ngreift das Ziel an. Sammelt seine Energie\nund erhöht dadurch die eigene Initiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks.\nThen, building up more power,\nthe user raises its Speed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "讓火焰圍繞全身後攻擊對手。\n同時蓄積力量來提高自己的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer\nl’ennemi. Il se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und greift das Ziel\nan. Sammelt seine Energie und erhöht dadurch die\neigene Initiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "让火焰覆盖全身，攻击对手。\n积蓄力量并提高自己的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "讓火焰圍繞全身後攻擊對手。\n同時蓄積力量來提高自己的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer\nl’ennemi. Il se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und greift das Ziel\nan. Sammelt seine Energie und erhöht dadurch die\neigene Initiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "让火焰覆盖全身，攻击对手。\n积蓄力量并提高自己的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "讓火焰圍繞全身後攻擊對手。\n同時蓄積力量來提高自己的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer l’ennemi.\nIl se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und greift das Ziel\nan. Sammelt seine Energie und erhöht dadurch die\neigene Initiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "让火焰覆盖全身，攻击对手。\n积蓄力量并提高自己的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "ほのおを　まとい　あいてを\nこうげきする。ちからを　ためて　じぶんの\nすばやさを　あげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "불꽃을 둘러 상대를 공격한다.\n힘을 모아서 자신의\n스피드를 올린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "讓火焰圍繞全身後攻擊對手。\n同時蓄積力量來提高自己的速度。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur s’entoure de flammes pour attaquer l’ennemi.\nIl se concentre et sa Vitesse augmente.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender hüllt sich in Flammen und greift das Ziel an.\nSammelt seine Energie und erhöht dadurch die eigene\nInitiative.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocità.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cloaking itself in flame, the user attacks the target.\nThen, building up more power, the user raises its\nSpeed stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "炎を　まとい　相手を　攻撃する。\n力を　ためて　自分の\n素早さを　あげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "让火焰覆盖全身，攻击对手。\n积蓄力量并提高自己的速度。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 488,
+  "learned_by_pokemon": [
+    {
+      "name": "charmander",
+      "url": "/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "/pokemon/6/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "arcanine",
+      "url": "/pokemon/59/"
+    },
+    {
+      "name": "ponyta",
+      "url": "/pokemon/77/"
+    },
+    {
+      "name": "rapidash",
+      "url": "/pokemon/78/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "moltres",
+      "url": "/pokemon/146/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "quilava",
+      "url": "/pokemon/156/"
+    },
+    {
+      "name": "typhlosion",
+      "url": "/pokemon/157/"
+    },
+    {
+      "name": "slugma",
+      "url": "/pokemon/218/"
+    },
+    {
+      "name": "magcargo",
+      "url": "/pokemon/219/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "magby",
+      "url": "/pokemon/240/"
+    },
+    {
+      "name": "entei",
+      "url": "/pokemon/244/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "numel",
+      "url": "/pokemon/322/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "torkoal",
+      "url": "/pokemon/324/"
+    },
+    {
+      "name": "chimchar",
+      "url": "/pokemon/390/"
+    },
+    {
+      "name": "monferno",
+      "url": "/pokemon/391/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "pansear",
+      "url": "/pokemon/513/"
+    },
+    {
+      "name": "simisear",
+      "url": "/pokemon/514/"
+    },
+    {
+      "name": "blitzle",
+      "url": "/pokemon/522/"
+    },
+    {
+      "name": "zebstrika",
+      "url": "/pokemon/523/"
+    },
+    {
+      "name": "darumaka",
+      "url": "/pokemon/554/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "litwick",
+      "url": "/pokemon/607/"
+    },
+    {
+      "name": "lampent",
+      "url": "/pokemon/608/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "genesect",
+      "url": "/pokemon/649/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "fletchling",
+      "url": "/pokemon/661/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "litleo",
+      "url": "/pokemon/667/"
+    },
+    {
+      "name": "pyroar",
+      "url": "/pokemon/668/"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "/pokemon/710/"
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "/pokemon/711/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "pikipek",
+      "url": "/pokemon/731/"
+    },
+    {
+      "name": "trumbeak",
+      "url": "/pokemon/732/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "scorbunny",
+      "url": "/pokemon/813/"
+    },
+    {
+      "name": "raboot",
+      "url": "/pokemon/814/"
+    },
+    {
+      "name": "cinderace",
+      "url": "/pokemon/815/"
+    },
+    {
+      "name": "yamper",
+      "url": "/pokemon/835/"
+    },
+    {
+      "name": "carkol",
+      "url": "/pokemon/838/"
+    },
+    {
+      "name": "coalossal",
+      "url": "/pokemon/839/"
+    },
+    {
+      "name": "fuecoco",
+      "url": "/pokemon/909/"
+    },
+    {
+      "name": "crocalor",
+      "url": "/pokemon/910/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "charcadet",
+      "url": "/pokemon/935/"
+    },
+    {
+      "name": "armarouge",
+      "url": "/pokemon/936/"
+    },
+    {
+      "name": "ceruledge",
+      "url": "/pokemon/937/"
+    },
+    {
+      "name": "slither-wing",
+      "url": "/pokemon/988/"
+    },
+    {
+      "name": "iron-moth",
+      "url": "/pokemon/994/"
+    },
+    {
+      "name": "chi-yu",
+      "url": "/pokemon/1004/"
+    },
+    {
+      "name": "koraidon",
+      "url": "/pokemon/1007/"
+    },
+    {
+      "name": "gouging-fire",
+      "url": "/pokemon/1020/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "url": "/pokemon/10027/"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "url": "/pokemon/10028/"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "url": "/pokemon/10029/"
+    },
+    {
+      "name": "gourgeist-small",
+      "url": "/pokemon/10030/"
+    },
+    {
+      "name": "gourgeist-large",
+      "url": "/pokemon/10031/"
+    },
+    {
+      "name": "gourgeist-super",
+      "url": "/pokemon/10032/"
+    },
+    {
+      "name": "charizard-mega-x",
+      "url": "/pokemon/10034/"
+    },
+    {
+      "name": "charizard-mega-y",
+      "url": "/pokemon/10035/"
+    },
+    {
+      "name": "houndoom-mega",
+      "url": "/pokemon/10048/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "camerupt-mega",
+      "url": "/pokemon/10087/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "salazzle-totem",
+      "url": "/pokemon/10129/"
+    },
+    {
+      "name": "marowak-totem",
+      "url": "/pokemon/10149/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "arcanine-hisui",
+      "url": "/pokemon/10230/"
+    },
+    {
+      "name": "typhlosion-hisui",
+      "url": "/pokemon/10233/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "koraidon-limited-build",
+      "url": "/pokemon/10264/"
+    },
+    {
+      "name": "koraidon-sprinting-build",
+      "url": "/pokemon/10265/"
+    },
+    {
+      "name": "koraidon-swimming-build",
+      "url": "/pokemon/10266/"
+    },
+    {
+      "name": "koraidon-gliding-build",
+      "url": "/pokemon/10267/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/852/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/855/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/856/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/857/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/858/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/859/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1743/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage+raise",
+      "url": "/move-category/7/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 100
+  },
+  "name": "flame-charge",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ニトロチャージ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "니트로차지"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "蓄能焰襲"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Nitrocharge"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Nitroladung"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Nitrocarga"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Nitrocarica"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Flame Charge"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ニトロチャージ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "蓄能焰袭"
+    }
+  ],
+  "past_values": [],
+  "power": 50,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": 1,
+      "stat": {
+        "name": "speed",
+        "url": "/stat/6/"
+      }
+    }
+  ],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "fire",
+    "url": "/type/10/"
+  }
+}

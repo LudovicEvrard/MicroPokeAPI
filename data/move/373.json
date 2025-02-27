@@ -1,0 +1,1380 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Target cannot use its held item for five turns.  If the target leaves the field, this effect ends.\n\nIf a Pokémon under this effect uses bug bite or pluck on a Pokémon holding a berry, the berry is destroyed but not used.  If a Pokémon under this effect uses fling, it will fail.\n\nThis effect is passed by baton pass.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Target cannot use held items."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Empêche l’ennemi d’utiliser un\nobjet tenu et son Dresseur\nd’utiliser un objet sur lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "It prevents the target from using its held\nitem. Its Trainer is also prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "It prevents the target from using its held\nitem. Its Trainer is also prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "もたせた　どうぐを　つかえなくする。\nトレーナーも　その　ポケモンには\nどうぐを　つかえない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "지니게 한 도구를 쓸 수 없게 한다.\n트레이너도 그 포켓몬에게는\n도구를 쓸 수 없다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Empêche l’ennemi d’utiliser un objet tenu et son\nDresseur d’utiliser un objet sur lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Verhindert, dass auf das Ziel Items verwendet\nwerden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Impide al objetivo usar el objeto que lleva. Su\nEntrenador tampoco puede usar objetos con él.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pokémon.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "This move prevents the target from\nusing its held item. Its Trainer is\nalso prevented from using items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "持たせた　道具を　使えなくする。\nトレーナーも　その　ポケモンには\n道具を　使えない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "もたせた　どうぐを　つかえなくする。\nトレーナーも　その　ポケモンには\nどうぐを　つかえない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "지니게 한 도구를 쓸 수 없게 한다.\n트레이너도 그 포켓몬에게는\n도구를 쓸 수 없다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Empêche l’ennemi d’utiliser un objet tenu et son\nDresseur d’utiliser un objet sur lui.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel kann weder getragene Items nutzen,\nnoch kann sein Trainer Items auf es anwenden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Impide al objetivo usar el objeto que lleva. Su\nEntrenador tampoco puede usar objetos con él. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pokémon.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "This move prevents the target from\nusing its held item. Its Trainer is\nalso prevented from using items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "持たせた　道具を　使えなくする。\nトレーナーも　その　ポケモンには\n道具を　使えない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "もたせた　どうぐを　５ターンの　あいだ\nつかえなくする。　トレーナーも\nその　ポケモンには　どうぐを　つかえない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "지니게 한 도구를 5턴 동안\n쓸 수 없게 한다. 트레이너도\n그 포켓몬에게는 도구를 쓸 수 없다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "讓對手在５回合內無法使用攜帶的道具。\n訓練家也不能對\n該寶可夢使用道具。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Empêche la cible d’utiliser un objet tenu\net son Dresseur d’utiliser un objet sur lui\npendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel kann fünf Runden lang weder getragene\nItems nutzen, noch kann sein Trainer Items auf es\nanwenden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Impide al objetivo usar el objeto que lleva durante\ncinco turnos. Su Entrenador tampoco puede usar\nobjetos con él.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pokémon\nper cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "持たせた　道具を　５ターンの　間\n使えなくする。　トレーナーも\nその　ポケモンには　道具を　使えない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "让对手在５回合内不能使用\n宝可梦携带的道具。训练家也\n不能给那只宝可梦使用道具。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "もたせた　どうぐを　５ターンの　あいだ\nつかえなくする。　トレーナーも\nその　ポケモンには　どうぐを　つかえない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "지니게 한 도구를 5턴 동안\n쓸 수 없게 한다. 트레이너도\n그 포켓몬에게는 도구를 쓸 수 없다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "讓對手在５回合內無法使用攜帶的道具。\n訓練家也不能對\n該寶可夢使用道具。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Empêche la cible d’utiliser un objet tenu\net son Dresseur d’utiliser un objet sur lui\npendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel kann fünf Runden lang weder getragene\nItems nutzen, noch kann sein Trainer Items auf es\nanwenden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Impide al objetivo usar el objeto que lleva durante\ncinco turnos. Su Entrenador tampoco puede usar\nobjetos con él.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pokémon\nper cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "持たせた　道具を　５ターンの　間\n使えなくする。　トレーナーも\nその　ポケモンには　道具を　使えない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "让对手在５回合内不能使用\n宝可梦携带的道具。训练家也\n不能给那只宝可梦使用道具。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "もたせた　どうぐを　５ターンの　あいだ\nつかえなくする。　トレーナーも\nその　ポケモンには　どうぐを　つかえない。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "지니게 한 도구를 5턴 동안\n쓸 수 없게 한다. 트레이너도\n그 포켓몬에게는 도구를 쓸 수 없다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "讓對手在５回合內無法使用攜帶的道具。\n訓練家也不能對\n該寶可夢使用道具。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Empêche la cible d’utiliser un objet tenu\net son Dresseur d’utiliser un objet sur lui\npendant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Das Ziel kann fünf Runden lang weder getragene\nItems nutzen, noch kann sein Trainer Items auf es\nanwenden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Impide al objetivo usar el objeto que lleva durante\ncinco turnos. Su Entrenador tampoco puede usar\nobjetos con él.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pokémon\nper cinque turni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "持たせた　道具を　５ターンの　間\n使えなくする。　トレーナーも\nその　ポケモンには　道具を　使えない。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "让对手在５回合内不能使用\n宝可梦携带的道具。训练家也\n不能给那只宝可梦使用道具。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "このわざは　つかえません\nおもいだすことが　できなくなりますが\nわざを　わすれることを　おすすめします",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "사용할 수 없는 기술입니다.\n다시 배우게 할 수 없지만\n기술을 잊게 하는 것을 권장합니다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "無法使用此招式。\n雖然忘記後將無法再想起來，\n但還是建議忘記此招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nicht eingesetzt werden. Du solltest\ndein Pokémon sie vergessen lassen. Beachte aber,\ndass es sich danach nicht wieder an sie erinnern kann.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento no se puede usar, por lo que sería\nmejor olvidarlo, aunque eso implique que no se pueda\nrecordar posteriormente.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Questa mossa non può essere usata.\nÈ consigliabile farla dimenticare al Pokémon. Tuttavia,\nuna volta dimenticata, non potrà più essere ricordata.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "この技は　使えません\n思い出すことが　できなくなりますが\n技を　忘れることを　おすすめします",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "无法使用这个招式。\n虽然忘记之后就再也想不起来了，\n但还是建议忘记这个招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 373,
+  "learned_by_pokemon": [
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "abra",
+      "url": "/pokemon/63/"
+    },
+    {
+      "name": "kadabra",
+      "url": "/pokemon/64/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "murkrow",
+      "url": "/pokemon/198/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "sneasel",
+      "url": "/pokemon/215/"
+    },
+    {
+      "name": "houndour",
+      "url": "/pokemon/228/"
+    },
+    {
+      "name": "houndoom",
+      "url": "/pokemon/229/"
+    },
+    {
+      "name": "poochyena",
+      "url": "/pokemon/261/"
+    },
+    {
+      "name": "mightyena",
+      "url": "/pokemon/262/"
+    },
+    {
+      "name": "nuzleaf",
+      "url": "/pokemon/274/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "cacturne",
+      "url": "/pokemon/332/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "duskull",
+      "url": "/pokemon/355/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "drifloon",
+      "url": "/pokemon/425/"
+    },
+    {
+      "name": "drifblim",
+      "url": "/pokemon/426/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "honchkrow",
+      "url": "/pokemon/430/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "/pokemon/442/"
+    },
+    {
+      "name": "croagunk",
+      "url": "/pokemon/453/"
+    },
+    {
+      "name": "toxicroak",
+      "url": "/pokemon/454/"
+    },
+    {
+      "name": "weavile",
+      "url": "/pokemon/461/"
+    },
+    {
+      "name": "porygon-z",
+      "url": "/pokemon/474/"
+    },
+    {
+      "name": "dusknoir",
+      "url": "/pokemon/477/"
+    },
+    {
+      "name": "froslass",
+      "url": "/pokemon/478/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "purrloin",
+      "url": "/pokemon/509/"
+    },
+    {
+      "name": "liepard",
+      "url": "/pokemon/510/"
+    },
+    {
+      "name": "woobat",
+      "url": "/pokemon/527/"
+    },
+    {
+      "name": "swoobat",
+      "url": "/pokemon/528/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "yamask",
+      "url": "/pokemon/562/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "gothita",
+      "url": "/pokemon/574/"
+    },
+    {
+      "name": "gothorita",
+      "url": "/pokemon/575/"
+    },
+    {
+      "name": "gothitelle",
+      "url": "/pokemon/576/"
+    },
+    {
+      "name": "solosis",
+      "url": "/pokemon/577/"
+    },
+    {
+      "name": "duosion",
+      "url": "/pokemon/578/"
+    },
+    {
+      "name": "reuniclus",
+      "url": "/pokemon/579/"
+    },
+    {
+      "name": "elgyem",
+      "url": "/pokemon/605/"
+    },
+    {
+      "name": "beheeyem",
+      "url": "/pokemon/606/"
+    },
+    {
+      "name": "litwick",
+      "url": "/pokemon/607/"
+    },
+    {
+      "name": "lampent",
+      "url": "/pokemon/608/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "vullaby",
+      "url": "/pokemon/629/"
+    },
+    {
+      "name": "mandibuzz",
+      "url": "/pokemon/630/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "meloetta-aria",
+      "url": "/pokemon/648/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "pangoro",
+      "url": "/pokemon/675/"
+    },
+    {
+      "name": "inkay",
+      "url": "/pokemon/686/"
+    },
+    {
+      "name": "malamar",
+      "url": "/pokemon/687/"
+    },
+    {
+      "name": "binacle",
+      "url": "/pokemon/688/"
+    },
+    {
+      "name": "barbaracle",
+      "url": "/pokemon/689/"
+    },
+    {
+      "name": "yveltal",
+      "url": "/pokemon/717/"
+    },
+    {
+      "name": "hoopa",
+      "url": "/pokemon/720/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "oricorio-baile",
+      "url": "/pokemon/741/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "palossand",
+      "url": "/pokemon/770/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "dhelmise",
+      "url": "/pokemon/781/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "url": "/pokemon/10018/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "alakazam-mega",
+      "url": "/pokemon/10037/"
+    },
+    {
+      "name": "gengar-mega",
+      "url": "/pokemon/10038/"
+    },
+    {
+      "name": "mewtwo-mega-x",
+      "url": "/pokemon/10043/"
+    },
+    {
+      "name": "mewtwo-mega-y",
+      "url": "/pokemon/10044/"
+    },
+    {
+      "name": "houndoom-mega",
+      "url": "/pokemon/10048/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "banette-mega",
+      "url": "/pokemon/10056/"
+    },
+    {
+      "name": "sableye-mega",
+      "url": "/pokemon/10066/"
+    },
+    {
+      "name": "hoopa-unbound",
+      "url": "/pokemon/10086/"
+    },
+    {
+      "name": "rattata-alola",
+      "url": "/pokemon/10091/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "meowth-alola",
+      "url": "/pokemon/10107/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "grimer-alola",
+      "url": "/pokemon/10112/"
+    },
+    {
+      "name": "muk-alola",
+      "url": "/pokemon/10113/"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "url": "/pokemon/10123/"
+    },
+    {
+      "name": "oricorio-pau",
+      "url": "/pokemon/10124/"
+    },
+    {
+      "name": "oricorio-sensu",
+      "url": "/pokemon/10125/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "url": "/pokemon/10144/"
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "url": "/pokemon/10145/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "necrozma-ultra",
+      "url": "/pokemon/10157/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1132/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1133/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1134/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1135/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1136/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1137/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1138/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1139/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1140/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "embargo",
+      "url": "/move-ailment/19/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "ailment",
+      "url": "/move-category/1/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": 5,
+    "min_hits": null,
+    "min_turns": 5,
+    "stat_chance": 0
+  },
+  "name": "embargo",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "さしおさえ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "금제"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "查封"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Embargo"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Itemsperre"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Embargo"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Divieto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Embargo"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "さしおさえ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "查封"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/13/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "dark",
+    "url": "/type/17/"
+  }
+}

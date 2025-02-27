@@ -1,0 +1,608 @@
+{
+  "accuracy": 95,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "ぜんしんから　あつめた　はがねを\nビームとして　はげしく　うちだす。\nじぶんも　ダメージを　うけてしまう。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "전신에서 끌어모은 강철을\n빔으로 바꿔 세차게 발사한다.\n자신도 데미지를 받는다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "將從全身匯聚起來的鋼鐵\n化為光束激烈地發射出去。\n自己也會受到傷害。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur concentre du métal issu de tout son corps\nen un rayon qu’il projette violemment sur sa cible.\nIl subit aussi des dégâts.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Der Anwender schießt Stahl, den er in seinem ganzen\nKörper angesammelt hat, in Form eines mächtigen\nStrahls ab. Dabei verletzt er sich auch selbst.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Utiliza el acero de su cuerpo para disparar un potente\nrayo. También hiere al agresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa utilizza l’acciaio del proprio corpo per\nsparare un violento raggio, ma subisce danni.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user fires a beam of steel that it collected from its\nentire body. This also damages the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "全身から　集めた　はがねを\nビームとして　激しく　撃ちだす。\n自分も　ダメージを　受けてしまう。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "将从全身聚集的钢铁\n化为光束，激烈地发射出去。\n自己也会受到伤害。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-viii",
+    "url": "/generation/8/"
+  },
+  "id": 796,
+  "learned_by_pokemon": [
+    {
+      "name": "magnemite",
+      "url": "/pokemon/81/"
+    },
+    {
+      "name": "magneton",
+      "url": "/pokemon/82/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "forretress",
+      "url": "/pokemon/205/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "scizor",
+      "url": "/pokemon/212/"
+    },
+    {
+      "name": "skarmory",
+      "url": "/pokemon/227/"
+    },
+    {
+      "name": "nosepass",
+      "url": "/pokemon/299/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "aron",
+      "url": "/pokemon/304/"
+    },
+    {
+      "name": "lairon",
+      "url": "/pokemon/305/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "beldum",
+      "url": "/pokemon/374/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "registeel",
+      "url": "/pokemon/379/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "magnezone",
+      "url": "/pokemon/462/"
+    },
+    {
+      "name": "probopass",
+      "url": "/pokemon/476/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "heatran",
+      "url": "/pokemon/485/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "excadrill",
+      "url": "/pokemon/530/"
+    },
+    {
+      "name": "escavalier",
+      "url": "/pokemon/589/"
+    },
+    {
+      "name": "ferroseed",
+      "url": "/pokemon/597/"
+    },
+    {
+      "name": "ferrothorn",
+      "url": "/pokemon/598/"
+    },
+    {
+      "name": "klink",
+      "url": "/pokemon/599/"
+    },
+    {
+      "name": "klang",
+      "url": "/pokemon/600/"
+    },
+    {
+      "name": "klinklang",
+      "url": "/pokemon/601/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "durant",
+      "url": "/pokemon/632/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "genesect",
+      "url": "/pokemon/649/"
+    },
+    {
+      "name": "honedge",
+      "url": "/pokemon/679/"
+    },
+    {
+      "name": "doublade",
+      "url": "/pokemon/680/"
+    },
+    {
+      "name": "aegislash-shield",
+      "url": "/pokemon/681/"
+    },
+    {
+      "name": "klefki",
+      "url": "/pokemon/707/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "togedemaru",
+      "url": "/pokemon/777/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "kartana",
+      "url": "/pokemon/798/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "meltan",
+      "url": "/pokemon/808/"
+    },
+    {
+      "name": "melmetal",
+      "url": "/pokemon/809/"
+    },
+    {
+      "name": "corviknight",
+      "url": "/pokemon/823/"
+    },
+    {
+      "name": "perrserker",
+      "url": "/pokemon/863/"
+    },
+    {
+      "name": "cufant",
+      "url": "/pokemon/878/"
+    },
+    {
+      "name": "copperajah",
+      "url": "/pokemon/879/"
+    },
+    {
+      "name": "duraludon",
+      "url": "/pokemon/884/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "tinkatink",
+      "url": "/pokemon/957/"
+    },
+    {
+      "name": "tinkatuff",
+      "url": "/pokemon/958/"
+    },
+    {
+      "name": "tinkaton",
+      "url": "/pokemon/959/"
+    },
+    {
+      "name": "varoom",
+      "url": "/pokemon/965/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "orthworm",
+      "url": "/pokemon/968/"
+    },
+    {
+      "name": "kingambit",
+      "url": "/pokemon/983/"
+    },
+    {
+      "name": "iron-treads",
+      "url": "/pokemon/990/"
+    },
+    {
+      "name": "gholdengo",
+      "url": "/pokemon/1000/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "iron-crown",
+      "url": "/pokemon/1023/"
+    },
+    {
+      "name": "wormadam-trash",
+      "url": "/pokemon/10005/"
+    },
+    {
+      "name": "aegislash-blade",
+      "url": "/pokemon/10026/"
+    },
+    {
+      "name": "sandshrew-alola",
+      "url": "/pokemon/10101/"
+    },
+    {
+      "name": "sandslash-alola",
+      "url": "/pokemon/10102/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "dugtrio-alola",
+      "url": "/pokemon/10106/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "meowth-galar",
+      "url": "/pokemon/10161/"
+    },
+    {
+      "name": "stunfisk-galar",
+      "url": "/pokemon/10180/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "sliggoo-hisui",
+      "url": "/pokemon/10241/"
+    },
+    {
+      "name": "goodra-hisui",
+      "url": "/pokemon/10242/"
+    },
+    {
+      "name": "dialga-origin",
+      "url": "/pokemon/10245/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1875/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1939/"
+      },
+      "version_group": {
+        "name": "the-teal-mask",
+        "url": "/version-group/26/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "steel-beam",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "てっていこうせん"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "철제광선"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "鐵蹄光線"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Métalaser"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Stahlstrahl"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Metaláser"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Raggio d’Acciaio"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Steel Beam"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "てっていこうせん"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "铁蹄光线"
+    }
+  ],
+  "past_values": [],
+  "power": 140,
+  "pp": 5,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "steel",
+    "url": "/type/9/"
+  }
+}

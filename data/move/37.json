@@ -1,0 +1,1414 @@
+{
+  "accuracy": 100,
+  "contest_combos": {
+    "normal": {
+      "use_after": [
+        {
+          "name": "rage",
+          "url": "/move/99/"
+        }
+      ],
+      "use_before": null
+    },
+    "super": {
+      "use_after": null,
+      "use_before": null
+    }
+  },
+  "contest_effect": {
+    "url": "/contest-effect/6/"
+  },
+  "contest_type": {
+    "name": "tough",
+    "url": "/contest-type/5/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Hits every turn for 2-3 turns, then confuses the user."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Works 2-3 turns\nand confuses user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "Works 2-3 turns\nand confuses user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "A rampage of 2 to 3 turns\nthat confuses the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "A rampage of 2 to 3 turns\nthat confuses the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages\nabout for two to\nthree turns, then\nbecomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de 2 à 3\ntours. Le lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two\nto three turns. It then becomes\nconfused, however.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two\nto three turns. It then becomes\nconfused, however.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à\ntrois tours. Le lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden,\ndie den Angreifer verwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ataca de dos a tres turnos y acaba confundiendo\nal agresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks\nfor two to three turns.\nThe user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à\ntrois tours. Le lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden,\ndie den Angreifer verwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks\nfor two to three turns.\nThe user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合內\n瘋狂亂打對手進行攻擊。\n大鬧一番後自己會陷入混亂。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden, die den Angreifer\nverwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　間\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合内，\n乱打一气地攻击对手。\n大闹一番后自己会陷入混乱。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合內\n瘋狂亂打對手進行攻擊。\n大鬧一番後自己會陷入混亂。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden, die den Angreifer\nverwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　間\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合内，\n乱打一气地攻击对手。\n大闹一番后自己会陷入混乱。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合內\n瘋狂亂打對手進行攻擊。\n大鬧一番後自己會陷入混亂。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden, die den Angreifer\nverwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　間\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合内，\n乱打一气地攻击对手。\n大闹一番后自己会陷入混乱。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　あいだ\nあばれまくって　あいてを　こうげきする。\nあばれた　あとは　こんらん　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "2-3턴 동안\n마구 난동 부려서 상대를 공격한다.\n난동 부린 뒤에는 혼란에 빠진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合內\n瘋狂亂打對手進行攻擊。\n大鬧一番後自己會陷入混亂。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Attacke über zwei bis drei Runden, die den Anwender\ndanach verwirrt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataque de dos a tres turnos que acaba confundiendo\nal agresor.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "２ー３ターンの　間\n暴れまくって　相手を　攻撃する。\n暴れたあとは　混乱する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在２～３回合内，\n乱打一气地攻击对手。\n大闹一番后自己会陷入混乱。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 37,
+  "learned_by_pokemon": [
+    {
+      "name": "nidoran-m",
+      "url": "/pokemon/32/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "primeape",
+      "url": "/pokemon/57/"
+    },
+    {
+      "name": "growlithe",
+      "url": "/pokemon/58/"
+    },
+    {
+      "name": "ponyta",
+      "url": "/pokemon/77/"
+    },
+    {
+      "name": "doduo",
+      "url": "/pokemon/84/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "lickitung",
+      "url": "/pokemon/108/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "jynx",
+      "url": "/pokemon/124/"
+    },
+    {
+      "name": "pinsir",
+      "url": "/pokemon/127/"
+    },
+    {
+      "name": "tauros",
+      "url": "/pokemon/128/"
+    },
+    {
+      "name": "gyarados",
+      "url": "/pokemon/130/"
+    },
+    {
+      "name": "cyndaquil",
+      "url": "/pokemon/155/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "larvitar",
+      "url": "/pokemon/246/"
+    },
+    {
+      "name": "pupitar",
+      "url": "/pokemon/247/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "carvanha",
+      "url": "/pokemon/318/"
+    },
+    {
+      "name": "wailmer",
+      "url": "/pokemon/320/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "barboach",
+      "url": "/pokemon/339/"
+    },
+    {
+      "name": "whiscash",
+      "url": "/pokemon/340/"
+    },
+    {
+      "name": "bagon",
+      "url": "/pokemon/371/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "gible",
+      "url": "/pokemon/443/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "tepig",
+      "url": "/pokemon/498/"
+    },
+    {
+      "name": "pignite",
+      "url": "/pokemon/499/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "blitzle",
+      "url": "/pokemon/522/"
+    },
+    {
+      "name": "zebstrika",
+      "url": "/pokemon/523/"
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "/pokemon/550/"
+    },
+    {
+      "name": "sandile",
+      "url": "/pokemon/551/"
+    },
+    {
+      "name": "krokorok",
+      "url": "/pokemon/552/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "darumaka",
+      "url": "/pokemon/554/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "eelektrik",
+      "url": "/pokemon/603/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "cubchoo",
+      "url": "/pokemon/613/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "bouffalant",
+      "url": "/pokemon/626/"
+    },
+    {
+      "name": "rufflet",
+      "url": "/pokemon/627/"
+    },
+    {
+      "name": "braviary",
+      "url": "/pokemon/628/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "tyrunt",
+      "url": "/pokemon/696/"
+    },
+    {
+      "name": "tyrantrum",
+      "url": "/pokemon/697/"
+    },
+    {
+      "name": "litten",
+      "url": "/pokemon/725/"
+    },
+    {
+      "name": "torracat",
+      "url": "/pokemon/726/"
+    },
+    {
+      "name": "incineroar",
+      "url": "/pokemon/727/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "stufful",
+      "url": "/pokemon/759/"
+    },
+    {
+      "name": "bewear",
+      "url": "/pokemon/760/"
+    },
+    {
+      "name": "passimian",
+      "url": "/pokemon/766/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "cramorant",
+      "url": "/pokemon/845/"
+    },
+    {
+      "name": "arrokuda",
+      "url": "/pokemon/846/"
+    },
+    {
+      "name": "perrserker",
+      "url": "/pokemon/863/"
+    },
+    {
+      "name": "morpeko-full-belly",
+      "url": "/pokemon/877/"
+    },
+    {
+      "name": "zarude",
+      "url": "/pokemon/893/"
+    },
+    {
+      "name": "regieleki",
+      "url": "/pokemon/894/"
+    },
+    {
+      "name": "regidrago",
+      "url": "/pokemon/895/"
+    },
+    {
+      "name": "glastrier",
+      "url": "/pokemon/896/"
+    },
+    {
+      "name": "spectrier",
+      "url": "/pokemon/897/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "basculegion-male",
+      "url": "/pokemon/902/"
+    },
+    {
+      "name": "veluza",
+      "url": "/pokemon/976/"
+    },
+    {
+      "name": "dondozo",
+      "url": "/pokemon/977/"
+    },
+    {
+      "name": "annihilape",
+      "url": "/pokemon/979/"
+    },
+    {
+      "name": "brute-bonnet",
+      "url": "/pokemon/986/"
+    },
+    {
+      "name": "slither-wing",
+      "url": "/pokemon/988/"
+    },
+    {
+      "name": "ting-lu",
+      "url": "/pokemon/1003/"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "url": "/pokemon/10016/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "pinsir-mega",
+      "url": "/pokemon/10040/"
+    },
+    {
+      "name": "gyarados-mega",
+      "url": "/pokemon/10041/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "marowak-totem",
+      "url": "/pokemon/10149/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "meowth-galar",
+      "url": "/pokemon/10161/"
+    },
+    {
+      "name": "ponyta-galar",
+      "url": "/pokemon/10162/"
+    },
+    {
+      "name": "darumaka-galar",
+      "url": "/pokemon/10176/"
+    },
+    {
+      "name": "darmanitan-galar-standard",
+      "url": "/pokemon/10177/"
+    },
+    {
+      "name": "darmanitan-galar-zen",
+      "url": "/pokemon/10178/"
+    },
+    {
+      "name": "cramorant-gulping",
+      "url": "/pokemon/10182/"
+    },
+    {
+      "name": "cramorant-gorging",
+      "url": "/pokemon/10183/"
+    },
+    {
+      "name": "morpeko-hangry",
+      "url": "/pokemon/10187/"
+    },
+    {
+      "name": "zarude-dada",
+      "url": "/pokemon/10192/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "braviary-hisui",
+      "url": "/pokemon/10240/"
+    },
+    {
+      "name": "basculin-white-striped",
+      "url": "/pokemon/10247/"
+    },
+    {
+      "name": "basculegion-female",
+      "url": "/pokemon/10248/"
+    },
+    {
+      "name": "tauros-paldea-combat-breed",
+      "url": "/pokemon/10250/"
+    },
+    {
+      "name": "tauros-paldea-blaze-breed",
+      "url": "/pokemon/10251/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "thrash",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "あばれる"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "난동부리기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "大鬧一番"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Mania"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Fuchtler"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Golpe"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Colpo"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Thrash"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "あばれる"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "大闹一番"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": 90,
+      "pp": 20,
+      "type": null,
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    }
+  ],
+  "power": 120,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/7/"
+  },
+  "target": {
+    "name": "random-opponent",
+    "url": "/move-target/8/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

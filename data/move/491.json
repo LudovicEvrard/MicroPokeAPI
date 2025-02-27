@@ -1,0 +1,1195 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "effect_chance": 100,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Lowers the target's Special Defense by two stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Lowers the target's Special Defense by two stages."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Ataca con un líquido corrosivo, reduciendo mucho\nla Defensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt\nthe target. This harshly reduces\nthe target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt\nthe target. This harshly reduces\nthe target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende\nFlüssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt\nthe target. This harshly lowers\nthe target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende\nFlüssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un líquido corrosivo, reduciendo mucho \nla Defensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt\nthe target. This harshly lowers\nthe target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "噴出能溶化對手的液體進行攻擊。\n可大幅降低對手的特防。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende\nFlüssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un líquido corrosivo, reduciendo mucho \nla Defensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "喷出能溶化对手的液体进行攻击。\n大幅降低对手的特防。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "噴出能溶化對手的液體進行攻擊。\n可大幅降低對手的特防。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende\nFlüssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un líquido corrosivo, reduciendo mucho \nla Defensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "喷出能溶化对手的液体进行攻击。\n大幅降低对手的特防。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "噴出能溶化對手的液體進行攻擊。\n可大幅降低對手的特防。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende\nFlüssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un líquido corrosivo que reduce mucho la\nDefensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "喷出能溶化对手的液体进行攻击。\n大幅降低对手的特防。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あいてを　とかす　えきたいを\nはきだして　こうげきする。\nあいての　とくぼうを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "상대를 녹이는 액체를\n토해내서 공격한다.\n상대의 특수방어를 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "噴出能溶化對手的液體進行攻擊。\n可大幅降低對手的特防。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Projette un liquide acide qui fait fondre l’ennemi.\nSa Défense Spéciale diminue beaucoup.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender greift an, indem er eine ätzende Flüssigkeit\nauf das Ziel speit. Senkt dessen Spezial-Verteidigung\nstark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataca con un líquido corrosivo que reduce mucho la\nDefensa Especial del objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "相手を　とかす　液体を\n吐きだして　攻撃する。\n相手の　特防を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "喷出能溶化对手的液体进行攻击。\n大幅降低对手的特防。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 491,
+  "learned_by_pokemon": [
+    {
+      "name": "bulbasaur",
+      "url": "/pokemon/1/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "/pokemon/3/"
+    },
+    {
+      "name": "ekans",
+      "url": "/pokemon/23/"
+    },
+    {
+      "name": "arbok",
+      "url": "/pokemon/24/"
+    },
+    {
+      "name": "oddish",
+      "url": "/pokemon/43/"
+    },
+    {
+      "name": "gloom",
+      "url": "/pokemon/44/"
+    },
+    {
+      "name": "vileplume",
+      "url": "/pokemon/45/"
+    },
+    {
+      "name": "venonat",
+      "url": "/pokemon/48/"
+    },
+    {
+      "name": "venomoth",
+      "url": "/pokemon/49/"
+    },
+    {
+      "name": "bellsprout",
+      "url": "/pokemon/69/"
+    },
+    {
+      "name": "weepinbell",
+      "url": "/pokemon/70/"
+    },
+    {
+      "name": "victreebel",
+      "url": "/pokemon/71/"
+    },
+    {
+      "name": "tentacool",
+      "url": "/pokemon/72/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "/pokemon/73/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "koffing",
+      "url": "/pokemon/109/"
+    },
+    {
+      "name": "weezing",
+      "url": "/pokemon/110/"
+    },
+    {
+      "name": "tangela",
+      "url": "/pokemon/114/"
+    },
+    {
+      "name": "magmar",
+      "url": "/pokemon/126/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "spinarak",
+      "url": "/pokemon/167/"
+    },
+    {
+      "name": "ariados",
+      "url": "/pokemon/168/"
+    },
+    {
+      "name": "bellossom",
+      "url": "/pokemon/182/"
+    },
+    {
+      "name": "wooper",
+      "url": "/pokemon/194/"
+    },
+    {
+      "name": "quagsire",
+      "url": "/pokemon/195/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "remoraid",
+      "url": "/pokemon/223/"
+    },
+    {
+      "name": "octillery",
+      "url": "/pokemon/224/"
+    },
+    {
+      "name": "magby",
+      "url": "/pokemon/240/"
+    },
+    {
+      "name": "gulpin",
+      "url": "/pokemon/316/"
+    },
+    {
+      "name": "swalot",
+      "url": "/pokemon/317/"
+    },
+    {
+      "name": "seviper",
+      "url": "/pokemon/336/"
+    },
+    {
+      "name": "stunky",
+      "url": "/pokemon/434/"
+    },
+    {
+      "name": "skuntank",
+      "url": "/pokemon/435/"
+    },
+    {
+      "name": "croagunk",
+      "url": "/pokemon/453/"
+    },
+    {
+      "name": "toxicroak",
+      "url": "/pokemon/454/"
+    },
+    {
+      "name": "carnivine",
+      "url": "/pokemon/455/"
+    },
+    {
+      "name": "tangrowth",
+      "url": "/pokemon/465/"
+    },
+    {
+      "name": "magmortar",
+      "url": "/pokemon/467/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "trubbish",
+      "url": "/pokemon/568/"
+    },
+    {
+      "name": "garbodor",
+      "url": "/pokemon/569/"
+    },
+    {
+      "name": "karrablast",
+      "url": "/pokemon/588/"
+    },
+    {
+      "name": "escavalier",
+      "url": "/pokemon/589/"
+    },
+    {
+      "name": "ferroseed",
+      "url": "/pokemon/597/"
+    },
+    {
+      "name": "eelektrik",
+      "url": "/pokemon/603/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "accelgor",
+      "url": "/pokemon/617/"
+    },
+    {
+      "name": "skrelp",
+      "url": "/pokemon/690/"
+    },
+    {
+      "name": "dragalge",
+      "url": "/pokemon/691/"
+    },
+    {
+      "name": "goomy",
+      "url": "/pokemon/704/"
+    },
+    {
+      "name": "sliggoo",
+      "url": "/pokemon/705/"
+    },
+    {
+      "name": "goodra",
+      "url": "/pokemon/706/"
+    },
+    {
+      "name": "mareanie",
+      "url": "/pokemon/747/"
+    },
+    {
+      "name": "toxapex",
+      "url": "/pokemon/748/"
+    },
+    {
+      "name": "salandit",
+      "url": "/pokemon/757/"
+    },
+    {
+      "name": "salazzle",
+      "url": "/pokemon/758/"
+    },
+    {
+      "name": "nihilego",
+      "url": "/pokemon/793/"
+    },
+    {
+      "name": "flapple",
+      "url": "/pokemon/841/"
+    },
+    {
+      "name": "toxtricity-amped",
+      "url": "/pokemon/849/"
+    },
+    {
+      "name": "sneasler",
+      "url": "/pokemon/903/"
+    },
+    {
+      "name": "armarouge",
+      "url": "/pokemon/936/"
+    },
+    {
+      "name": "tadbulb",
+      "url": "/pokemon/938/"
+    },
+    {
+      "name": "bellibolt",
+      "url": "/pokemon/939/"
+    },
+    {
+      "name": "shroodle",
+      "url": "/pokemon/944/"
+    },
+    {
+      "name": "grafaiai",
+      "url": "/pokemon/945/"
+    },
+    {
+      "name": "toedscool",
+      "url": "/pokemon/948/"
+    },
+    {
+      "name": "toedscruel",
+      "url": "/pokemon/949/"
+    },
+    {
+      "name": "varoom",
+      "url": "/pokemon/965/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "glimmet",
+      "url": "/pokemon/969/"
+    },
+    {
+      "name": "glimmora",
+      "url": "/pokemon/970/"
+    },
+    {
+      "name": "clodsire",
+      "url": "/pokemon/980/"
+    },
+    {
+      "name": "iron-moth",
+      "url": "/pokemon/994/"
+    },
+    {
+      "name": "munkidori",
+      "url": "/pokemon/1015/"
+    },
+    {
+      "name": "fezandipiti",
+      "url": "/pokemon/1016/"
+    },
+    {
+      "name": "pecharunt",
+      "url": "/pokemon/1025/"
+    },
+    {
+      "name": "grimer-alola",
+      "url": "/pokemon/10112/"
+    },
+    {
+      "name": "muk-alola",
+      "url": "/pokemon/10113/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "weezing-galar",
+      "url": "/pokemon/10167/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "toxtricity-low-key",
+      "url": "/pokemon/10184/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    },
+    {
+      "name": "sneasel-hisui",
+      "url": "/pokemon/10235/"
+    },
+    {
+      "name": "sliggoo-hisui",
+      "url": "/pokemon/10241/"
+    },
+    {
+      "name": "goodra-hisui",
+      "url": "/pokemon/10242/"
+    },
+    {
+      "name": "wooper-paldea",
+      "url": "/pokemon/10253/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1718/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1972/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage+lower",
+      "url": "/move-category/6/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 100
+  },
+  "name": "acid-spray",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "アシッドボム"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "애시드봄"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "酸液炸彈"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Bombe Acide"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Säurespeier"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Bomba Ácida"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Acidobomba"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Acid Spray"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "アシッドボム"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "酸液炸弹"
+    }
+  ],
+  "past_values": [],
+  "power": 40,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": -2,
+      "stat": {
+        "name": "special-defense",
+        "url": "/stat/5/"
+      }
+    }
+  ],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "poison",
+    "url": "/type/4/"
+  }
+}

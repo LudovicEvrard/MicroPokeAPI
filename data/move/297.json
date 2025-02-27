@@ -1,0 +1,1176 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/28/"
+  },
+  "contest_type": {
+    "name": "beauty",
+    "url": "/contest-type/2/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Lowers the target's Attack by two stages.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Lowers the target's Attack by two stages."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "撒出羽毛，\n笼罩在对手的周围。\n大幅降低对手的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Envelops the foe with down\nto sharply reduce ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Envelops the foe with down\nto sharply reduce ATTACK.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "The foe is covered\nwith a mass of down\nthat sharply cuts\nthe ATTACK stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit\nl’ennemi et réduit considérablement\nson Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi et\nréduit considérablement son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt\ndessen Angriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para\nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copre il bersaglio con un manto di piume\nche riduce di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi et\nréduit considérablement son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt\ndessen Angriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa copre il bersaglio con un manto di piume \nche riduce di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n纏住對手的身體。\n大幅降低對手的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi et\nréduit beaucoup son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt dessen\nAngriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa circonda il bersaglio con un turbinio\ndi piume riducendo di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n纏住對手的身體。\n大幅降低對手的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi et\nréduit beaucoup son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt dessen\nAngriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa circonda il bersaglio con un turbinio\ndi piume riducendo di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n笼罩在对手的周围。\n大幅降低对手的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n纏住對手的身體。\n大幅降低對手的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi\net réduit beaucoup son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt dessen\nAngriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa circonda il bersaglio con un turbinio\ndi piume riducendo di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n笼罩在对手的周围。\n大幅降低对手的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "うもうを　ふりまいて\nあいての　からだに　からませる。\nあいての　こうげきを　がくっと　さげる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "깃털을 흩뿌려\n상대의 몸에 휘감는다.\n상대의 공격을 크게 떨어뜨린다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n纏住對手的身體。\n大幅降低對手的攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Une montagne de plumes ensevelit l’ennemi\net réduit beaucoup son Attaque.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Hüllt das Ziel in Daunen und senkt dessen\nAngriffs-Wert stark.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa circonda il bersaglio con un turbinio\ndi piume riducendo di molto il suo Attacco.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "羽毛を　ふりまいて\n相手の　体に　からませる。\n相手の　攻撃を　がくっと　さげる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "撒出羽毛，\n笼罩在对手的周围。\n大幅降低对手的攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iii",
+    "url": "/generation/3/"
+  },
+  "id": 297,
+  "learned_by_pokemon": [
+    {
+      "name": "pidgey",
+      "url": "/pokemon/16/"
+    },
+    {
+      "name": "pidgeotto",
+      "url": "/pokemon/17/"
+    },
+    {
+      "name": "pidgeot",
+      "url": "/pokemon/18/"
+    },
+    {
+      "name": "spearow",
+      "url": "/pokemon/21/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "doduo",
+      "url": "/pokemon/84/"
+    },
+    {
+      "name": "dodrio",
+      "url": "/pokemon/85/"
+    },
+    {
+      "name": "articuno",
+      "url": "/pokemon/144/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "murkrow",
+      "url": "/pokemon/198/"
+    },
+    {
+      "name": "delibird",
+      "url": "/pokemon/225/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "wingull",
+      "url": "/pokemon/278/"
+    },
+    {
+      "name": "pelipper",
+      "url": "/pokemon/279/"
+    },
+    {
+      "name": "swablu",
+      "url": "/pokemon/333/"
+    },
+    {
+      "name": "altaria",
+      "url": "/pokemon/334/"
+    },
+    {
+      "name": "piplup",
+      "url": "/pokemon/393/"
+    },
+    {
+      "name": "prinplup",
+      "url": "/pokemon/394/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "starly",
+      "url": "/pokemon/396/"
+    },
+    {
+      "name": "staravia",
+      "url": "/pokemon/397/"
+    },
+    {
+      "name": "staraptor",
+      "url": "/pokemon/398/"
+    },
+    {
+      "name": "honchkrow",
+      "url": "/pokemon/430/"
+    },
+    {
+      "name": "chatot",
+      "url": "/pokemon/441/"
+    },
+    {
+      "name": "pidove",
+      "url": "/pokemon/519/"
+    },
+    {
+      "name": "tranquill",
+      "url": "/pokemon/520/"
+    },
+    {
+      "name": "unfezant",
+      "url": "/pokemon/521/"
+    },
+    {
+      "name": "ducklett",
+      "url": "/pokemon/580/"
+    },
+    {
+      "name": "swanna",
+      "url": "/pokemon/581/"
+    },
+    {
+      "name": "rufflet",
+      "url": "/pokemon/627/"
+    },
+    {
+      "name": "braviary",
+      "url": "/pokemon/628/"
+    },
+    {
+      "name": "vullaby",
+      "url": "/pokemon/629/"
+    },
+    {
+      "name": "mandibuzz",
+      "url": "/pokemon/630/"
+    },
+    {
+      "name": "fletchling",
+      "url": "/pokemon/661/"
+    },
+    {
+      "name": "fletchinder",
+      "url": "/pokemon/662/"
+    },
+    {
+      "name": "talonflame",
+      "url": "/pokemon/663/"
+    },
+    {
+      "name": "hawlucha",
+      "url": "/pokemon/701/"
+    },
+    {
+      "name": "rowlet",
+      "url": "/pokemon/722/"
+    },
+    {
+      "name": "dartrix",
+      "url": "/pokemon/723/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "pikipek",
+      "url": "/pokemon/731/"
+    },
+    {
+      "name": "trumbeak",
+      "url": "/pokemon/732/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "oricorio-baile",
+      "url": "/pokemon/741/"
+    },
+    {
+      "name": "cramorant",
+      "url": "/pokemon/845/"
+    },
+    {
+      "name": "frosmoth",
+      "url": "/pokemon/873/"
+    },
+    {
+      "name": "eiscue-ice",
+      "url": "/pokemon/875/"
+    },
+    {
+      "name": "quaxwell",
+      "url": "/pokemon/913/"
+    },
+    {
+      "name": "quaquaval",
+      "url": "/pokemon/914/"
+    },
+    {
+      "name": "squawkabilly-green-plumage",
+      "url": "/pokemon/931/"
+    },
+    {
+      "name": "wattrel",
+      "url": "/pokemon/940/"
+    },
+    {
+      "name": "kilowattrel",
+      "url": "/pokemon/941/"
+    },
+    {
+      "name": "espathra",
+      "url": "/pokemon/956/"
+    },
+    {
+      "name": "bombirdier",
+      "url": "/pokemon/962/"
+    },
+    {
+      "name": "flamigo",
+      "url": "/pokemon/973/"
+    },
+    {
+      "name": "pidgeot-mega",
+      "url": "/pokemon/10073/"
+    },
+    {
+      "name": "oricorio-pom-pom",
+      "url": "/pokemon/10123/"
+    },
+    {
+      "name": "oricorio-pau",
+      "url": "/pokemon/10124/"
+    },
+    {
+      "name": "oricorio-sensu",
+      "url": "/pokemon/10125/"
+    },
+    {
+      "name": "cramorant-gulping",
+      "url": "/pokemon/10182/"
+    },
+    {
+      "name": "cramorant-gorging",
+      "url": "/pokemon/10183/"
+    },
+    {
+      "name": "eiscue-noice",
+      "url": "/pokemon/10185/"
+    },
+    {
+      "name": "braviary-hisui",
+      "url": "/pokemon/10240/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "squawkabilly-blue-plumage",
+      "url": "/pokemon/10260/"
+    },
+    {
+      "name": "squawkabilly-yellow-plumage",
+      "url": "/pokemon/10261/"
+    },
+    {
+      "name": "squawkabilly-white-plumage",
+      "url": "/pokemon/10262/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/1921/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/2089/"
+      },
+      "version_group": {
+        "name": "the-indigo-disk",
+        "url": "/version-group/27/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "net-good-stats",
+      "url": "/move-category/2/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "feather-dance",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "フェザーダンス"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "깃털댄스"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "羽毛舞"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Danse Plumes"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Daunenreigen"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Danza Pluma"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Danzadipiume"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Feather Dance"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "フェザーダンス"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "羽毛舞"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [
+    {
+      "change": -2,
+      "stat": {
+        "name": "attack",
+        "url": "/stat/2/"
+      }
+    }
+  ],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/19/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "flying",
+    "url": "/type/3/"
+  }
+}

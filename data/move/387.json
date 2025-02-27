@@ -1,0 +1,1535 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Can only be used after all of the user's other moves have been used."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée\nqu’après que le lanceur a utilisé\ntoutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après que\nle lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden,\nnachdem alle verfügbaren Attacken ausgeführt\nworden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber\nusado al menos una vez todos los demás\nconocidos por el Pokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après que\nle lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden,\nnachdem alle verfügbaren Attacken ausgeführt\nworden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber \nusado al menos una vez todos los demás\nconocidos por el Pokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥中將其他已學會的招式\n全部使用過後，\n才能夠使出的珍藏招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après que\nle lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden, nachdem\nalle verfügbaren Attacken ausgeführt worden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber \nusado al menos una vez todos los demás\nconocidos por el Pokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "当战斗中已学会的招式\n全部使用过后，\n才能开始使出珍藏的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥中將其他已學會的招式\n全部使用過後，\n才能夠使出的珍藏招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après que\nle lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden, nachdem\nalle verfügbaren Attacken ausgeführt worden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber \nusado al menos una vez todos los demás\nconocidos por el Pokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "当战斗中已学会的招式\n全部使用过后，\n才能开始使出珍藏的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥中將其他已學會的招式\n全部使用過後，\n才能夠使出的珍藏招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après que\nle lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden, nachdem\nalle verfügbaren Attacken ausgeführt worden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber \nusado al menos una vez todos los demás\nconocidos por el Pokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "当战斗中已学会的招式\n全部使用过后，\n才能开始使出珍藏的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "せんとうちゅうに　おぼえている　わざを\nすべて　つかうと　はじめて　だせる\nとっておきの　わざ。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "배틀 중에 기억하고 있는 기술을\n모두 사용하면 그때부터 쓸 수 있는\n필살기이다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "在戰鬥中將其他已學會的招式\n全部使用過後，\n才能夠使出的珍藏招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Cette capacité ne peut être utilisée qu’après\nque le lanceur a utilisé toutes les autres.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Diese Attacke kann nur eingesetzt werden, nachdem\nalle verfügbaren Attacken ausgeführt worden sind.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Este movimiento solo puede utilizarse tras haber usado\nal menos una vez todos los demás conocidos por el\nPokémon.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "戦闘中に　おぼえている　技を\nすべて　使うと　はじめて　だせる\nとっておきの　技。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "当战斗中已学会的招式\n全部使用过后，\n才能开始使出珍藏的招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 387,
+  "learned_by_pokemon": [
+    {
+      "name": "rattata",
+      "url": "/pokemon/19/"
+    },
+    {
+      "name": "raticate",
+      "url": "/pokemon/20/"
+    },
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "jigglypuff",
+      "url": "/pokemon/39/"
+    },
+    {
+      "name": "wigglytuff",
+      "url": "/pokemon/40/"
+    },
+    {
+      "name": "meowth",
+      "url": "/pokemon/52/"
+    },
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "farfetchd",
+      "url": "/pokemon/83/"
+    },
+    {
+      "name": "chansey",
+      "url": "/pokemon/113/"
+    },
+    {
+      "name": "kangaskhan",
+      "url": "/pokemon/115/"
+    },
+    {
+      "name": "eevee",
+      "url": "/pokemon/133/"
+    },
+    {
+      "name": "vaporeon",
+      "url": "/pokemon/134/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "flareon",
+      "url": "/pokemon/136/"
+    },
+    {
+      "name": "porygon",
+      "url": "/pokemon/137/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "sentret",
+      "url": "/pokemon/161/"
+    },
+    {
+      "name": "furret",
+      "url": "/pokemon/162/"
+    },
+    {
+      "name": "cleffa",
+      "url": "/pokemon/173/"
+    },
+    {
+      "name": "igglybuff",
+      "url": "/pokemon/174/"
+    },
+    {
+      "name": "togepi",
+      "url": "/pokemon/175/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "aipom",
+      "url": "/pokemon/190/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "umbreon",
+      "url": "/pokemon/197/"
+    },
+    {
+      "name": "dunsparce",
+      "url": "/pokemon/206/"
+    },
+    {
+      "name": "snubbull",
+      "url": "/pokemon/209/"
+    },
+    {
+      "name": "granbull",
+      "url": "/pokemon/210/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "porygon2",
+      "url": "/pokemon/233/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "blissey",
+      "url": "/pokemon/242/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "torchic",
+      "url": "/pokemon/255/"
+    },
+    {
+      "name": "combusken",
+      "url": "/pokemon/256/"
+    },
+    {
+      "name": "blaziken",
+      "url": "/pokemon/257/"
+    },
+    {
+      "name": "zigzagoon",
+      "url": "/pokemon/263/"
+    },
+    {
+      "name": "linoone",
+      "url": "/pokemon/264/"
+    },
+    {
+      "name": "skitty",
+      "url": "/pokemon/300/"
+    },
+    {
+      "name": "delcatty",
+      "url": "/pokemon/301/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "plusle",
+      "url": "/pokemon/311/"
+    },
+    {
+      "name": "minun",
+      "url": "/pokemon/312/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "zangoose",
+      "url": "/pokemon/335/"
+    },
+    {
+      "name": "castform",
+      "url": "/pokemon/351/"
+    },
+    {
+      "name": "kecleon",
+      "url": "/pokemon/352/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "latias",
+      "url": "/pokemon/380/"
+    },
+    {
+      "name": "latios",
+      "url": "/pokemon/381/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "bidoof",
+      "url": "/pokemon/399/"
+    },
+    {
+      "name": "bibarel",
+      "url": "/pokemon/400/"
+    },
+    {
+      "name": "pachirisu",
+      "url": "/pokemon/417/"
+    },
+    {
+      "name": "ambipom",
+      "url": "/pokemon/424/"
+    },
+    {
+      "name": "buneary",
+      "url": "/pokemon/427/"
+    },
+    {
+      "name": "lopunny",
+      "url": "/pokemon/428/"
+    },
+    {
+      "name": "glameow",
+      "url": "/pokemon/431/"
+    },
+    {
+      "name": "purugly",
+      "url": "/pokemon/432/"
+    },
+    {
+      "name": "chingling",
+      "url": "/pokemon/433/"
+    },
+    {
+      "name": "happiny",
+      "url": "/pokemon/440/"
+    },
+    {
+      "name": "munchlax",
+      "url": "/pokemon/446/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "leafeon",
+      "url": "/pokemon/470/"
+    },
+    {
+      "name": "glaceon",
+      "url": "/pokemon/471/"
+    },
+    {
+      "name": "porygon-z",
+      "url": "/pokemon/474/"
+    },
+    {
+      "name": "azelf",
+      "url": "/pokemon/482/"
+    },
+    {
+      "name": "phione",
+      "url": "/pokemon/489/"
+    },
+    {
+      "name": "manaphy",
+      "url": "/pokemon/490/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "shaymin-land",
+      "url": "/pokemon/492/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "victini",
+      "url": "/pokemon/494/"
+    },
+    {
+      "name": "patrat",
+      "url": "/pokemon/504/"
+    },
+    {
+      "name": "watchog",
+      "url": "/pokemon/505/"
+    },
+    {
+      "name": "lillipup",
+      "url": "/pokemon/506/"
+    },
+    {
+      "name": "herdier",
+      "url": "/pokemon/507/"
+    },
+    {
+      "name": "stoutland",
+      "url": "/pokemon/508/"
+    },
+    {
+      "name": "audino",
+      "url": "/pokemon/531/"
+    },
+    {
+      "name": "minccino",
+      "url": "/pokemon/572/"
+    },
+    {
+      "name": "cinccino",
+      "url": "/pokemon/573/"
+    },
+    {
+      "name": "deerling",
+      "url": "/pokemon/585/"
+    },
+    {
+      "name": "sawsbuck",
+      "url": "/pokemon/586/"
+    },
+    {
+      "name": "emolga",
+      "url": "/pokemon/587/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "meloetta-aria",
+      "url": "/pokemon/648/"
+    },
+    {
+      "name": "genesect",
+      "url": "/pokemon/649/"
+    },
+    {
+      "name": "bunnelby",
+      "url": "/pokemon/659/"
+    },
+    {
+      "name": "diggersby",
+      "url": "/pokemon/660/"
+    },
+    {
+      "name": "furfrou",
+      "url": "/pokemon/676/"
+    },
+    {
+      "name": "sylveon",
+      "url": "/pokemon/700/"
+    },
+    {
+      "name": "hawlucha",
+      "url": "/pokemon/701/"
+    },
+    {
+      "name": "dedenne",
+      "url": "/pokemon/702/"
+    },
+    {
+      "name": "klefki",
+      "url": "/pokemon/707/"
+    },
+    {
+      "name": "diancie",
+      "url": "/pokemon/719/"
+    },
+    {
+      "name": "hoopa",
+      "url": "/pokemon/720/"
+    },
+    {
+      "name": "yungoos",
+      "url": "/pokemon/734/"
+    },
+    {
+      "name": "gumshoos",
+      "url": "/pokemon/735/"
+    },
+    {
+      "name": "cutiefly",
+      "url": "/pokemon/742/"
+    },
+    {
+      "name": "ribombee",
+      "url": "/pokemon/743/"
+    },
+    {
+      "name": "rockruff",
+      "url": "/pokemon/744/"
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "/pokemon/745/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "minior-red-meteor",
+      "url": "/pokemon/774/"
+    },
+    {
+      "name": "komala",
+      "url": "/pokemon/775/"
+    },
+    {
+      "name": "togedemaru",
+      "url": "/pokemon/777/"
+    },
+    {
+      "name": "mimikyu-disguised",
+      "url": "/pokemon/778/"
+    },
+    {
+      "name": "solgaleo",
+      "url": "/pokemon/791/"
+    },
+    {
+      "name": "kartana",
+      "url": "/pokemon/798/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "marshadow",
+      "url": "/pokemon/802/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "skwovet",
+      "url": "/pokemon/819/"
+    },
+    {
+      "name": "dubwool",
+      "url": "/pokemon/832/"
+    },
+    {
+      "name": "silicobra",
+      "url": "/pokemon/843/"
+    },
+    {
+      "name": "milcery",
+      "url": "/pokemon/868/"
+    },
+    {
+      "name": "alcremie",
+      "url": "/pokemon/869/"
+    },
+    {
+      "name": "indeedee-male",
+      "url": "/pokemon/876/"
+    },
+    {
+      "name": "drakloak",
+      "url": "/pokemon/886/"
+    },
+    {
+      "name": "dragapult",
+      "url": "/pokemon/887/"
+    },
+    {
+      "name": "quaxly",
+      "url": "/pokemon/912/"
+    },
+    {
+      "name": "fidough",
+      "url": "/pokemon/926/"
+    },
+    {
+      "name": "dachsbun",
+      "url": "/pokemon/927/"
+    },
+    {
+      "name": "espathra",
+      "url": "/pokemon/956/"
+    },
+    {
+      "name": "shaymin-sky",
+      "url": "/pokemon/10006/"
+    },
+    {
+      "name": "castform-sunny",
+      "url": "/pokemon/10013/"
+    },
+    {
+      "name": "castform-rainy",
+      "url": "/pokemon/10014/"
+    },
+    {
+      "name": "castform-snowy",
+      "url": "/pokemon/10015/"
+    },
+    {
+      "name": "meloetta-pirouette",
+      "url": "/pokemon/10018/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "blaziken-mega",
+      "url": "/pokemon/10050/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "latias-mega",
+      "url": "/pokemon/10062/"
+    },
+    {
+      "name": "latios-mega",
+      "url": "/pokemon/10063/"
+    },
+    {
+      "name": "audino-mega",
+      "url": "/pokemon/10069/"
+    },
+    {
+      "name": "diancie-mega",
+      "url": "/pokemon/10075/"
+    },
+    {
+      "name": "hoopa-unbound",
+      "url": "/pokemon/10086/"
+    },
+    {
+      "name": "lopunny-mega",
+      "url": "/pokemon/10088/"
+    },
+    {
+      "name": "rattata-alola",
+      "url": "/pokemon/10091/"
+    },
+    {
+      "name": "raticate-alola",
+      "url": "/pokemon/10092/"
+    },
+    {
+      "name": "raticate-totem-alola",
+      "url": "/pokemon/10093/"
+    },
+    {
+      "name": "meowth-alola",
+      "url": "/pokemon/10107/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "gumshoos-totem",
+      "url": "/pokemon/10121/"
+    },
+    {
+      "name": "lycanroc-midnight",
+      "url": "/pokemon/10126/"
+    },
+    {
+      "name": "minior-orange-meteor",
+      "url": "/pokemon/10130/"
+    },
+    {
+      "name": "minior-yellow-meteor",
+      "url": "/pokemon/10131/"
+    },
+    {
+      "name": "minior-green-meteor",
+      "url": "/pokemon/10132/"
+    },
+    {
+      "name": "minior-blue-meteor",
+      "url": "/pokemon/10133/"
+    },
+    {
+      "name": "minior-indigo-meteor",
+      "url": "/pokemon/10134/"
+    },
+    {
+      "name": "minior-violet-meteor",
+      "url": "/pokemon/10135/"
+    },
+    {
+      "name": "minior-red",
+      "url": "/pokemon/10136/"
+    },
+    {
+      "name": "minior-orange",
+      "url": "/pokemon/10137/"
+    },
+    {
+      "name": "minior-yellow",
+      "url": "/pokemon/10138/"
+    },
+    {
+      "name": "minior-green",
+      "url": "/pokemon/10139/"
+    },
+    {
+      "name": "minior-blue",
+      "url": "/pokemon/10140/"
+    },
+    {
+      "name": "minior-indigo",
+      "url": "/pokemon/10141/"
+    },
+    {
+      "name": "minior-violet",
+      "url": "/pokemon/10142/"
+    },
+    {
+      "name": "mimikyu-busted",
+      "url": "/pokemon/10143/"
+    },
+    {
+      "name": "mimikyu-totem-disguised",
+      "url": "/pokemon/10144/"
+    },
+    {
+      "name": "mimikyu-totem-busted",
+      "url": "/pokemon/10145/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "ribombee-totem",
+      "url": "/pokemon/10150/"
+    },
+    {
+      "name": "rockruff-own-tempo",
+      "url": "/pokemon/10151/"
+    },
+    {
+      "name": "lycanroc-dusk",
+      "url": "/pokemon/10152/"
+    },
+    {
+      "name": "togedemaru-totem",
+      "url": "/pokemon/10154/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "last-resort",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "とっておき"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "뒀다쓰기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "珍藏"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Dernier Recours"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Zuflucht"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Última Baza"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Ultimascelta"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Last Resort"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "とっておき"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "珍藏"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": null,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": 130,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    }
+  ],
+  "power": 140,
+  "pp": 5,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/21/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}

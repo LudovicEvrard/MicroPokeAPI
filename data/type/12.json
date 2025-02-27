@@ -1,0 +1,1594 @@
+{
+  "damage_relations": {
+    "double_damage_from": [
+      {
+        "name": "flying",
+        "url": "/type/3/"
+      },
+      {
+        "name": "poison",
+        "url": "/type/4/"
+      },
+      {
+        "name": "bug",
+        "url": "/type/7/"
+      },
+      {
+        "name": "fire",
+        "url": "/type/10/"
+      },
+      {
+        "name": "ice",
+        "url": "/type/15/"
+      }
+    ],
+    "double_damage_to": [
+      {
+        "name": "ground",
+        "url": "/type/5/"
+      },
+      {
+        "name": "rock",
+        "url": "/type/6/"
+      },
+      {
+        "name": "water",
+        "url": "/type/11/"
+      }
+    ],
+    "half_damage_from": [
+      {
+        "name": "ground",
+        "url": "/type/5/"
+      },
+      {
+        "name": "water",
+        "url": "/type/11/"
+      },
+      {
+        "name": "grass",
+        "url": "/type/12/"
+      },
+      {
+        "name": "electric",
+        "url": "/type/13/"
+      }
+    ],
+    "half_damage_to": [
+      {
+        "name": "flying",
+        "url": "/type/3/"
+      },
+      {
+        "name": "poison",
+        "url": "/type/4/"
+      },
+      {
+        "name": "bug",
+        "url": "/type/7/"
+      },
+      {
+        "name": "steel",
+        "url": "/type/9/"
+      },
+      {
+        "name": "fire",
+        "url": "/type/10/"
+      },
+      {
+        "name": "grass",
+        "url": "/type/12/"
+      },
+      {
+        "name": "dragon",
+        "url": "/type/16/"
+      }
+    ],
+    "no_damage_from": [],
+    "no_damage_to": []
+  },
+  "game_indices": [
+    {
+      "game_index": 22,
+      "generation": {
+        "name": "generation-i",
+        "url": "/generation/1/"
+      }
+    },
+    {
+      "game_index": 22,
+      "generation": {
+        "name": "generation-ii",
+        "url": "/generation/2/"
+      }
+    },
+    {
+      "game_index": 12,
+      "generation": {
+        "name": "generation-iii",
+        "url": "/generation/3/"
+      }
+    },
+    {
+      "game_index": 12,
+      "generation": {
+        "name": "generation-iv",
+        "url": "/generation/4/"
+      }
+    },
+    {
+      "game_index": 11,
+      "generation": {
+        "name": "generation-v",
+        "url": "/generation/5/"
+      }
+    },
+    {
+      "game_index": 11,
+      "generation": {
+        "name": "generation-vi",
+        "url": "/generation/6/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 12,
+  "move_damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "moves": [
+    {
+      "name": "vine-whip",
+      "url": "/move/22/"
+    },
+    {
+      "name": "absorb",
+      "url": "/move/71/"
+    },
+    {
+      "name": "mega-drain",
+      "url": "/move/72/"
+    },
+    {
+      "name": "leech-seed",
+      "url": "/move/73/"
+    },
+    {
+      "name": "razor-leaf",
+      "url": "/move/75/"
+    },
+    {
+      "name": "solar-beam",
+      "url": "/move/76/"
+    },
+    {
+      "name": "stun-spore",
+      "url": "/move/78/"
+    },
+    {
+      "name": "sleep-powder",
+      "url": "/move/79/"
+    },
+    {
+      "name": "petal-dance",
+      "url": "/move/80/"
+    },
+    {
+      "name": "spore",
+      "url": "/move/147/"
+    },
+    {
+      "name": "cotton-spore",
+      "url": "/move/178/"
+    },
+    {
+      "name": "giga-drain",
+      "url": "/move/202/"
+    },
+    {
+      "name": "synthesis",
+      "url": "/move/235/"
+    },
+    {
+      "name": "ingrain",
+      "url": "/move/275/"
+    },
+    {
+      "name": "needle-arm",
+      "url": "/move/302/"
+    },
+    {
+      "name": "aromatherapy",
+      "url": "/move/312/"
+    },
+    {
+      "name": "grass-whistle",
+      "url": "/move/320/"
+    },
+    {
+      "name": "bullet-seed",
+      "url": "/move/331/"
+    },
+    {
+      "name": "frenzy-plant",
+      "url": "/move/338/"
+    },
+    {
+      "name": "magical-leaf",
+      "url": "/move/345/"
+    },
+    {
+      "name": "leaf-blade",
+      "url": "/move/348/"
+    },
+    {
+      "name": "worry-seed",
+      "url": "/move/388/"
+    },
+    {
+      "name": "seed-bomb",
+      "url": "/move/402/"
+    },
+    {
+      "name": "energy-ball",
+      "url": "/move/412/"
+    },
+    {
+      "name": "leaf-storm",
+      "url": "/move/437/"
+    },
+    {
+      "name": "power-whip",
+      "url": "/move/438/"
+    },
+    {
+      "name": "grass-knot",
+      "url": "/move/447/"
+    },
+    {
+      "name": "wood-hammer",
+      "url": "/move/452/"
+    },
+    {
+      "name": "seed-flare",
+      "url": "/move/465/"
+    },
+    {
+      "name": "grass-pledge",
+      "url": "/move/520/"
+    },
+    {
+      "name": "horn-leech",
+      "url": "/move/532/"
+    },
+    {
+      "name": "leaf-tornado",
+      "url": "/move/536/"
+    },
+    {
+      "name": "cotton-guard",
+      "url": "/move/538/"
+    },
+    {
+      "name": "forests-curse",
+      "url": "/move/571/"
+    },
+    {
+      "name": "petal-blizzard",
+      "url": "/move/572/"
+    },
+    {
+      "name": "grassy-terrain",
+      "url": "/move/580/"
+    },
+    {
+      "name": "spiky-shield",
+      "url": "/move/596/"
+    },
+    {
+      "name": "bloom-doom--physical",
+      "url": "/move/644/"
+    },
+    {
+      "name": "bloom-doom--special",
+      "url": "/move/645/"
+    },
+    {
+      "name": "strength-sap",
+      "url": "/move/668/"
+    },
+    {
+      "name": "solar-blade",
+      "url": "/move/669/"
+    },
+    {
+      "name": "leafage",
+      "url": "/move/670/"
+    },
+    {
+      "name": "trop-kick",
+      "url": "/move/688/"
+    },
+    {
+      "name": "sappy-seed",
+      "url": "/move/738/"
+    },
+    {
+      "name": "max-overgrowth",
+      "url": "/move/773/"
+    },
+    {
+      "name": "drum-beating",
+      "url": "/move/778/"
+    },
+    {
+      "name": "snap-trap",
+      "url": "/move/779/"
+    },
+    {
+      "name": "branch-poke",
+      "url": "/move/785/"
+    },
+    {
+      "name": "apple-acid",
+      "url": "/move/787/"
+    },
+    {
+      "name": "grav-apple",
+      "url": "/move/788/"
+    },
+    {
+      "name": "grassy-glide",
+      "url": "/move/803/"
+    },
+    {
+      "name": "jungle-healing",
+      "url": "/move/816/"
+    },
+    {
+      "name": "chloroblast",
+      "url": "/move/835/"
+    },
+    {
+      "name": "spicy-extract",
+      "url": "/move/858/"
+    },
+    {
+      "name": "flower-trick",
+      "url": "/move/870/"
+    },
+    {
+      "name": "trailblaze",
+      "url": "/move/885/"
+    },
+    {
+      "name": "matcha-gotcha",
+      "url": "/move/902/"
+    },
+    {
+      "name": "syrup-bomb",
+      "url": "/move/903/"
+    },
+    {
+      "name": "ivy-cudgel",
+      "url": "/move/904/"
+    }
+  ],
+  "name": "grass",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "くさ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "풀"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "草"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Plante"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Pflanze"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Planta"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Erba"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Grass"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "くさ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "草"
+    }
+  ],
+  "past_damage_relations": [],
+  "pokemon": [
+    {
+      "pokemon": {
+        "name": "bulbasaur",
+        "url": "/pokemon/1/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ivysaur",
+        "url": "/pokemon/2/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "venusaur",
+        "url": "/pokemon/3/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "oddish",
+        "url": "/pokemon/43/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gloom",
+        "url": "/pokemon/44/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "vileplume",
+        "url": "/pokemon/45/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "paras",
+        "url": "/pokemon/46/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "parasect",
+        "url": "/pokemon/47/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "bellsprout",
+        "url": "/pokemon/69/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "weepinbell",
+        "url": "/pokemon/70/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "victreebel",
+        "url": "/pokemon/71/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "exeggcute",
+        "url": "/pokemon/102/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "exeggutor",
+        "url": "/pokemon/103/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tangela",
+        "url": "/pokemon/114/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "chikorita",
+        "url": "/pokemon/152/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bayleef",
+        "url": "/pokemon/153/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "meganium",
+        "url": "/pokemon/154/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bellossom",
+        "url": "/pokemon/182/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "hoppip",
+        "url": "/pokemon/187/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "skiploom",
+        "url": "/pokemon/188/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "jumpluff",
+        "url": "/pokemon/189/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sunkern",
+        "url": "/pokemon/191/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sunflora",
+        "url": "/pokemon/192/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "celebi",
+        "url": "/pokemon/251/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "treecko",
+        "url": "/pokemon/252/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "grovyle",
+        "url": "/pokemon/253/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sceptile",
+        "url": "/pokemon/254/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lotad",
+        "url": "/pokemon/270/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "lombre",
+        "url": "/pokemon/271/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "ludicolo",
+        "url": "/pokemon/272/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "seedot",
+        "url": "/pokemon/273/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "nuzleaf",
+        "url": "/pokemon/274/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shiftry",
+        "url": "/pokemon/275/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shroomish",
+        "url": "/pokemon/285/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "breloom",
+        "url": "/pokemon/286/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "roselia",
+        "url": "/pokemon/315/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cacnea",
+        "url": "/pokemon/331/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cacturne",
+        "url": "/pokemon/332/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lileep",
+        "url": "/pokemon/345/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "cradily",
+        "url": "/pokemon/346/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "tropius",
+        "url": "/pokemon/357/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "turtwig",
+        "url": "/pokemon/387/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "grotle",
+        "url": "/pokemon/388/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "torterra",
+        "url": "/pokemon/389/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "budew",
+        "url": "/pokemon/406/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "roserade",
+        "url": "/pokemon/407/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wormadam-plant",
+        "url": "/pokemon/413/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "cherubi",
+        "url": "/pokemon/420/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cherrim",
+        "url": "/pokemon/421/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "carnivine",
+        "url": "/pokemon/455/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "snover",
+        "url": "/pokemon/459/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "abomasnow",
+        "url": "/pokemon/460/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tangrowth",
+        "url": "/pokemon/465/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "leafeon",
+        "url": "/pokemon/470/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shaymin-land",
+        "url": "/pokemon/492/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "snivy",
+        "url": "/pokemon/495/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "servine",
+        "url": "/pokemon/496/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "serperior",
+        "url": "/pokemon/497/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "pansage",
+        "url": "/pokemon/511/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "simisage",
+        "url": "/pokemon/512/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sewaddle",
+        "url": "/pokemon/540/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "swadloon",
+        "url": "/pokemon/541/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "leavanny",
+        "url": "/pokemon/542/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "cottonee",
+        "url": "/pokemon/546/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "whimsicott",
+        "url": "/pokemon/547/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "petilil",
+        "url": "/pokemon/548/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lilligant",
+        "url": "/pokemon/549/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "maractus",
+        "url": "/pokemon/556/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "deerling",
+        "url": "/pokemon/585/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "sawsbuck",
+        "url": "/pokemon/586/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "foongus",
+        "url": "/pokemon/590/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "amoonguss",
+        "url": "/pokemon/591/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ferroseed",
+        "url": "/pokemon/597/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ferrothorn",
+        "url": "/pokemon/598/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "virizion",
+        "url": "/pokemon/640/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "chespin",
+        "url": "/pokemon/650/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "quilladin",
+        "url": "/pokemon/651/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "chesnaught",
+        "url": "/pokemon/652/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "skiddo",
+        "url": "/pokemon/672/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gogoat",
+        "url": "/pokemon/673/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "phantump",
+        "url": "/pokemon/708/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "trevenant",
+        "url": "/pokemon/709/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "pumpkaboo-average",
+        "url": "/pokemon/710/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "gourgeist-average",
+        "url": "/pokemon/711/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "rowlet",
+        "url": "/pokemon/722/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dartrix",
+        "url": "/pokemon/723/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "decidueye",
+        "url": "/pokemon/724/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "fomantis",
+        "url": "/pokemon/753/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lurantis",
+        "url": "/pokemon/754/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "morelull",
+        "url": "/pokemon/755/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shiinotic",
+        "url": "/pokemon/756/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bounsweet",
+        "url": "/pokemon/761/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "steenee",
+        "url": "/pokemon/762/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tsareena",
+        "url": "/pokemon/763/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dhelmise",
+        "url": "/pokemon/781/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "tapu-bulu",
+        "url": "/pokemon/787/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kartana",
+        "url": "/pokemon/798/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "grookey",
+        "url": "/pokemon/810/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "thwackey",
+        "url": "/pokemon/811/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "rillaboom",
+        "url": "/pokemon/812/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gossifleur",
+        "url": "/pokemon/829/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "eldegoss",
+        "url": "/pokemon/830/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "applin",
+        "url": "/pokemon/840/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "flapple",
+        "url": "/pokemon/841/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "appletun",
+        "url": "/pokemon/842/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "zarude",
+        "url": "/pokemon/893/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "calyrex",
+        "url": "/pokemon/898/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "sprigatito",
+        "url": "/pokemon/906/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "floragato",
+        "url": "/pokemon/907/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "meowscarada",
+        "url": "/pokemon/908/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "smoliv",
+        "url": "/pokemon/928/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dolliv",
+        "url": "/pokemon/929/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "arboliva",
+        "url": "/pokemon/930/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bramblin",
+        "url": "/pokemon/946/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "brambleghast",
+        "url": "/pokemon/947/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "toedscool",
+        "url": "/pokemon/948/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "toedscruel",
+        "url": "/pokemon/949/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "capsakid",
+        "url": "/pokemon/951/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "scovillain",
+        "url": "/pokemon/952/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "brute-bonnet",
+        "url": "/pokemon/986/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wo-chien",
+        "url": "/pokemon/1001/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "iron-leaves",
+        "url": "/pokemon/1010/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dipplin",
+        "url": "/pokemon/1011/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "poltchageist",
+        "url": "/pokemon/1012/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sinistcha",
+        "url": "/pokemon/1013/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ogerpon",
+        "url": "/pokemon/1017/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "hydrapple",
+        "url": "/pokemon/1019/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shaymin-sky",
+        "url": "/pokemon/10006/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "rotom-mow",
+        "url": "/pokemon/10012/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "pumpkaboo-small",
+        "url": "/pokemon/10027/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "pumpkaboo-large",
+        "url": "/pokemon/10028/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "pumpkaboo-super",
+        "url": "/pokemon/10029/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "gourgeist-small",
+        "url": "/pokemon/10030/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "gourgeist-large",
+        "url": "/pokemon/10031/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "gourgeist-super",
+        "url": "/pokemon/10032/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "venusaur-mega",
+        "url": "/pokemon/10033/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "abomasnow-mega",
+        "url": "/pokemon/10060/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sceptile-mega",
+        "url": "/pokemon/10065/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "exeggutor-alola",
+        "url": "/pokemon/10114/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lurantis-totem",
+        "url": "/pokemon/10128/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "zarude-dada",
+        "url": "/pokemon/10192/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "venusaur-gmax",
+        "url": "/pokemon/10195/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "rillaboom-gmax",
+        "url": "/pokemon/10209/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "flapple-gmax",
+        "url": "/pokemon/10216/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "appletun-gmax",
+        "url": "/pokemon/10217/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "voltorb-hisui",
+        "url": "/pokemon/10231/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "electrode-hisui",
+        "url": "/pokemon/10232/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "lilligant-hisui",
+        "url": "/pokemon/10237/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "decidueye-hisui",
+        "url": "/pokemon/10244/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ogerpon-wellspring-mask",
+        "url": "/pokemon/10273/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ogerpon-hearthflame-mask",
+        "url": "/pokemon/10274/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ogerpon-cornerstone-mask",
+        "url": "/pokemon/10275/"
+      },
+      "slot": 1
+    }
+  ],
+  "sprites": {
+    "generation-iii": {
+      "colosseum": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/colosseum/12.png"
+      },
+      "emerald": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/12.png"
+      },
+      "firered-leafgreen": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/firered-leafgreen/12.png"
+      },
+      "ruby-saphire": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/ruby-saphire/12.png"
+      },
+      "xd": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/xd/12.png"
+      }
+    },
+    "generation-iv": {
+      "diamond-pearl": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/diamond-pearl/12.png"
+      },
+      "heartgold-soulsilver": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/heartgold-soulsilver/12.png"
+      },
+      "platinum": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/platinum/12.png"
+      }
+    },
+    "generation-ix": {
+      "scarlet-violet": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/12.png"
+      }
+    },
+    "generation-v": {
+      "black-2-white-2": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-v/black-2-white-2/12.png"
+      },
+      "black-white": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-v/black-white/12.png"
+      }
+    },
+    "generation-vi": {
+      "omega-ruby-alpha-sapphire": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/omega-ruby-alpha-sapphire/12.png"
+      },
+      "x-y": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/x-y/12.png"
+      }
+    },
+    "generation-vii": {
+      "lets-go-pikachu-lets-go-eevee": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/12.png"
+      },
+      "sun-moon": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/sun-moon/12.png"
+      },
+      "ultra-sun-ultra-moon": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/ultra-sun-ultra-moon/12.png"
+      }
+    },
+    "generation-viii": {
+      "brilliant-diamond-and-shining-pearl": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/brilliant-diamond-and-shining-pearl/12.png"
+      },
+      "legends-arceus": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/legends-arceus/12.png"
+      },
+      "sword-shield": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/12.png"
+      }
+    }
+  }
+}

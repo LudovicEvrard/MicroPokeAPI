@@ -1,0 +1,1378 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "cute",
+    "url": "/contest-type/3/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "User is immune to Ground moves and effects for five turns."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour\ngénérer un champ magnétique\net léviter durant 5 tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un\nchamp magnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden\ndurch elektrisch erzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por\nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　あいだ　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un\nchamp magnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden\ndurch elektrisch erzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por \nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically\ngenerated magnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　あいだ　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "利用電氣產生的磁力浮在空中。\n在５回合內可以飄浮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un\nchamp magnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden durch elektrisch\nerzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por \nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　間　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "利用电气产生的磁力浮在空中。\n在５回合内可以飘浮。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "利用電氣產生的磁力浮在空中。\n在５回合內可以飄浮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un\nchamp magnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden durch elektrisch\nerzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por \nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　間　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "利用电气产生的磁力浮在空中。\n在５回合内可以飘浮。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "利用電氣產生的磁力浮在空中。\n在５回合內可以飄浮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un\nchamp magnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden durch elektrisch\nerzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por \nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　間　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "利用电气产生的磁力浮在空中。\n在５回合内可以飘浮。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "でんきで　つくった　じりょくの　ちからで\nちゅうに　うかぶ。\n５ターンの　あいだ　ふゆう　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "전기로 만든 자력의 힘으로\n허공에 뜬다.\n5턴 동안 부유할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "利用電氣產生的磁力浮在空中。\n在５回合內可以飄浮。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur utilise l’électricité pour générer un champ\nmagnétique et léviter durant cinq tours.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Anwender schwebt für fünf Runden durch elektrisch\nerzeugten Magnetismus.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Levita gracias a un campo magnético generado por \nelectricidad durante cinco turnos.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user levitates using electrically generated\nmagnetism for five turns.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "電気で　つくった　磁力の　力で\n宙に　浮かぶ。\n５ターンの　間　浮遊できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "利用电气产生的磁力浮在空中。\n在５回合内可以飘浮。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 393,
+  "learned_by_pokemon": [
+    {
+      "name": "pikachu",
+      "url": "/pokemon/25/"
+    },
+    {
+      "name": "raichu",
+      "url": "/pokemon/26/"
+    },
+    {
+      "name": "magnemite",
+      "url": "/pokemon/81/"
+    },
+    {
+      "name": "magneton",
+      "url": "/pokemon/82/"
+    },
+    {
+      "name": "voltorb",
+      "url": "/pokemon/100/"
+    },
+    {
+      "name": "electrode",
+      "url": "/pokemon/101/"
+    },
+    {
+      "name": "electabuzz",
+      "url": "/pokemon/125/"
+    },
+    {
+      "name": "jolteon",
+      "url": "/pokemon/135/"
+    },
+    {
+      "name": "porygon",
+      "url": "/pokemon/137/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "pichu",
+      "url": "/pokemon/172/"
+    },
+    {
+      "name": "mareep",
+      "url": "/pokemon/179/"
+    },
+    {
+      "name": "flaaffy",
+      "url": "/pokemon/180/"
+    },
+    {
+      "name": "ampharos",
+      "url": "/pokemon/181/"
+    },
+    {
+      "name": "forretress",
+      "url": "/pokemon/205/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "porygon2",
+      "url": "/pokemon/233/"
+    },
+    {
+      "name": "elekid",
+      "url": "/pokemon/239/"
+    },
+    {
+      "name": "raikou",
+      "url": "/pokemon/243/"
+    },
+    {
+      "name": "nosepass",
+      "url": "/pokemon/299/"
+    },
+    {
+      "name": "mawile",
+      "url": "/pokemon/303/"
+    },
+    {
+      "name": "aron",
+      "url": "/pokemon/304/"
+    },
+    {
+      "name": "lairon",
+      "url": "/pokemon/305/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "electrike",
+      "url": "/pokemon/309/"
+    },
+    {
+      "name": "manectric",
+      "url": "/pokemon/310/"
+    },
+    {
+      "name": "plusle",
+      "url": "/pokemon/311/"
+    },
+    {
+      "name": "minun",
+      "url": "/pokemon/312/"
+    },
+    {
+      "name": "metang",
+      "url": "/pokemon/375/"
+    },
+    {
+      "name": "metagross",
+      "url": "/pokemon/376/"
+    },
+    {
+      "name": "registeel",
+      "url": "/pokemon/379/"
+    },
+    {
+      "name": "shinx",
+      "url": "/pokemon/403/"
+    },
+    {
+      "name": "luxio",
+      "url": "/pokemon/404/"
+    },
+    {
+      "name": "luxray",
+      "url": "/pokemon/405/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "pachirisu",
+      "url": "/pokemon/417/"
+    },
+    {
+      "name": "riolu",
+      "url": "/pokemon/447/"
+    },
+    {
+      "name": "lucario",
+      "url": "/pokemon/448/"
+    },
+    {
+      "name": "magnezone",
+      "url": "/pokemon/462/"
+    },
+    {
+      "name": "electivire",
+      "url": "/pokemon/466/"
+    },
+    {
+      "name": "porygon-z",
+      "url": "/pokemon/474/"
+    },
+    {
+      "name": "probopass",
+      "url": "/pokemon/476/"
+    },
+    {
+      "name": "dialga",
+      "url": "/pokemon/483/"
+    },
+    {
+      "name": "blitzle",
+      "url": "/pokemon/522/"
+    },
+    {
+      "name": "zebstrika",
+      "url": "/pokemon/523/"
+    },
+    {
+      "name": "excadrill",
+      "url": "/pokemon/530/"
+    },
+    {
+      "name": "vanillite",
+      "url": "/pokemon/582/"
+    },
+    {
+      "name": "vanillish",
+      "url": "/pokemon/583/"
+    },
+    {
+      "name": "vanilluxe",
+      "url": "/pokemon/584/"
+    },
+    {
+      "name": "joltik",
+      "url": "/pokemon/595/"
+    },
+    {
+      "name": "galvantula",
+      "url": "/pokemon/596/"
+    },
+    {
+      "name": "ferroseed",
+      "url": "/pokemon/597/"
+    },
+    {
+      "name": "ferrothorn",
+      "url": "/pokemon/598/"
+    },
+    {
+      "name": "klink",
+      "url": "/pokemon/599/"
+    },
+    {
+      "name": "klang",
+      "url": "/pokemon/600/"
+    },
+    {
+      "name": "klinklang",
+      "url": "/pokemon/601/"
+    },
+    {
+      "name": "tynamo",
+      "url": "/pokemon/602/"
+    },
+    {
+      "name": "eelektrik",
+      "url": "/pokemon/603/"
+    },
+    {
+      "name": "eelektross",
+      "url": "/pokemon/604/"
+    },
+    {
+      "name": "stunfisk",
+      "url": "/pokemon/618/"
+    },
+    {
+      "name": "pawniard",
+      "url": "/pokemon/624/"
+    },
+    {
+      "name": "bisharp",
+      "url": "/pokemon/625/"
+    },
+    {
+      "name": "larvesta",
+      "url": "/pokemon/636/"
+    },
+    {
+      "name": "volcarona",
+      "url": "/pokemon/637/"
+    },
+    {
+      "name": "cobalion",
+      "url": "/pokemon/638/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "genesect",
+      "url": "/pokemon/649/"
+    },
+    {
+      "name": "honedge",
+      "url": "/pokemon/679/"
+    },
+    {
+      "name": "doublade",
+      "url": "/pokemon/680/"
+    },
+    {
+      "name": "aegislash-shield",
+      "url": "/pokemon/681/"
+    },
+    {
+      "name": "helioptile",
+      "url": "/pokemon/694/"
+    },
+    {
+      "name": "heliolisk",
+      "url": "/pokemon/695/"
+    },
+    {
+      "name": "amaura",
+      "url": "/pokemon/698/"
+    },
+    {
+      "name": "aurorus",
+      "url": "/pokemon/699/"
+    },
+    {
+      "name": "dedenne",
+      "url": "/pokemon/702/"
+    },
+    {
+      "name": "carbink",
+      "url": "/pokemon/703/"
+    },
+    {
+      "name": "klefki",
+      "url": "/pokemon/707/"
+    },
+    {
+      "name": "diancie",
+      "url": "/pokemon/719/"
+    },
+    {
+      "name": "grubbin",
+      "url": "/pokemon/736/"
+    },
+    {
+      "name": "charjabug",
+      "url": "/pokemon/737/"
+    },
+    {
+      "name": "vikavolt",
+      "url": "/pokemon/738/"
+    },
+    {
+      "name": "minior-red-meteor",
+      "url": "/pokemon/774/"
+    },
+    {
+      "name": "togedemaru",
+      "url": "/pokemon/777/"
+    },
+    {
+      "name": "xurkitree",
+      "url": "/pokemon/796/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "regieleki",
+      "url": "/pokemon/894/"
+    },
+    {
+      "name": "revavroom",
+      "url": "/pokemon/966/"
+    },
+    {
+      "name": "wormadam-trash",
+      "url": "/pokemon/10005/"
+    },
+    {
+      "name": "aegislash-blade",
+      "url": "/pokemon/10026/"
+    },
+    {
+      "name": "ampharos-mega",
+      "url": "/pokemon/10045/"
+    },
+    {
+      "name": "mawile-mega",
+      "url": "/pokemon/10052/"
+    },
+    {
+      "name": "aggron-mega",
+      "url": "/pokemon/10053/"
+    },
+    {
+      "name": "manectric-mega",
+      "url": "/pokemon/10055/"
+    },
+    {
+      "name": "lucario-mega",
+      "url": "/pokemon/10059/"
+    },
+    {
+      "name": "steelix-mega",
+      "url": "/pokemon/10072/"
+    },
+    {
+      "name": "diancie-mega",
+      "url": "/pokemon/10075/"
+    },
+    {
+      "name": "metagross-mega",
+      "url": "/pokemon/10076/"
+    },
+    {
+      "name": "pikachu-rock-star",
+      "url": "/pokemon/10080/"
+    },
+    {
+      "name": "pikachu-belle",
+      "url": "/pokemon/10081/"
+    },
+    {
+      "name": "pikachu-pop-star",
+      "url": "/pokemon/10082/"
+    },
+    {
+      "name": "pikachu-phd",
+      "url": "/pokemon/10083/"
+    },
+    {
+      "name": "pikachu-libre",
+      "url": "/pokemon/10084/"
+    },
+    {
+      "name": "pikachu-cosplay",
+      "url": "/pokemon/10085/"
+    },
+    {
+      "name": "pikachu-original-cap",
+      "url": "/pokemon/10094/"
+    },
+    {
+      "name": "pikachu-hoenn-cap",
+      "url": "/pokemon/10095/"
+    },
+    {
+      "name": "pikachu-sinnoh-cap",
+      "url": "/pokemon/10096/"
+    },
+    {
+      "name": "pikachu-unova-cap",
+      "url": "/pokemon/10097/"
+    },
+    {
+      "name": "pikachu-kalos-cap",
+      "url": "/pokemon/10098/"
+    },
+    {
+      "name": "pikachu-alola-cap",
+      "url": "/pokemon/10099/"
+    },
+    {
+      "name": "raichu-alola",
+      "url": "/pokemon/10100/"
+    },
+    {
+      "name": "geodude-alola",
+      "url": "/pokemon/10109/"
+    },
+    {
+      "name": "graveler-alola",
+      "url": "/pokemon/10110/"
+    },
+    {
+      "name": "golem-alola",
+      "url": "/pokemon/10111/"
+    },
+    {
+      "name": "vikavolt-totem",
+      "url": "/pokemon/10122/"
+    },
+    {
+      "name": "minior-orange-meteor",
+      "url": "/pokemon/10130/"
+    },
+    {
+      "name": "minior-yellow-meteor",
+      "url": "/pokemon/10131/"
+    },
+    {
+      "name": "minior-green-meteor",
+      "url": "/pokemon/10132/"
+    },
+    {
+      "name": "minior-blue-meteor",
+      "url": "/pokemon/10133/"
+    },
+    {
+      "name": "minior-indigo-meteor",
+      "url": "/pokemon/10134/"
+    },
+    {
+      "name": "minior-violet-meteor",
+      "url": "/pokemon/10135/"
+    },
+    {
+      "name": "minior-red",
+      "url": "/pokemon/10136/"
+    },
+    {
+      "name": "minior-orange",
+      "url": "/pokemon/10137/"
+    },
+    {
+      "name": "minior-yellow",
+      "url": "/pokemon/10138/"
+    },
+    {
+      "name": "minior-green",
+      "url": "/pokemon/10139/"
+    },
+    {
+      "name": "minior-blue",
+      "url": "/pokemon/10140/"
+    },
+    {
+      "name": "minior-indigo",
+      "url": "/pokemon/10141/"
+    },
+    {
+      "name": "minior-violet",
+      "url": "/pokemon/10142/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "pikachu-partner-cap",
+      "url": "/pokemon/10148/"
+    },
+    {
+      "name": "togedemaru-totem",
+      "url": "/pokemon/10154/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "necrozma-ultra",
+      "url": "/pokemon/10157/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "unique",
+      "url": "/move-category/13/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "magnet-rise",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "でんじふゆう"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "전자부유"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "電磁飄浮"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Vol Magnétik"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Magnetflug"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Levitón"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Magnetascesa"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Magnet Rise"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "でんじふゆう"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "电磁飘浮"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/13/"
+  },
+  "target": {
+    "name": "user",
+    "url": "/move-target/7/"
+  },
+  "type": {
+    "name": "electric",
+    "url": "/type/13/"
+  }
+}

@@ -1,0 +1,1278 @@
+{
+  "accuracy": 60,
+  "contest_combos": {
+    "normal": {
+      "use_after": null,
+      "use_before": [
+        {
+          "name": "dream-eater",
+          "url": "/move/138/"
+        },
+        {
+          "name": "nightmare",
+          "url": "/move/171/"
+        }
+      ]
+    },
+    "super": {
+      "use_after": null,
+      "use_before": null
+    }
+  },
+  "contest_effect": {
+    "url": "/contest-effect/5/"
+  },
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Puts the target to sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Puts the target to sleep."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "May put the foe to\nsleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "gold-silver",
+        "url": "/version-group/3/"
+      }
+    },
+    {
+      "flavor_text": "May put the foe to\nsleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "crystal",
+        "url": "/version-group/4/"
+      }
+    },
+    {
+      "flavor_text": "A hypnotizing move that\nmay induce sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "A hypnotizing move that\nmay induce sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Hypnotic suggestion\nis used to make the\nfoe fall into a\ndeep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le\nplonger dans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente\nal objetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。\n",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente al \nobjetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。\n",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "施加引發睡意的暗示，\n讓對手陷入睡眠狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente al \nobjetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "施以诱导睡意的暗示，\n让对手陷入睡眠状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "施加引發睡意的暗示，\n讓對手陷入睡眠狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente al \nobjetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "施以诱导睡意的暗示，\n让对手陷入睡眠状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "施加引發睡意的暗示，\n讓對手陷入睡眠狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente al \nobjetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "施以诱导睡意的暗示，\n让对手陷入睡眠状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "ねむけを　さそう　あんじを　かけて\nあいてを　ねむり　じょうたいに　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "졸음을 유도하는 암시를 걸어서\n상대를 잠듦 상태로 만든다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "施加引發睡意的暗示，\n讓對手陷入睡眠狀態。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur hypnotise l’ennemi pour le plonger\ndans un profond sommeil.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataque hipnótico que hace dormir profundamente al\nobjetivo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "眠気を　誘う　暗示を　かけて\n相手を　眠り状態に　する。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "施以诱导睡意的暗示，\n让对手陷入睡眠状态。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 95,
+  "learned_by_pokemon": [
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "zubat",
+      "url": "/pokemon/41/"
+    },
+    {
+      "name": "golbat",
+      "url": "/pokemon/42/"
+    },
+    {
+      "name": "meowth",
+      "url": "/pokemon/52/"
+    },
+    {
+      "name": "persian",
+      "url": "/pokemon/53/"
+    },
+    {
+      "name": "psyduck",
+      "url": "/pokemon/54/"
+    },
+    {
+      "name": "golduck",
+      "url": "/pokemon/55/"
+    },
+    {
+      "name": "poliwag",
+      "url": "/pokemon/60/"
+    },
+    {
+      "name": "poliwhirl",
+      "url": "/pokemon/61/"
+    },
+    {
+      "name": "poliwrath",
+      "url": "/pokemon/62/"
+    },
+    {
+      "name": "kadabra",
+      "url": "/pokemon/64/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "ponyta",
+      "url": "/pokemon/77/"
+    },
+    {
+      "name": "rapidash",
+      "url": "/pokemon/78/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "mr-mime",
+      "url": "/pokemon/122/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "crobat",
+      "url": "/pokemon/169/"
+    },
+    {
+      "name": "politoed",
+      "url": "/pokemon/186/"
+    },
+    {
+      "name": "yanma",
+      "url": "/pokemon/193/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "spinda",
+      "url": "/pokemon/327/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "feebas",
+      "url": "/pokemon/349/"
+    },
+    {
+      "name": "milotic",
+      "url": "/pokemon/350/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "drifloon",
+      "url": "/pokemon/425/"
+    },
+    {
+      "name": "drifblim",
+      "url": "/pokemon/426/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "glameow",
+      "url": "/pokemon/431/"
+    },
+    {
+      "name": "purugly",
+      "url": "/pokemon/432/"
+    },
+    {
+      "name": "chingling",
+      "url": "/pokemon/433/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "mime-jr",
+      "url": "/pokemon/439/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "/pokemon/442/"
+    },
+    {
+      "name": "yanmega",
+      "url": "/pokemon/469/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "uxie",
+      "url": "/pokemon/480/"
+    },
+    {
+      "name": "darkrai",
+      "url": "/pokemon/491/"
+    },
+    {
+      "name": "patrat",
+      "url": "/pokemon/504/"
+    },
+    {
+      "name": "watchog",
+      "url": "/pokemon/505/"
+    },
+    {
+      "name": "munna",
+      "url": "/pokemon/517/"
+    },
+    {
+      "name": "musharna",
+      "url": "/pokemon/518/"
+    },
+    {
+      "name": "pidove",
+      "url": "/pokemon/519/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "gothita",
+      "url": "/pokemon/574/"
+    },
+    {
+      "name": "gothorita",
+      "url": "/pokemon/575/"
+    },
+    {
+      "name": "gothitelle",
+      "url": "/pokemon/576/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "inkay",
+      "url": "/pokemon/686/"
+    },
+    {
+      "name": "malamar",
+      "url": "/pokemon/687/"
+    },
+    {
+      "name": "sandygast",
+      "url": "/pokemon/769/"
+    },
+    {
+      "name": "palossand",
+      "url": "/pokemon/770/"
+    },
+    {
+      "name": "lunala",
+      "url": "/pokemon/792/"
+    },
+    {
+      "name": "xurkitree",
+      "url": "/pokemon/796/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "orbeetle",
+      "url": "/pokemon/826/"
+    },
+    {
+      "name": "mr-rime",
+      "url": "/pokemon/866/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "flittle",
+      "url": "/pokemon/955/"
+    },
+    {
+      "name": "iron-valiant",
+      "url": "/pokemon/1006/"
+    },
+    {
+      "name": "gengar-mega",
+      "url": "/pokemon/10038/"
+    },
+    {
+      "name": "gardevoir-mega",
+      "url": "/pokemon/10051/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "meowth-alola",
+      "url": "/pokemon/10107/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "ponyta-galar",
+      "url": "/pokemon/10162/"
+    },
+    {
+      "name": "mr-mime-galar",
+      "url": "/pokemon/10168/"
+    },
+    {
+      "name": "articuno-galar",
+      "url": "/pokemon/10169/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "sleep",
+      "url": "/move-ailment/2/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "ailment",
+      "url": "/move-category/1/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": 4,
+    "min_hits": null,
+    "min_turns": 2,
+    "stat_chance": 0
+  },
+  "name": "hypnosis",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "さいみんじゅつ"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "최면술"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "催眠術"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Hypnose"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Hypnose"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Hipnosis"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Ipnosi"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Hypnosis"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "さいみんじゅつ"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "催眠术"
+    }
+  ],
+  "past_values": [
+    {
+      "accuracy": 60,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "accuracy": 70,
+      "effect_chance": null,
+      "effect_entries": [],
+      "power": null,
+      "pp": null,
+      "type": null,
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    }
+  ],
+  "power": null,
+  "pp": 20,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/19/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "psychic",
+    "url": "/type/14/"
+  }
+}

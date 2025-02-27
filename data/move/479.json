@@ -1,0 +1,1605 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": 100,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target's flying type to be ignored when it takes Ground damage.\n\nIf the target isn't immune to Ground damage, this move will fail.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Removes any immunity to Ground damage."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Le lanceur jette toutes sortes\nde projectiles à un ennemi. Si ce\ndernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or projectile to\nattack an opponent. A flying Pokémon will\nfall to the ground when hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or projectile to\nattack an opponent. A flying Pokémon will\nfall to the ground when hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à\nun ennemi. Si ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und\nlanden auf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "El usuario ataca lanzando una piedra o un proyectil.\nPuede estrellar contra el suelo al objetivo si vuela.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile\nto attack an opponent. A flying Pokémon\nwill fall to the ground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à\nun ennemi. Si ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und\nlanden auf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "El usuario ataca lanzando una piedra o un proyectil. \nPuede estrellar contra el suelo al objetivo si vuela.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile\nto attack an opponent. A flying Pokémon\nwill fall to the ground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。　あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "向空中的對手投擲石頭或炮彈等物體\n進行攻擊。對手會被擊落，掉到地面。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à\nun ennemi. Si ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und landen\nauf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "El usuario ataca lanzando una piedra o un proyectil. \nPuede estrellar contra el suelo al objetivo si vuela.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。　相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "扔石头或炮弹，\n攻击飞行的对手。\n对手会被击落，掉到地面。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。　あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "向空中的對手投擲石頭或炮彈等物體\n進行攻擊。對手會被擊落，掉到地面。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à\nun ennemi. Si ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und landen\nauf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "El usuario ataca lanzando una piedra o un proyectil. \nPuede estrellar contra el suelo al objetivo si vuela.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。　相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "扔石头或炮弹，\n攻击飞行的对手。\n对手会被击落，掉到地面。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。　あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "向空中的對手投擲石頭或炮彈等物體\n進行攻擊。對手會被擊落，掉到地面。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à un ennemi.\nSi ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und landen\nauf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataca lanzando una piedra o un proyectil. Si el objetivo\nestá en el aire, lo estrella contra el suelo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。　相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "扔石头或炮弹，\n攻击飞行的对手。\n对手会被击落，掉到地面。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "いしや　たまを　なげて　とんでいる\nあいてを　こうげきする。　あいては\nうちおとされて　じめんに　おちる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "돌이나 구슬을 던져서 날고 있는\n상대를 공격한다.\n맞은 상대는 땅에 떨어진다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "向空中的對手投擲石頭或炮彈等物體\n進行攻擊。對手會被擊落，掉到地面。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur jette toutes sortes de projectiles à un ennemi.\nSi ce dernier vole, il tombe au sol.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und landen\nauf dem Boden.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataca lanzando una piedra o un proyectil. Si el objetivo\nestá en el aire, lo estrella contra el suelo.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa lancia una pietra o un proiettile.\nPuò colpire anche un bersaglio in volo\ne farlo cadere.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user throws a stone or similar projectile to\nattack the target. A flying Pokémon will fall to the\nground when it’s hit.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "石や　弾を　投げて　飛んでいる\n相手を　攻撃する。　相手は\nうち落とされて　地面に　落ちる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "扔石头或炮弹，\n攻击飞行的对手。\n对手会被击落，掉到地面。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-v",
+    "url": "/generation/5/"
+  },
+  "id": 479,
+  "learned_by_pokemon": [
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "sandshrew",
+      "url": "/pokemon/27/"
+    },
+    {
+      "name": "sandslash",
+      "url": "/pokemon/28/"
+    },
+    {
+      "name": "nidoqueen",
+      "url": "/pokemon/31/"
+    },
+    {
+      "name": "nidoking",
+      "url": "/pokemon/34/"
+    },
+    {
+      "name": "diglett",
+      "url": "/pokemon/50/"
+    },
+    {
+      "name": "dugtrio",
+      "url": "/pokemon/51/"
+    },
+    {
+      "name": "mankey",
+      "url": "/pokemon/56/"
+    },
+    {
+      "name": "primeape",
+      "url": "/pokemon/57/"
+    },
+    {
+      "name": "machop",
+      "url": "/pokemon/66/"
+    },
+    {
+      "name": "machoke",
+      "url": "/pokemon/67/"
+    },
+    {
+      "name": "machamp",
+      "url": "/pokemon/68/"
+    },
+    {
+      "name": "geodude",
+      "url": "/pokemon/74/"
+    },
+    {
+      "name": "graveler",
+      "url": "/pokemon/75/"
+    },
+    {
+      "name": "golem",
+      "url": "/pokemon/76/"
+    },
+    {
+      "name": "onix",
+      "url": "/pokemon/95/"
+    },
+    {
+      "name": "cubone",
+      "url": "/pokemon/104/"
+    },
+    {
+      "name": "marowak",
+      "url": "/pokemon/105/"
+    },
+    {
+      "name": "rhyhorn",
+      "url": "/pokemon/111/"
+    },
+    {
+      "name": "rhydon",
+      "url": "/pokemon/112/"
+    },
+    {
+      "name": "pinsir",
+      "url": "/pokemon/127/"
+    },
+    {
+      "name": "omanyte",
+      "url": "/pokemon/138/"
+    },
+    {
+      "name": "omastar",
+      "url": "/pokemon/139/"
+    },
+    {
+      "name": "kabuto",
+      "url": "/pokemon/140/"
+    },
+    {
+      "name": "kabutops",
+      "url": "/pokemon/141/"
+    },
+    {
+      "name": "aerodactyl",
+      "url": "/pokemon/142/"
+    },
+    {
+      "name": "snorlax",
+      "url": "/pokemon/143/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "sudowoodo",
+      "url": "/pokemon/185/"
+    },
+    {
+      "name": "aipom",
+      "url": "/pokemon/190/"
+    },
+    {
+      "name": "steelix",
+      "url": "/pokemon/208/"
+    },
+    {
+      "name": "shuckle",
+      "url": "/pokemon/213/"
+    },
+    {
+      "name": "heracross",
+      "url": "/pokemon/214/"
+    },
+    {
+      "name": "teddiursa",
+      "url": "/pokemon/216/"
+    },
+    {
+      "name": "ursaring",
+      "url": "/pokemon/217/"
+    },
+    {
+      "name": "slugma",
+      "url": "/pokemon/218/"
+    },
+    {
+      "name": "magcargo",
+      "url": "/pokemon/219/"
+    },
+    {
+      "name": "swinub",
+      "url": "/pokemon/220/"
+    },
+    {
+      "name": "piloswine",
+      "url": "/pokemon/221/"
+    },
+    {
+      "name": "remoraid",
+      "url": "/pokemon/223/"
+    },
+    {
+      "name": "octillery",
+      "url": "/pokemon/224/"
+    },
+    {
+      "name": "phanpy",
+      "url": "/pokemon/231/"
+    },
+    {
+      "name": "donphan",
+      "url": "/pokemon/232/"
+    },
+    {
+      "name": "larvitar",
+      "url": "/pokemon/246/"
+    },
+    {
+      "name": "pupitar",
+      "url": "/pokemon/247/"
+    },
+    {
+      "name": "tyranitar",
+      "url": "/pokemon/248/"
+    },
+    {
+      "name": "swampert",
+      "url": "/pokemon/260/"
+    },
+    {
+      "name": "slaking",
+      "url": "/pokemon/289/"
+    },
+    {
+      "name": "loudred",
+      "url": "/pokemon/294/"
+    },
+    {
+      "name": "exploud",
+      "url": "/pokemon/295/"
+    },
+    {
+      "name": "makuhita",
+      "url": "/pokemon/296/"
+    },
+    {
+      "name": "hariyama",
+      "url": "/pokemon/297/"
+    },
+    {
+      "name": "nosepass",
+      "url": "/pokemon/299/"
+    },
+    {
+      "name": "aggron",
+      "url": "/pokemon/306/"
+    },
+    {
+      "name": "camerupt",
+      "url": "/pokemon/323/"
+    },
+    {
+      "name": "lunatone",
+      "url": "/pokemon/337/"
+    },
+    {
+      "name": "solrock",
+      "url": "/pokemon/338/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "lileep",
+      "url": "/pokemon/345/"
+    },
+    {
+      "name": "cradily",
+      "url": "/pokemon/346/"
+    },
+    {
+      "name": "anorith",
+      "url": "/pokemon/347/"
+    },
+    {
+      "name": "armaldo",
+      "url": "/pokemon/348/"
+    },
+    {
+      "name": "relicanth",
+      "url": "/pokemon/369/"
+    },
+    {
+      "name": "regirock",
+      "url": "/pokemon/377/"
+    },
+    {
+      "name": "groudon",
+      "url": "/pokemon/383/"
+    },
+    {
+      "name": "turtwig",
+      "url": "/pokemon/387/"
+    },
+    {
+      "name": "grotle",
+      "url": "/pokemon/388/"
+    },
+    {
+      "name": "torterra",
+      "url": "/pokemon/389/"
+    },
+    {
+      "name": "monferno",
+      "url": "/pokemon/391/"
+    },
+    {
+      "name": "infernape",
+      "url": "/pokemon/392/"
+    },
+    {
+      "name": "cranidos",
+      "url": "/pokemon/408/"
+    },
+    {
+      "name": "rampardos",
+      "url": "/pokemon/409/"
+    },
+    {
+      "name": "shieldon",
+      "url": "/pokemon/410/"
+    },
+    {
+      "name": "bastiodon",
+      "url": "/pokemon/411/"
+    },
+    {
+      "name": "ambipom",
+      "url": "/pokemon/424/"
+    },
+    {
+      "name": "bonsly",
+      "url": "/pokemon/438/"
+    },
+    {
+      "name": "rhyperior",
+      "url": "/pokemon/464/"
+    },
+    {
+      "name": "mamoswine",
+      "url": "/pokemon/473/"
+    },
+    {
+      "name": "probopass",
+      "url": "/pokemon/476/"
+    },
+    {
+      "name": "regigigas",
+      "url": "/pokemon/486/"
+    },
+    {
+      "name": "emboar",
+      "url": "/pokemon/500/"
+    },
+    {
+      "name": "roggenrola",
+      "url": "/pokemon/524/"
+    },
+    {
+      "name": "boldore",
+      "url": "/pokemon/525/"
+    },
+    {
+      "name": "gigalith",
+      "url": "/pokemon/526/"
+    },
+    {
+      "name": "timburr",
+      "url": "/pokemon/532/"
+    },
+    {
+      "name": "gurdurr",
+      "url": "/pokemon/533/"
+    },
+    {
+      "name": "conkeldurr",
+      "url": "/pokemon/534/"
+    },
+    {
+      "name": "krookodile",
+      "url": "/pokemon/553/"
+    },
+    {
+      "name": "darmanitan-standard",
+      "url": "/pokemon/555/"
+    },
+    {
+      "name": "dwebble",
+      "url": "/pokemon/557/"
+    },
+    {
+      "name": "crustle",
+      "url": "/pokemon/558/"
+    },
+    {
+      "name": "scraggy",
+      "url": "/pokemon/559/"
+    },
+    {
+      "name": "scrafty",
+      "url": "/pokemon/560/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "tirtouga",
+      "url": "/pokemon/564/"
+    },
+    {
+      "name": "carracosta",
+      "url": "/pokemon/565/"
+    },
+    {
+      "name": "archen",
+      "url": "/pokemon/566/"
+    },
+    {
+      "name": "archeops",
+      "url": "/pokemon/567/"
+    },
+    {
+      "name": "garbodor",
+      "url": "/pokemon/569/"
+    },
+    {
+      "name": "druddigon",
+      "url": "/pokemon/621/"
+    },
+    {
+      "name": "golett",
+      "url": "/pokemon/622/"
+    },
+    {
+      "name": "golurk",
+      "url": "/pokemon/623/"
+    },
+    {
+      "name": "terrakion",
+      "url": "/pokemon/639/"
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "/pokemon/641/"
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "/pokemon/642/"
+    },
+    {
+      "name": "landorus-incarnate",
+      "url": "/pokemon/645/"
+    },
+    {
+      "name": "chespin",
+      "url": "/pokemon/650/"
+    },
+    {
+      "name": "quilladin",
+      "url": "/pokemon/651/"
+    },
+    {
+      "name": "chesnaught",
+      "url": "/pokemon/652/"
+    },
+    {
+      "name": "froakie",
+      "url": "/pokemon/656/"
+    },
+    {
+      "name": "frogadier",
+      "url": "/pokemon/657/"
+    },
+    {
+      "name": "greninja",
+      "url": "/pokemon/658/"
+    },
+    {
+      "name": "bunnelby",
+      "url": "/pokemon/659/"
+    },
+    {
+      "name": "diggersby",
+      "url": "/pokemon/660/"
+    },
+    {
+      "name": "binacle",
+      "url": "/pokemon/688/"
+    },
+    {
+      "name": "barbaracle",
+      "url": "/pokemon/689/"
+    },
+    {
+      "name": "clauncher",
+      "url": "/pokemon/692/"
+    },
+    {
+      "name": "clawitzer",
+      "url": "/pokemon/693/"
+    },
+    {
+      "name": "carbink",
+      "url": "/pokemon/703/"
+    },
+    {
+      "name": "diancie",
+      "url": "/pokemon/719/"
+    },
+    {
+      "name": "volcanion",
+      "url": "/pokemon/721/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "pikipek",
+      "url": "/pokemon/731/"
+    },
+    {
+      "name": "trumbeak",
+      "url": "/pokemon/732/"
+    },
+    {
+      "name": "toucannon",
+      "url": "/pokemon/733/"
+    },
+    {
+      "name": "toxapex",
+      "url": "/pokemon/748/"
+    },
+    {
+      "name": "mudbray",
+      "url": "/pokemon/749/"
+    },
+    {
+      "name": "mudsdale",
+      "url": "/pokemon/750/"
+    },
+    {
+      "name": "passimian",
+      "url": "/pokemon/766/"
+    },
+    {
+      "name": "turtonator",
+      "url": "/pokemon/776/"
+    },
+    {
+      "name": "buzzwole",
+      "url": "/pokemon/794/"
+    },
+    {
+      "name": "celesteela",
+      "url": "/pokemon/797/"
+    },
+    {
+      "name": "guzzlord",
+      "url": "/pokemon/799/"
+    },
+    {
+      "name": "marshadow",
+      "url": "/pokemon/802/"
+    },
+    {
+      "name": "stakataka",
+      "url": "/pokemon/805/"
+    },
+    {
+      "name": "blacephalon",
+      "url": "/pokemon/806/"
+    },
+    {
+      "name": "cinderace",
+      "url": "/pokemon/815/"
+    },
+    {
+      "name": "inteleon",
+      "url": "/pokemon/818/"
+    },
+    {
+      "name": "rolycoly",
+      "url": "/pokemon/837/"
+    },
+    {
+      "name": "carkol",
+      "url": "/pokemon/838/"
+    },
+    {
+      "name": "coalossal",
+      "url": "/pokemon/839/"
+    },
+    {
+      "name": "stonjourner",
+      "url": "/pokemon/874/"
+    },
+    {
+      "name": "copperajah",
+      "url": "/pokemon/879/"
+    },
+    {
+      "name": "kleavor",
+      "url": "/pokemon/900/"
+    },
+    {
+      "name": "ursaluna",
+      "url": "/pokemon/901/"
+    },
+    {
+      "name": "nacli",
+      "url": "/pokemon/932/"
+    },
+    {
+      "name": "naclstack",
+      "url": "/pokemon/933/"
+    },
+    {
+      "name": "garganacl",
+      "url": "/pokemon/934/"
+    },
+    {
+      "name": "klawf",
+      "url": "/pokemon/950/"
+    },
+    {
+      "name": "tinkaton",
+      "url": "/pokemon/959/"
+    },
+    {
+      "name": "orthworm",
+      "url": "/pokemon/968/"
+    },
+    {
+      "name": "glimmet",
+      "url": "/pokemon/969/"
+    },
+    {
+      "name": "glimmora",
+      "url": "/pokemon/970/"
+    },
+    {
+      "name": "annihilape",
+      "url": "/pokemon/979/"
+    },
+    {
+      "name": "great-tusk",
+      "url": "/pokemon/984/"
+    },
+    {
+      "name": "iron-thorns",
+      "url": "/pokemon/995/"
+    },
+    {
+      "name": "archaludon",
+      "url": "/pokemon/1018/"
+    },
+    {
+      "name": "darmanitan-zen",
+      "url": "/pokemon/10017/"
+    },
+    {
+      "name": "tornadus-therian",
+      "url": "/pokemon/10019/"
+    },
+    {
+      "name": "thundurus-therian",
+      "url": "/pokemon/10020/"
+    },
+    {
+      "name": "landorus-therian",
+      "url": "/pokemon/10021/"
+    },
+    {
+      "name": "blastoise-mega",
+      "url": "/pokemon/10036/"
+    },
+    {
+      "name": "pinsir-mega",
+      "url": "/pokemon/10040/"
+    },
+    {
+      "name": "aerodactyl-mega",
+      "url": "/pokemon/10042/"
+    },
+    {
+      "name": "heracross-mega",
+      "url": "/pokemon/10047/"
+    },
+    {
+      "name": "tyranitar-mega",
+      "url": "/pokemon/10049/"
+    },
+    {
+      "name": "aggron-mega",
+      "url": "/pokemon/10053/"
+    },
+    {
+      "name": "steelix-mega",
+      "url": "/pokemon/10072/"
+    },
+    {
+      "name": "diancie-mega",
+      "url": "/pokemon/10075/"
+    },
+    {
+      "name": "groudon-primal",
+      "url": "/pokemon/10078/"
+    },
+    {
+      "name": "diglett-alola",
+      "url": "/pokemon/10105/"
+    },
+    {
+      "name": "dugtrio-alola",
+      "url": "/pokemon/10106/"
+    },
+    {
+      "name": "persian-alola",
+      "url": "/pokemon/10108/"
+    },
+    {
+      "name": "geodude-alola",
+      "url": "/pokemon/10109/"
+    },
+    {
+      "name": "graveler-alola",
+      "url": "/pokemon/10110/"
+    },
+    {
+      "name": "golem-alola",
+      "url": "/pokemon/10111/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "greninja-battle-bond",
+      "url": "/pokemon/10116/"
+    },
+    {
+      "name": "greninja-ash",
+      "url": "/pokemon/10117/"
+    },
+    {
+      "name": "marowak-totem",
+      "url": "/pokemon/10149/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "growlithe-hisui",
+      "url": "/pokemon/10229/"
+    },
+    {
+      "name": "arcanine-hisui",
+      "url": "/pokemon/10230/"
+    },
+    {
+      "name": "decidueye-hisui",
+      "url": "/pokemon/10244/"
+    },
+    {
+      "name": "ursaluna-bloodmoon",
+      "url": "/pokemon/10272/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/452/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/455/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/456/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/457/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/458/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/459/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1884/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1947/"
+      },
+      "version_group": {
+        "name": "the-teal-mask",
+        "url": "/version-group/26/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "unknown",
+      "url": "/move-ailment/-1/"
+    },
+    "ailment_chance": 100,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "smack-down",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "うちおとす"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "떨어뜨리기"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "擊落"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Anti-Air"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Katapult"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Antiaéreo"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Abbattimento"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Smack Down"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "うちおとす"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "击落"
+    }
+  ],
+  "past_values": [],
+  "power": 50,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "rock",
+    "url": "/type/6/"
+  }
+}

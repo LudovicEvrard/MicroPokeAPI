@@ -1,0 +1,1612 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": {
+    "url": "/contest-effect/33/"
+  },
+  "contest_type": {
+    "name": "smart",
+    "url": "/contest-type/4/"
+  },
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Prevents any Pokémon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pokémon knows any of the user's moves when this move is used, this move will fail.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Prevents the target from using any moves that the user also knows."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Prevents foes from using\nmoves known by the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ruby-sapphire",
+        "url": "/version-group/5/"
+      }
+    },
+    {
+      "flavor_text": "Prevents foes from using\nmoves known by the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "emerald",
+        "url": "/version-group/6/"
+      }
+    },
+    {
+      "flavor_text": "Prevents foes from\nusing any move\nthat is also known\nby the user.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "firered-leafgreen",
+        "url": "/version-group/7/"
+      }
+    },
+    {
+      "flavor_text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des\ncapacités en commun, l’ennemi ne\npourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n기억하고 있으면 상대만\n그 기술을 사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en\ncommun, l’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken,\ndie der Anwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos\npor el usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n기억하고 있으면 상대만\n그 기술을 사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en\ncommun, l’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken,\ndie der Anwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos \npor el usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n기억하고 있으면 상대만\n그 기술을 사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "如果對手也學會了和自己\n相同的招式，則對手將\n不能使用該招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en\ncommun, l’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken, die der\nAnwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos \npor el usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "如果对手有和自己相同的招式，\n那么只有对手无法使用该招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n기억하고 있으면 상대만\n그 기술을 사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "如果對手也學會了和自己\n相同的招式，則對手將\n不能使用該招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en\ncommun, l’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken, die der\nAnwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos \npor el usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "如果对手有和自己相同的招式，\n那么只有对手无法使用该招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n기억하고 있으면 상대만\n그 기술을 사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "如果對手也學會了和自己\n相同的招式，則對手將\n不能使用該招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en commun,\nl’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken, die der\nAnwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos \npor el usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "如果对手有和自己相同的招式，\n那么只有对手无法使用该招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "あいてが　じぶんと　おなじ　わざを\nおぼえていたら　あいてだけ\nそのわざを　つかえなく　する。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "상대가 자신과 같은 기술을\n배웠다면 상대만 그 기술을\n사용할 수 없게 한다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "如果對手也學會了和自己\n相同的招式，則對手將\n不能使用該招式。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Si l’ennemi et le lanceur ont des capacités en commun,\nl’ennemi ne pourra pas les utiliser.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Hindert Gegner am Einsatz von Attacken, die der\nAnwender selbst auch kennt.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Impide a los contrincantes usar ataques conocidos por\nel usuario durante el combate.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "相手が　自分と　同じ　技を\nおぼえていたら　相手だけ\nその技を　使えなくする。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "如果对手有和自己相同的招式，\n那么只有对手无法使用该招式。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iii",
+    "url": "/generation/3/"
+  },
+  "id": 286,
+  "learned_by_pokemon": [
+    {
+      "name": "clefairy",
+      "url": "/pokemon/35/"
+    },
+    {
+      "name": "clefable",
+      "url": "/pokemon/36/"
+    },
+    {
+      "name": "vulpix",
+      "url": "/pokemon/37/"
+    },
+    {
+      "name": "ninetales",
+      "url": "/pokemon/38/"
+    },
+    {
+      "name": "alakazam",
+      "url": "/pokemon/65/"
+    },
+    {
+      "name": "slowpoke",
+      "url": "/pokemon/79/"
+    },
+    {
+      "name": "slowbro",
+      "url": "/pokemon/80/"
+    },
+    {
+      "name": "grimer",
+      "url": "/pokemon/88/"
+    },
+    {
+      "name": "muk",
+      "url": "/pokemon/89/"
+    },
+    {
+      "name": "gastly",
+      "url": "/pokemon/92/"
+    },
+    {
+      "name": "haunter",
+      "url": "/pokemon/93/"
+    },
+    {
+      "name": "gengar",
+      "url": "/pokemon/94/"
+    },
+    {
+      "name": "drowzee",
+      "url": "/pokemon/96/"
+    },
+    {
+      "name": "hypno",
+      "url": "/pokemon/97/"
+    },
+    {
+      "name": "exeggcute",
+      "url": "/pokemon/102/"
+    },
+    {
+      "name": "exeggutor",
+      "url": "/pokemon/103/"
+    },
+    {
+      "name": "mewtwo",
+      "url": "/pokemon/150/"
+    },
+    {
+      "name": "mew",
+      "url": "/pokemon/151/"
+    },
+    {
+      "name": "hoothoot",
+      "url": "/pokemon/163/"
+    },
+    {
+      "name": "noctowl",
+      "url": "/pokemon/164/"
+    },
+    {
+      "name": "togetic",
+      "url": "/pokemon/176/"
+    },
+    {
+      "name": "natu",
+      "url": "/pokemon/177/"
+    },
+    {
+      "name": "xatu",
+      "url": "/pokemon/178/"
+    },
+    {
+      "name": "espeon",
+      "url": "/pokemon/196/"
+    },
+    {
+      "name": "slowking",
+      "url": "/pokemon/199/"
+    },
+    {
+      "name": "misdreavus",
+      "url": "/pokemon/200/"
+    },
+    {
+      "name": "girafarig",
+      "url": "/pokemon/203/"
+    },
+    {
+      "name": "stantler",
+      "url": "/pokemon/234/"
+    },
+    {
+      "name": "lugia",
+      "url": "/pokemon/249/"
+    },
+    {
+      "name": "ho-oh",
+      "url": "/pokemon/250/"
+    },
+    {
+      "name": "celebi",
+      "url": "/pokemon/251/"
+    },
+    {
+      "name": "shiftry",
+      "url": "/pokemon/275/"
+    },
+    {
+      "name": "ralts",
+      "url": "/pokemon/280/"
+    },
+    {
+      "name": "kirlia",
+      "url": "/pokemon/281/"
+    },
+    {
+      "name": "gardevoir",
+      "url": "/pokemon/282/"
+    },
+    {
+      "name": "sableye",
+      "url": "/pokemon/302/"
+    },
+    {
+      "name": "meditite",
+      "url": "/pokemon/307/"
+    },
+    {
+      "name": "medicham",
+      "url": "/pokemon/308/"
+    },
+    {
+      "name": "spoink",
+      "url": "/pokemon/325/"
+    },
+    {
+      "name": "grumpig",
+      "url": "/pokemon/326/"
+    },
+    {
+      "name": "baltoy",
+      "url": "/pokemon/343/"
+    },
+    {
+      "name": "claydol",
+      "url": "/pokemon/344/"
+    },
+    {
+      "name": "milotic",
+      "url": "/pokemon/350/"
+    },
+    {
+      "name": "shuppet",
+      "url": "/pokemon/353/"
+    },
+    {
+      "name": "banette",
+      "url": "/pokemon/354/"
+    },
+    {
+      "name": "duskull",
+      "url": "/pokemon/355/"
+    },
+    {
+      "name": "dusclops",
+      "url": "/pokemon/356/"
+    },
+    {
+      "name": "chimecho",
+      "url": "/pokemon/358/"
+    },
+    {
+      "name": "jirachi",
+      "url": "/pokemon/385/"
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "/pokemon/386/"
+    },
+    {
+      "name": "drifloon",
+      "url": "/pokemon/425/"
+    },
+    {
+      "name": "drifblim",
+      "url": "/pokemon/426/"
+    },
+    {
+      "name": "mismagius",
+      "url": "/pokemon/429/"
+    },
+    {
+      "name": "bronzor",
+      "url": "/pokemon/436/"
+    },
+    {
+      "name": "bronzong",
+      "url": "/pokemon/437/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "/pokemon/442/"
+    },
+    {
+      "name": "togekiss",
+      "url": "/pokemon/468/"
+    },
+    {
+      "name": "gallade",
+      "url": "/pokemon/475/"
+    },
+    {
+      "name": "dusknoir",
+      "url": "/pokemon/477/"
+    },
+    {
+      "name": "froslass",
+      "url": "/pokemon/478/"
+    },
+    {
+      "name": "uxie",
+      "url": "/pokemon/480/"
+    },
+    {
+      "name": "mesprit",
+      "url": "/pokemon/481/"
+    },
+    {
+      "name": "azelf",
+      "url": "/pokemon/482/"
+    },
+    {
+      "name": "arceus",
+      "url": "/pokemon/493/"
+    },
+    {
+      "name": "munna",
+      "url": "/pokemon/517/"
+    },
+    {
+      "name": "musharna",
+      "url": "/pokemon/518/"
+    },
+    {
+      "name": "woobat",
+      "url": "/pokemon/527/"
+    },
+    {
+      "name": "swoobat",
+      "url": "/pokemon/528/"
+    },
+    {
+      "name": "sigilyph",
+      "url": "/pokemon/561/"
+    },
+    {
+      "name": "yamask",
+      "url": "/pokemon/562/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "/pokemon/563/"
+    },
+    {
+      "name": "zorua",
+      "url": "/pokemon/570/"
+    },
+    {
+      "name": "zoroark",
+      "url": "/pokemon/571/"
+    },
+    {
+      "name": "gothita",
+      "url": "/pokemon/574/"
+    },
+    {
+      "name": "gothorita",
+      "url": "/pokemon/575/"
+    },
+    {
+      "name": "gothitelle",
+      "url": "/pokemon/576/"
+    },
+    {
+      "name": "solosis",
+      "url": "/pokemon/577/"
+    },
+    {
+      "name": "duosion",
+      "url": "/pokemon/578/"
+    },
+    {
+      "name": "reuniclus",
+      "url": "/pokemon/579/"
+    },
+    {
+      "name": "vanillite",
+      "url": "/pokemon/582/"
+    },
+    {
+      "name": "vanillish",
+      "url": "/pokemon/583/"
+    },
+    {
+      "name": "vanilluxe",
+      "url": "/pokemon/584/"
+    },
+    {
+      "name": "frillish",
+      "url": "/pokemon/592/"
+    },
+    {
+      "name": "jellicent",
+      "url": "/pokemon/593/"
+    },
+    {
+      "name": "elgyem",
+      "url": "/pokemon/605/"
+    },
+    {
+      "name": "beheeyem",
+      "url": "/pokemon/606/"
+    },
+    {
+      "name": "litwick",
+      "url": "/pokemon/607/"
+    },
+    {
+      "name": "lampent",
+      "url": "/pokemon/608/"
+    },
+    {
+      "name": "chandelure",
+      "url": "/pokemon/609/"
+    },
+    {
+      "name": "golett",
+      "url": "/pokemon/622/"
+    },
+    {
+      "name": "golurk",
+      "url": "/pokemon/623/"
+    },
+    {
+      "name": "reshiram",
+      "url": "/pokemon/643/"
+    },
+    {
+      "name": "zekrom",
+      "url": "/pokemon/644/"
+    },
+    {
+      "name": "landorus-incarnate",
+      "url": "/pokemon/645/"
+    },
+    {
+      "name": "kyurem",
+      "url": "/pokemon/646/"
+    },
+    {
+      "name": "fennekin",
+      "url": "/pokemon/653/"
+    },
+    {
+      "name": "braixen",
+      "url": "/pokemon/654/"
+    },
+    {
+      "name": "delphox",
+      "url": "/pokemon/655/"
+    },
+    {
+      "name": "meowstic-male",
+      "url": "/pokemon/678/"
+    },
+    {
+      "name": "klefki",
+      "url": "/pokemon/707/"
+    },
+    {
+      "name": "phantump",
+      "url": "/pokemon/708/"
+    },
+    {
+      "name": "trevenant",
+      "url": "/pokemon/709/"
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "/pokemon/710/"
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "/pokemon/711/"
+    },
+    {
+      "name": "decidueye",
+      "url": "/pokemon/724/"
+    },
+    {
+      "name": "cutiefly",
+      "url": "/pokemon/742/"
+    },
+    {
+      "name": "ribombee",
+      "url": "/pokemon/743/"
+    },
+    {
+      "name": "oranguru",
+      "url": "/pokemon/765/"
+    },
+    {
+      "name": "sandygast",
+      "url": "/pokemon/769/"
+    },
+    {
+      "name": "palossand",
+      "url": "/pokemon/770/"
+    },
+    {
+      "name": "type-null",
+      "url": "/pokemon/772/"
+    },
+    {
+      "name": "silvally",
+      "url": "/pokemon/773/"
+    },
+    {
+      "name": "necrozma",
+      "url": "/pokemon/800/"
+    },
+    {
+      "name": "magearna",
+      "url": "/pokemon/801/"
+    },
+    {
+      "name": "dottler",
+      "url": "/pokemon/825/"
+    },
+    {
+      "name": "orbeetle",
+      "url": "/pokemon/826/"
+    },
+    {
+      "name": "sinistea",
+      "url": "/pokemon/854/"
+    },
+    {
+      "name": "polteageist",
+      "url": "/pokemon/855/"
+    },
+    {
+      "name": "hatenna",
+      "url": "/pokemon/856/"
+    },
+    {
+      "name": "hattrem",
+      "url": "/pokemon/857/"
+    },
+    {
+      "name": "hatterene",
+      "url": "/pokemon/858/"
+    },
+    {
+      "name": "morgrem",
+      "url": "/pokemon/860/"
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "/pokemon/861/"
+    },
+    {
+      "name": "runerigus",
+      "url": "/pokemon/867/"
+    },
+    {
+      "name": "alcremie",
+      "url": "/pokemon/869/"
+    },
+    {
+      "name": "frosmoth",
+      "url": "/pokemon/873/"
+    },
+    {
+      "name": "stonjourner",
+      "url": "/pokemon/874/"
+    },
+    {
+      "name": "indeedee-male",
+      "url": "/pokemon/876/"
+    },
+    {
+      "name": "zacian",
+      "url": "/pokemon/888/"
+    },
+    {
+      "name": "zamazenta",
+      "url": "/pokemon/889/"
+    },
+    {
+      "name": "calyrex",
+      "url": "/pokemon/898/"
+    },
+    {
+      "name": "wyrdeer",
+      "url": "/pokemon/899/"
+    },
+    {
+      "name": "enamorus-incarnate",
+      "url": "/pokemon/905/"
+    },
+    {
+      "name": "skeledirge",
+      "url": "/pokemon/911/"
+    },
+    {
+      "name": "rabsca",
+      "url": "/pokemon/954/"
+    },
+    {
+      "name": "farigiraf",
+      "url": "/pokemon/981/"
+    },
+    {
+      "name": "scream-tail",
+      "url": "/pokemon/985/"
+    },
+    {
+      "name": "flutter-mane",
+      "url": "/pokemon/987/"
+    },
+    {
+      "name": "iron-valiant",
+      "url": "/pokemon/1006/"
+    },
+    {
+      "name": "iron-leaves",
+      "url": "/pokemon/1010/"
+    },
+    {
+      "name": "poltchageist",
+      "url": "/pokemon/1012/"
+    },
+    {
+      "name": "sinistcha",
+      "url": "/pokemon/1013/"
+    },
+    {
+      "name": "munkidori",
+      "url": "/pokemon/1015/"
+    },
+    {
+      "name": "pecharunt",
+      "url": "/pokemon/1025/"
+    },
+    {
+      "name": "deoxys-attack",
+      "url": "/pokemon/10001/"
+    },
+    {
+      "name": "deoxys-defense",
+      "url": "/pokemon/10002/"
+    },
+    {
+      "name": "deoxys-speed",
+      "url": "/pokemon/10003/"
+    },
+    {
+      "name": "landorus-therian",
+      "url": "/pokemon/10021/"
+    },
+    {
+      "name": "kyurem-black",
+      "url": "/pokemon/10022/"
+    },
+    {
+      "name": "kyurem-white",
+      "url": "/pokemon/10023/"
+    },
+    {
+      "name": "pumpkaboo-small",
+      "url": "/pokemon/10027/"
+    },
+    {
+      "name": "pumpkaboo-large",
+      "url": "/pokemon/10028/"
+    },
+    {
+      "name": "pumpkaboo-super",
+      "url": "/pokemon/10029/"
+    },
+    {
+      "name": "gourgeist-small",
+      "url": "/pokemon/10030/"
+    },
+    {
+      "name": "gourgeist-large",
+      "url": "/pokemon/10031/"
+    },
+    {
+      "name": "gourgeist-super",
+      "url": "/pokemon/10032/"
+    },
+    {
+      "name": "gardevoir-mega",
+      "url": "/pokemon/10051/"
+    },
+    {
+      "name": "sableye-mega",
+      "url": "/pokemon/10066/"
+    },
+    {
+      "name": "vulpix-alola",
+      "url": "/pokemon/10103/"
+    },
+    {
+      "name": "ninetales-alola",
+      "url": "/pokemon/10104/"
+    },
+    {
+      "name": "grimer-alola",
+      "url": "/pokemon/10112/"
+    },
+    {
+      "name": "muk-alola",
+      "url": "/pokemon/10113/"
+    },
+    {
+      "name": "exeggutor-alola",
+      "url": "/pokemon/10114/"
+    },
+    {
+      "name": "marowak-alola",
+      "url": "/pokemon/10115/"
+    },
+    {
+      "name": "magearna-original",
+      "url": "/pokemon/10147/"
+    },
+    {
+      "name": "necrozma-dusk",
+      "url": "/pokemon/10155/"
+    },
+    {
+      "name": "necrozma-dawn",
+      "url": "/pokemon/10156/"
+    },
+    {
+      "name": "ponyta-galar",
+      "url": "/pokemon/10162/"
+    },
+    {
+      "name": "rapidash-galar",
+      "url": "/pokemon/10163/"
+    },
+    {
+      "name": "slowpoke-galar",
+      "url": "/pokemon/10164/"
+    },
+    {
+      "name": "slowbro-galar",
+      "url": "/pokemon/10165/"
+    },
+    {
+      "name": "articuno-galar",
+      "url": "/pokemon/10169/"
+    },
+    {
+      "name": "moltres-galar",
+      "url": "/pokemon/10171/"
+    },
+    {
+      "name": "slowking-galar",
+      "url": "/pokemon/10172/"
+    },
+    {
+      "name": "yamask-galar",
+      "url": "/pokemon/10179/"
+    },
+    {
+      "name": "indeedee-female",
+      "url": "/pokemon/10186/"
+    },
+    {
+      "name": "zacian-crowned",
+      "url": "/pokemon/10188/"
+    },
+    {
+      "name": "zamazenta-crowned",
+      "url": "/pokemon/10189/"
+    },
+    {
+      "name": "calyrex-ice",
+      "url": "/pokemon/10193/"
+    },
+    {
+      "name": "calyrex-shadow",
+      "url": "/pokemon/10194/"
+    },
+    {
+      "name": "zorua-hisui",
+      "url": "/pokemon/10238/"
+    },
+    {
+      "name": "zoroark-hisui",
+      "url": "/pokemon/10239/"
+    },
+    {
+      "name": "enamorus-therian",
+      "url": "/pokemon/10249/"
+    }
+  ],
+  "machines": [
+    {
+      "machine": {
+        "url": "/machine/881/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "machine": {
+        "url": "/machine/1797/"
+      },
+      "version_group": {
+        "name": "scarlet-violet",
+        "url": "/version-group/25/"
+      }
+    }
+  ],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "unique",
+      "url": "/move-category/13/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "imprison",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ふういん"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "봉인"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "封印"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Possessif"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Begrenzer"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Sellar"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Esclusiva"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Imprison"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ふういん"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "封印"
+    }
+  ],
+  "past_values": [],
+  "power": null,
+  "pp": 10,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/20/"
+  },
+  "target": {
+    "name": "user",
+    "url": "/move-target/7/"
+  },
+  "type": {
+    "name": "psychic",
+    "url": "/type/14/"
+  }
+}

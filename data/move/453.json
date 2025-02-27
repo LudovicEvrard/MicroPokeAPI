@@ -1,0 +1,1114 @@
+{
+  "accuracy": 100,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": {
+    "name": "beauty",
+    "url": "/contest-type/2/"
+  },
+  "damage_class": {
+    "name": "physical",
+    "url": "/move-damage-class/2/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [
+    {
+      "effect": "Inflicts regular damage.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "short_effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "diamond-pearl",
+        "url": "/version-group/8/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "platinum",
+        "url": "/version-group/9/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "heartgold-soulsilver",
+        "url": "/version-group/10/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si\nrapidement qu’on parvient à peine\nà le discerner. Frappe en premier.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-white",
+        "url": "/version-group/11/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "black-2-white-2",
+        "url": "/version-group/14/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on\nparvient à peine à le discerner. Frappe toujours en\npremier.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Sehr schneller Angriff mit Erstschlaggarantie.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Ataque rápido que permite golpear en primer lugar.",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce sempre per primo e a una tale\nvelocità da rendersi quasi invisibile.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "x-y",
+        "url": "/version-group/15/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on\nparvient à peine à le discerner. Frappe toujours en\npremier.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Sehr schneller Angriff mit Erstschlaggarantie.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Ataque rápido que permite golpear en primer lugar. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce sempre per primo e a una tale\nvelocità da rendersi quasi invisibile.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "omega-ruby-alpha-sapphire",
+        "url": "/version-group/16/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之勢衝撞對手。\n必定能夠發動先制攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on\nparvient à peine à le discerner. Frappe en priorité.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Sehr schneller Angriff mit hoher Erstschlagquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Ataque de una rapidez espeluznante. Este\nmovimiento tiene prioridad alta. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce a una tale velocità da rendersi\nquasi invisibile.\nQuesta mossa ha priorità alta.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之势\n扑向对手。\n必定能够先制攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sun-moon",
+        "url": "/version-group/17/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之勢衝撞對手。\n必定能夠發動先制攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on\nparvient à peine à le discerner. Frappe en priorité.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Sehr schneller Angriff mit hoher Erstschlagquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Ataque de una rapidez espeluznante. Este\nmovimiento tiene prioridad alta. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce a una tale velocità da rendersi\nquasi invisibile.\nQuesta mossa ha priorità alta.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之势\n扑向对手。\n必定能够先制攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "ultra-sun-ultra-moon",
+        "url": "/version-group/18/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之勢衝撞對手。\n必定能夠發動先制攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on parvient\nà peine à le discerner. Frappe en priorité.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Sehr schneller Angriff mit hoher Erstschlagquote.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Ataque de una rapidez espeluznante. Este\nmovimiento tiene prioridad alta. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce a una tale velocità da rendersi\nquasi invisibile.\nQuesta mossa ha priorità alta.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之势扑向对手。\n必定能够先制攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "url": "/version-group/19/"
+      }
+    },
+    {
+      "flavor_text": "めにも　とまらぬ　ものすごい　はやさで\nあいてに　つっこむ。\nかならず　せんせい　こうげき　できる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "눈에 보이지 않는 굉장한 속도로\n상대에게 돌진한다.\n반드시 선제공격할 수 있다.",
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之勢\n撲向對手。\n必定能夠發動先制攻擊。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Le lanceur fonce sur l’ennemi si rapidement qu’on\nparvient à peine à le discerner. Frappe en priorité.",
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Bei dieser Erstschlag-Attacke stürzt sich der Anwender\nso schnell auf das Ziel, dass er quasi unsichtbar wird.",
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Ataque de una rapidez espeluznante. Este movimiento\ntiene prioridad alta. ",
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "Chi la usa colpisce a una tale velocità da rendersi\nquasi invisibile.\nQuesta mossa ha priorità alta.",
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "目にも　留まらぬ　ものすごい　速さで\n相手に　つっこむ。\n必ず　先制攻撃　できる。",
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    },
+    {
+      "flavor_text": "以迅雷不及掩耳之势\n扑向对手。\n必定能够先制攻击。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "version_group": {
+        "name": "sword-shield",
+        "url": "/version-group/20/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-iv",
+    "url": "/generation/4/"
+  },
+  "id": 453,
+  "learned_by_pokemon": [
+    {
+      "name": "squirtle",
+      "url": "/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "/pokemon/9/"
+    },
+    {
+      "name": "golduck",
+      "url": "/pokemon/55/"
+    },
+    {
+      "name": "seel",
+      "url": "/pokemon/86/"
+    },
+    {
+      "name": "dewgong",
+      "url": "/pokemon/87/"
+    },
+    {
+      "name": "kabuto",
+      "url": "/pokemon/140/"
+    },
+    {
+      "name": "kabutops",
+      "url": "/pokemon/141/"
+    },
+    {
+      "name": "dratini",
+      "url": "/pokemon/147/"
+    },
+    {
+      "name": "dragonite",
+      "url": "/pokemon/149/"
+    },
+    {
+      "name": "totodile",
+      "url": "/pokemon/158/"
+    },
+    {
+      "name": "croconaw",
+      "url": "/pokemon/159/"
+    },
+    {
+      "name": "feraligatr",
+      "url": "/pokemon/160/"
+    },
+    {
+      "name": "marill",
+      "url": "/pokemon/183/"
+    },
+    {
+      "name": "qwilfish",
+      "url": "/pokemon/211/"
+    },
+    {
+      "name": "surskit",
+      "url": "/pokemon/283/"
+    },
+    {
+      "name": "masquerain",
+      "url": "/pokemon/284/"
+    },
+    {
+      "name": "azurill",
+      "url": "/pokemon/298/"
+    },
+    {
+      "name": "carvanha",
+      "url": "/pokemon/318/"
+    },
+    {
+      "name": "sharpedo",
+      "url": "/pokemon/319/"
+    },
+    {
+      "name": "corphish",
+      "url": "/pokemon/341/"
+    },
+    {
+      "name": "crawdaunt",
+      "url": "/pokemon/342/"
+    },
+    {
+      "name": "anorith",
+      "url": "/pokemon/347/"
+    },
+    {
+      "name": "luvdisc",
+      "url": "/pokemon/370/"
+    },
+    {
+      "name": "empoleon",
+      "url": "/pokemon/395/"
+    },
+    {
+      "name": "bibarel",
+      "url": "/pokemon/400/"
+    },
+    {
+      "name": "buizel",
+      "url": "/pokemon/418/"
+    },
+    {
+      "name": "floatzel",
+      "url": "/pokemon/419/"
+    },
+    {
+      "name": "oshawott",
+      "url": "/pokemon/501/"
+    },
+    {
+      "name": "dewott",
+      "url": "/pokemon/502/"
+    },
+    {
+      "name": "samurott",
+      "url": "/pokemon/503/"
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "/pokemon/550/"
+    },
+    {
+      "name": "tirtouga",
+      "url": "/pokemon/564/"
+    },
+    {
+      "name": "carracosta",
+      "url": "/pokemon/565/"
+    },
+    {
+      "name": "ducklett",
+      "url": "/pokemon/580/"
+    },
+    {
+      "name": "swanna",
+      "url": "/pokemon/581/"
+    },
+    {
+      "name": "alomomola",
+      "url": "/pokemon/594/"
+    },
+    {
+      "name": "beartic",
+      "url": "/pokemon/614/"
+    },
+    {
+      "name": "keldeo-ordinary",
+      "url": "/pokemon/647/"
+    },
+    {
+      "name": "clauncher",
+      "url": "/pokemon/692/"
+    },
+    {
+      "name": "clawitzer",
+      "url": "/pokemon/693/"
+    },
+    {
+      "name": "popplio",
+      "url": "/pokemon/728/"
+    },
+    {
+      "name": "brionne",
+      "url": "/pokemon/729/"
+    },
+    {
+      "name": "primarina",
+      "url": "/pokemon/730/"
+    },
+    {
+      "name": "wimpod",
+      "url": "/pokemon/767/"
+    },
+    {
+      "name": "bruxish",
+      "url": "/pokemon/779/"
+    },
+    {
+      "name": "sobble",
+      "url": "/pokemon/816/"
+    },
+    {
+      "name": "drizzile",
+      "url": "/pokemon/817/"
+    },
+    {
+      "name": "inteleon",
+      "url": "/pokemon/818/"
+    },
+    {
+      "name": "arrokuda",
+      "url": "/pokemon/846/"
+    },
+    {
+      "name": "barraskewda",
+      "url": "/pokemon/847/"
+    },
+    {
+      "name": "basculegion-male",
+      "url": "/pokemon/902/"
+    },
+    {
+      "name": "quaxly",
+      "url": "/pokemon/912/"
+    },
+    {
+      "name": "quaxwell",
+      "url": "/pokemon/913/"
+    },
+    {
+      "name": "quaquaval",
+      "url": "/pokemon/914/"
+    },
+    {
+      "name": "wiglett",
+      "url": "/pokemon/960/"
+    },
+    {
+      "name": "wugtrio",
+      "url": "/pokemon/961/"
+    },
+    {
+      "name": "finizen",
+      "url": "/pokemon/963/"
+    },
+    {
+      "name": "palafin-zero",
+      "url": "/pokemon/964/"
+    },
+    {
+      "name": "veluza",
+      "url": "/pokemon/976/"
+    },
+    {
+      "name": "walking-wake",
+      "url": "/pokemon/1009/"
+    },
+    {
+      "name": "basculin-blue-striped",
+      "url": "/pokemon/10016/"
+    },
+    {
+      "name": "keldeo-resolute",
+      "url": "/pokemon/10024/"
+    },
+    {
+      "name": "blastoise-mega",
+      "url": "/pokemon/10036/"
+    },
+    {
+      "name": "sharpedo-mega",
+      "url": "/pokemon/10070/"
+    },
+    {
+      "name": "urshifu-rapid-strike",
+      "url": "/pokemon/10191/"
+    },
+    {
+      "name": "qwilfish-hisui",
+      "url": "/pokemon/10234/"
+    },
+    {
+      "name": "samurott-hisui",
+      "url": "/pokemon/10236/"
+    },
+    {
+      "name": "basculin-white-striped",
+      "url": "/pokemon/10247/"
+    },
+    {
+      "name": "basculegion-female",
+      "url": "/pokemon/10248/"
+    },
+    {
+      "name": "tauros-paldea-aqua-breed",
+      "url": "/pokemon/10252/"
+    },
+    {
+      "name": "palafin-hero",
+      "url": "/pokemon/10256/"
+    }
+  ],
+  "machines": [],
+  "meta": {
+    "ailment": {
+      "name": "none",
+      "url": "/move-ailment/0/"
+    },
+    "ailment_chance": 0,
+    "category": {
+      "name": "damage",
+      "url": "/move-category/0/"
+    },
+    "crit_rate": 0,
+    "drain": 0,
+    "flinch_chance": 0,
+    "healing": 0,
+    "max_hits": null,
+    "max_turns": null,
+    "min_hits": null,
+    "min_turns": null,
+    "stat_chance": 0
+  },
+  "name": "aqua-jet",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "アクアジェット"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "아쿠아제트"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "水流噴射"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Aqua-Jet"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Wasserdüse"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Acua Jet"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Acquagetto"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Aqua Jet"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "アクアジェット"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "水流喷射"
+    }
+  ],
+  "past_values": [],
+  "power": 40,
+  "pp": 20,
+  "priority": 1,
+  "stat_changes": [],
+  "super_contest_effect": {
+    "url": "/super-contest-effect/1/"
+  },
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "water",
+    "url": "/type/11/"
+  }
+}

@@ -1,0 +1,87 @@
+{
+    "count": 19,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "normal",
+            "url": "/type/1/"
+        },
+        {
+            "name": "fighting",
+            "url": "/type/2/"
+        },
+        {
+            "name": "flying",
+            "url": "/type/3/"
+        },
+        {
+            "name": "poison",
+            "url": "/type/4/"
+        },
+        {
+            "name": "ground",
+            "url": "/type/5/"
+        },
+        {
+            "name": "rock",
+            "url": "/type/6/"
+        },
+        {
+            "name": "bug",
+            "url": "/type/7/"
+        },
+        {
+            "name": "ghost",
+            "url": "/type/8/"
+        },
+        {
+            "name": "steel",
+            "url": "/type/9/"
+        },
+        {
+            "name": "fire",
+            "url": "/type/10/"
+        },
+        {
+            "name": "water",
+            "url": "/type/11/"
+        },
+        {
+            "name": "grass",
+            "url": "/type/12/"
+        },
+        {
+            "name": "electric",
+            "url": "/type/13/"
+        },
+        {
+            "name": "psychic",
+            "url": "/type/14/"
+        },
+        {
+            "name": "ice",
+            "url": "/type/15/"
+        },
+        {
+            "name": "dragon",
+            "url": "/type/16/"
+        },
+        {
+            "name": "dark",
+            "url": "/type/17/"
+        },
+        {
+            "name": "fairy",
+            "url": "/type/18/"
+        },
+        {
+            "name": "stellar",
+            "url": "/type/19/"
+        },
+        {
+            "name": "unknown",
+            "url": "/type/10001/"
+        }
+    ]
+}

@@ -1,0 +1,1764 @@
+{
+  "damage_relations": {
+    "double_damage_from": [
+      {
+        "name": "grass",
+        "url": "/type/12/"
+      },
+      {
+        "name": "electric",
+        "url": "/type/13/"
+      }
+    ],
+    "double_damage_to": [
+      {
+        "name": "ground",
+        "url": "/type/5/"
+      },
+      {
+        "name": "rock",
+        "url": "/type/6/"
+      },
+      {
+        "name": "fire",
+        "url": "/type/10/"
+      }
+    ],
+    "half_damage_from": [
+      {
+        "name": "steel",
+        "url": "/type/9/"
+      },
+      {
+        "name": "fire",
+        "url": "/type/10/"
+      },
+      {
+        "name": "water",
+        "url": "/type/11/"
+      },
+      {
+        "name": "ice",
+        "url": "/type/15/"
+      }
+    ],
+    "half_damage_to": [
+      {
+        "name": "water",
+        "url": "/type/11/"
+      },
+      {
+        "name": "grass",
+        "url": "/type/12/"
+      },
+      {
+        "name": "dragon",
+        "url": "/type/16/"
+      }
+    ],
+    "no_damage_from": [],
+    "no_damage_to": []
+  },
+  "game_indices": [
+    {
+      "game_index": 21,
+      "generation": {
+        "name": "generation-i",
+        "url": "/generation/1/"
+      }
+    },
+    {
+      "game_index": 21,
+      "generation": {
+        "name": "generation-ii",
+        "url": "/generation/2/"
+      }
+    },
+    {
+      "game_index": 11,
+      "generation": {
+        "name": "generation-iii",
+        "url": "/generation/3/"
+      }
+    },
+    {
+      "game_index": 11,
+      "generation": {
+        "name": "generation-iv",
+        "url": "/generation/4/"
+      }
+    },
+    {
+      "game_index": 10,
+      "generation": {
+        "name": "generation-v",
+        "url": "/generation/5/"
+      }
+    },
+    {
+      "game_index": 10,
+      "generation": {
+        "name": "generation-vi",
+        "url": "/generation/6/"
+      }
+    }
+  ],
+  "generation": {
+    "name": "generation-i",
+    "url": "/generation/1/"
+  },
+  "id": 11,
+  "move_damage_class": {
+    "name": "special",
+    "url": "/move-damage-class/3/"
+  },
+  "moves": [
+    {
+      "name": "water-gun",
+      "url": "/move/55/"
+    },
+    {
+      "name": "hydro-pump",
+      "url": "/move/56/"
+    },
+    {
+      "name": "surf",
+      "url": "/move/57/"
+    },
+    {
+      "name": "bubble-beam",
+      "url": "/move/61/"
+    },
+    {
+      "name": "withdraw",
+      "url": "/move/110/"
+    },
+    {
+      "name": "waterfall",
+      "url": "/move/127/"
+    },
+    {
+      "name": "clamp",
+      "url": "/move/128/"
+    },
+    {
+      "name": "bubble",
+      "url": "/move/145/"
+    },
+    {
+      "name": "crabhammer",
+      "url": "/move/152/"
+    },
+    {
+      "name": "octazooka",
+      "url": "/move/190/"
+    },
+    {
+      "name": "rain-dance",
+      "url": "/move/240/"
+    },
+    {
+      "name": "whirlpool",
+      "url": "/move/250/"
+    },
+    {
+      "name": "dive",
+      "url": "/move/291/"
+    },
+    {
+      "name": "hydro-cannon",
+      "url": "/move/308/"
+    },
+    {
+      "name": "water-spout",
+      "url": "/move/323/"
+    },
+    {
+      "name": "muddy-water",
+      "url": "/move/330/"
+    },
+    {
+      "name": "water-sport",
+      "url": "/move/346/"
+    },
+    {
+      "name": "water-pulse",
+      "url": "/move/352/"
+    },
+    {
+      "name": "brine",
+      "url": "/move/362/"
+    },
+    {
+      "name": "aqua-ring",
+      "url": "/move/392/"
+    },
+    {
+      "name": "aqua-tail",
+      "url": "/move/401/"
+    },
+    {
+      "name": "aqua-jet",
+      "url": "/move/453/"
+    },
+    {
+      "name": "soak",
+      "url": "/move/487/"
+    },
+    {
+      "name": "scald",
+      "url": "/move/503/"
+    },
+    {
+      "name": "water-pledge",
+      "url": "/move/518/"
+    },
+    {
+      "name": "razor-shell",
+      "url": "/move/534/"
+    },
+    {
+      "name": "steam-eruption",
+      "url": "/move/592/"
+    },
+    {
+      "name": "water-shuriken",
+      "url": "/move/594/"
+    },
+    {
+      "name": "origin-pulse",
+      "url": "/move/618/"
+    },
+    {
+      "name": "hydro-vortex--physical",
+      "url": "/move/642/"
+    },
+    {
+      "name": "hydro-vortex--special",
+      "url": "/move/643/"
+    },
+    {
+      "name": "sparkling-aria",
+      "url": "/move/664/"
+    },
+    {
+      "name": "oceanic-operetta",
+      "url": "/move/697/"
+    },
+    {
+      "name": "liquidation",
+      "url": "/move/710/"
+    },
+    {
+      "name": "splishy-splash",
+      "url": "/move/730/"
+    },
+    {
+      "name": "bouncy-bubble",
+      "url": "/move/733/"
+    },
+    {
+      "name": "snipe-shot",
+      "url": "/move/745/"
+    },
+    {
+      "name": "fishious-rend",
+      "url": "/move/755/"
+    },
+    {
+      "name": "max-geyser",
+      "url": "/move/765/"
+    },
+    {
+      "name": "life-dew",
+      "url": "/move/791/"
+    },
+    {
+      "name": "flip-turn",
+      "url": "/move/812/"
+    },
+    {
+      "name": "surging-strikes",
+      "url": "/move/818/"
+    },
+    {
+      "name": "wave-crash",
+      "url": "/move/834/"
+    },
+    {
+      "name": "jet-punch",
+      "url": "/move/857/"
+    },
+    {
+      "name": "triple-dive",
+      "url": "/move/865/"
+    },
+    {
+      "name": "aqua-step",
+      "url": "/move/872/"
+    },
+    {
+      "name": "hydro-steam",
+      "url": "/move/876/"
+    },
+    {
+      "name": "chilling-water",
+      "url": "/move/886/"
+    },
+    {
+      "name": "aqua-cutter",
+      "url": "/move/895/"
+    }
+  ],
+  "name": "water",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "みず"
+    },
+    {
+      "language": {
+        "name": "ko",
+        "url": "/language/3/"
+      },
+      "name": "물"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "水"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "/language/5/"
+      },
+      "name": "Eau"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "/language/6/"
+      },
+      "name": "Wasser"
+    },
+    {
+      "language": {
+        "name": "es",
+        "url": "/language/7/"
+      },
+      "name": "Agua"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Acqua"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Water"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "みず"
+    },
+    {
+      "language": {
+        "name": "zh-Hans",
+        "url": "/language/12/"
+      },
+      "name": "水"
+    }
+  ],
+  "past_damage_relations": [],
+  "pokemon": [
+    {
+      "pokemon": {
+        "name": "squirtle",
+        "url": "/pokemon/7/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wartortle",
+        "url": "/pokemon/8/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "blastoise",
+        "url": "/pokemon/9/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "psyduck",
+        "url": "/pokemon/54/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "golduck",
+        "url": "/pokemon/55/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "poliwag",
+        "url": "/pokemon/60/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "poliwhirl",
+        "url": "/pokemon/61/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "poliwrath",
+        "url": "/pokemon/62/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tentacool",
+        "url": "/pokemon/72/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tentacruel",
+        "url": "/pokemon/73/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "slowpoke",
+        "url": "/pokemon/79/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "slowbro",
+        "url": "/pokemon/80/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "seel",
+        "url": "/pokemon/86/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dewgong",
+        "url": "/pokemon/87/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shellder",
+        "url": "/pokemon/90/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cloyster",
+        "url": "/pokemon/91/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "krabby",
+        "url": "/pokemon/98/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kingler",
+        "url": "/pokemon/99/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "horsea",
+        "url": "/pokemon/116/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "seadra",
+        "url": "/pokemon/117/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "goldeen",
+        "url": "/pokemon/118/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "seaking",
+        "url": "/pokemon/119/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "staryu",
+        "url": "/pokemon/120/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "starmie",
+        "url": "/pokemon/121/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "magikarp",
+        "url": "/pokemon/129/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gyarados",
+        "url": "/pokemon/130/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lapras",
+        "url": "/pokemon/131/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "vaporeon",
+        "url": "/pokemon/134/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "omanyte",
+        "url": "/pokemon/138/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "omastar",
+        "url": "/pokemon/139/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "kabuto",
+        "url": "/pokemon/140/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "kabutops",
+        "url": "/pokemon/141/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "totodile",
+        "url": "/pokemon/158/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "croconaw",
+        "url": "/pokemon/159/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "feraligatr",
+        "url": "/pokemon/160/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "chinchou",
+        "url": "/pokemon/170/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lanturn",
+        "url": "/pokemon/171/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "marill",
+        "url": "/pokemon/183/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "azumarill",
+        "url": "/pokemon/184/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "politoed",
+        "url": "/pokemon/186/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wooper",
+        "url": "/pokemon/194/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "quagsire",
+        "url": "/pokemon/195/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "slowking",
+        "url": "/pokemon/199/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "qwilfish",
+        "url": "/pokemon/211/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "corsola",
+        "url": "/pokemon/222/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "remoraid",
+        "url": "/pokemon/223/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "octillery",
+        "url": "/pokemon/224/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "mantine",
+        "url": "/pokemon/226/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kingdra",
+        "url": "/pokemon/230/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "suicune",
+        "url": "/pokemon/245/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "mudkip",
+        "url": "/pokemon/258/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "marshtomp",
+        "url": "/pokemon/259/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "swampert",
+        "url": "/pokemon/260/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lotad",
+        "url": "/pokemon/270/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lombre",
+        "url": "/pokemon/271/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ludicolo",
+        "url": "/pokemon/272/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wingull",
+        "url": "/pokemon/278/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "pelipper",
+        "url": "/pokemon/279/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "surskit",
+        "url": "/pokemon/283/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "carvanha",
+        "url": "/pokemon/318/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sharpedo",
+        "url": "/pokemon/319/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wailmer",
+        "url": "/pokemon/320/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wailord",
+        "url": "/pokemon/321/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "barboach",
+        "url": "/pokemon/339/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "whiscash",
+        "url": "/pokemon/340/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "corphish",
+        "url": "/pokemon/341/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "crawdaunt",
+        "url": "/pokemon/342/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "feebas",
+        "url": "/pokemon/349/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "milotic",
+        "url": "/pokemon/350/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "spheal",
+        "url": "/pokemon/363/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "sealeo",
+        "url": "/pokemon/364/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "walrein",
+        "url": "/pokemon/365/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "clamperl",
+        "url": "/pokemon/366/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "huntail",
+        "url": "/pokemon/367/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gorebyss",
+        "url": "/pokemon/368/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "relicanth",
+        "url": "/pokemon/369/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "luvdisc",
+        "url": "/pokemon/370/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kyogre",
+        "url": "/pokemon/382/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "piplup",
+        "url": "/pokemon/393/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "prinplup",
+        "url": "/pokemon/394/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "empoleon",
+        "url": "/pokemon/395/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bibarel",
+        "url": "/pokemon/400/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "buizel",
+        "url": "/pokemon/418/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "floatzel",
+        "url": "/pokemon/419/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "shellos",
+        "url": "/pokemon/422/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gastrodon",
+        "url": "/pokemon/423/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "finneon",
+        "url": "/pokemon/456/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lumineon",
+        "url": "/pokemon/457/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "mantyke",
+        "url": "/pokemon/458/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "palkia",
+        "url": "/pokemon/484/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "phione",
+        "url": "/pokemon/489/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "manaphy",
+        "url": "/pokemon/490/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "oshawott",
+        "url": "/pokemon/501/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dewott",
+        "url": "/pokemon/502/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "samurott",
+        "url": "/pokemon/503/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "panpour",
+        "url": "/pokemon/515/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "simipour",
+        "url": "/pokemon/516/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tympole",
+        "url": "/pokemon/535/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "palpitoad",
+        "url": "/pokemon/536/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "seismitoad",
+        "url": "/pokemon/537/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "basculin-red-striped",
+        "url": "/pokemon/550/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tirtouga",
+        "url": "/pokemon/564/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "carracosta",
+        "url": "/pokemon/565/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "ducklett",
+        "url": "/pokemon/580/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "swanna",
+        "url": "/pokemon/581/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "frillish",
+        "url": "/pokemon/592/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "jellicent",
+        "url": "/pokemon/593/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "alomomola",
+        "url": "/pokemon/594/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "keldeo-ordinary",
+        "url": "/pokemon/647/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "froakie",
+        "url": "/pokemon/656/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "frogadier",
+        "url": "/pokemon/657/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "greninja",
+        "url": "/pokemon/658/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "binacle",
+        "url": "/pokemon/688/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "barbaracle",
+        "url": "/pokemon/689/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "skrelp",
+        "url": "/pokemon/690/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "clauncher",
+        "url": "/pokemon/692/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "clawitzer",
+        "url": "/pokemon/693/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "volcanion",
+        "url": "/pokemon/721/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "popplio",
+        "url": "/pokemon/728/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "brionne",
+        "url": "/pokemon/729/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "primarina",
+        "url": "/pokemon/730/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wishiwashi-solo",
+        "url": "/pokemon/746/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "mareanie",
+        "url": "/pokemon/747/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "toxapex",
+        "url": "/pokemon/748/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "dewpider",
+        "url": "/pokemon/751/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "araquanid",
+        "url": "/pokemon/752/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wimpod",
+        "url": "/pokemon/767/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "golisopod",
+        "url": "/pokemon/768/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "pyukumuku",
+        "url": "/pokemon/771/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "bruxish",
+        "url": "/pokemon/779/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tapu-fini",
+        "url": "/pokemon/788/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sobble",
+        "url": "/pokemon/816/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "drizzile",
+        "url": "/pokemon/817/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "inteleon",
+        "url": "/pokemon/818/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "chewtle",
+        "url": "/pokemon/833/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "drednaw",
+        "url": "/pokemon/834/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cramorant",
+        "url": "/pokemon/845/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "arrokuda",
+        "url": "/pokemon/846/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "barraskewda",
+        "url": "/pokemon/847/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dracovish",
+        "url": "/pokemon/882/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "arctovish",
+        "url": "/pokemon/883/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "basculegion-male",
+        "url": "/pokemon/902/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "quaxly",
+        "url": "/pokemon/912/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "quaxwell",
+        "url": "/pokemon/913/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "quaquaval",
+        "url": "/pokemon/914/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wiglett",
+        "url": "/pokemon/960/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wugtrio",
+        "url": "/pokemon/961/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "finizen",
+        "url": "/pokemon/963/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "palafin-zero",
+        "url": "/pokemon/964/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "veluza",
+        "url": "/pokemon/976/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "dondozo",
+        "url": "/pokemon/977/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tatsugiri-curly",
+        "url": "/pokemon/978/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "iron-bundle",
+        "url": "/pokemon/991/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "walking-wake",
+        "url": "/pokemon/1009/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "rotom-wash",
+        "url": "/pokemon/10009/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "castform-rainy",
+        "url": "/pokemon/10014/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "basculin-blue-striped",
+        "url": "/pokemon/10016/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "keldeo-resolute",
+        "url": "/pokemon/10024/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "blastoise-mega",
+        "url": "/pokemon/10036/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "gyarados-mega",
+        "url": "/pokemon/10041/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "swampert-mega",
+        "url": "/pokemon/10064/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "sharpedo-mega",
+        "url": "/pokemon/10070/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "slowbro-mega",
+        "url": "/pokemon/10071/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kyogre-primal",
+        "url": "/pokemon/10077/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "greninja-battle-bond",
+        "url": "/pokemon/10116/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "greninja-ash",
+        "url": "/pokemon/10117/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "wishiwashi-school",
+        "url": "/pokemon/10127/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "araquanid-totem",
+        "url": "/pokemon/10153/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "cramorant-gulping",
+        "url": "/pokemon/10182/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "cramorant-gorging",
+        "url": "/pokemon/10183/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "urshifu-rapid-strike",
+        "url": "/pokemon/10191/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "blastoise-gmax",
+        "url": "/pokemon/10197/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "kingler-gmax",
+        "url": "/pokemon/10203/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "lapras-gmax",
+        "url": "/pokemon/10204/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "inteleon-gmax",
+        "url": "/pokemon/10211/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "drednaw-gmax",
+        "url": "/pokemon/10214/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "urshifu-rapid-strike-gmax",
+        "url": "/pokemon/10227/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "samurott-hisui",
+        "url": "/pokemon/10236/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "palkia-origin",
+        "url": "/pokemon/10246/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "basculin-white-striped",
+        "url": "/pokemon/10247/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "basculegion-female",
+        "url": "/pokemon/10248/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tauros-paldea-aqua-breed",
+        "url": "/pokemon/10252/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "palafin-hero",
+        "url": "/pokemon/10256/"
+      },
+      "slot": 1
+    },
+    {
+      "pokemon": {
+        "name": "tatsugiri-droopy",
+        "url": "/pokemon/10258/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "tatsugiri-stretchy",
+        "url": "/pokemon/10259/"
+      },
+      "slot": 2
+    },
+    {
+      "pokemon": {
+        "name": "ogerpon-wellspring-mask",
+        "url": "/pokemon/10273/"
+      },
+      "slot": 2
+    }
+  ],
+  "sprites": {
+    "generation-iii": {
+      "colosseum": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/colosseum/11.png"
+      },
+      "emerald": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/11.png"
+      },
+      "firered-leafgreen": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/firered-leafgreen/11.png"
+      },
+      "ruby-saphire": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/ruby-saphire/11.png"
+      },
+      "xd": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/xd/11.png"
+      }
+    },
+    "generation-iv": {
+      "diamond-pearl": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/diamond-pearl/11.png"
+      },
+      "heartgold-soulsilver": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/heartgold-soulsilver/11.png"
+      },
+      "platinum": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iv/platinum/11.png"
+      }
+    },
+    "generation-ix": {
+      "scarlet-violet": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/11.png"
+      }
+    },
+    "generation-v": {
+      "black-2-white-2": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-v/black-2-white-2/11.png"
+      },
+      "black-white": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-v/black-white/11.png"
+      }
+    },
+    "generation-vi": {
+      "omega-ruby-alpha-sapphire": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/omega-ruby-alpha-sapphire/11.png"
+      },
+      "x-y": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/x-y/11.png"
+      }
+    },
+    "generation-vii": {
+      "lets-go-pikachu-lets-go-eevee": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/11.png"
+      },
+      "sun-moon": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/sun-moon/11.png"
+      },
+      "ultra-sun-ultra-moon": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/ultra-sun-ultra-moon/11.png"
+      }
+    },
+    "generation-viii": {
+      "brilliant-diamond-and-shining-pearl": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/brilliant-diamond-and-shining-pearl/11.png"
+      },
+      "legends-arceus": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/legends-arceus/11.png"
+      },
+      "sword-shield": {
+        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/11.png"
+      }
+    }
+  }
+}

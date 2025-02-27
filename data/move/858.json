@@ -1,0 +1,79 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [],
+  "generation": {
+    "name": "generation-ix",
+    "url": "/generation/9/"
+  },
+  "id": 858,
+  "learned_by_pokemon": [
+    {
+      "name": "scovillain",
+      "url": "/pokemon/952/"
+    }
+  ],
+  "machines": [],
+  "meta": null,
+  "name": "spicy-extract",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "ハバネロエキス"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "辣椒精华"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Essenza Piccante"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Spicy Extract"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "ハバネロエキス"
+    }
+  ],
+  "past_values": [],
+  "power": 0,
+  "pp": 15,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "selected-pokemon",
+    "url": "/move-target/10/"
+  },
+  "type": {
+    "name": "grass",
+    "url": "/type/12/"
+  }
+}

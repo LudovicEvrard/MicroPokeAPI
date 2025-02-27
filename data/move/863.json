@@ -1,0 +1,83 @@
+{
+  "accuracy": null,
+  "contest_combos": null,
+  "contest_effect": null,
+  "contest_type": null,
+  "damage_class": {
+    "name": "status",
+    "url": "/move-damage-class/1/"
+  },
+  "effect_chance": null,
+  "effect_changes": [],
+  "effect_entries": [],
+  "flavor_text_entries": [],
+  "generation": {
+    "name": "generation-ix",
+    "url": "/generation/9/"
+  },
+  "id": 863,
+  "learned_by_pokemon": [
+    {
+      "name": "pawmot",
+      "url": "/pokemon/923/"
+    },
+    {
+      "name": "rabsca",
+      "url": "/pokemon/954/"
+    }
+  ],
+  "machines": [],
+  "meta": null,
+  "name": "revival-blessing",
+  "names": [
+    {
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "/language/1/"
+      },
+      "name": "さいきのいのり"
+    },
+    {
+      "language": {
+        "name": "zh-Hant",
+        "url": "/language/4/"
+      },
+      "name": "复生祈祷"
+    },
+    {
+      "language": {
+        "name": "it",
+        "url": "/language/8/"
+      },
+      "name": "Preghiera Vitale"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "/language/9/"
+      },
+      "name": "Revival Blessing"
+    },
+    {
+      "language": {
+        "name": "ja",
+        "url": "/language/11/"
+      },
+      "name": "さいきのいのり"
+    }
+  ],
+  "past_values": [],
+  "power": 0,
+  "pp": 1,
+  "priority": 0,
+  "stat_changes": [],
+  "super_contest_effect": null,
+  "target": {
+    "name": "fainting-pokemon",
+    "url": "/move-target/16/"
+  },
+  "type": {
+    "name": "normal",
+    "url": "/type/1/"
+  }
+}
